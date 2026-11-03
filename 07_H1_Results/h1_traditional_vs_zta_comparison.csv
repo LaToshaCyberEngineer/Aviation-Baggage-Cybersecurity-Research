@@ -1,0 +1,11 @@
+Measure,Traditional Rule,Zero Trust
+True Positives,825.0,1275.0
+True Negatives,30225.0,30225.0
+False Positives,0.0,0.0
+False Negatives,525.0,75.0
+Accuracy,0.9833729216152018,0.997624703087886
+Precision,1.0,1.0
+Recall,0.6111111111111112,0.9444444444444444
+F1 Score,0.7586206896551724,0.9714285714285714
+False Positive Rate,0.0,0.0
+False Negative Rate,0.3888888888888889,0.05555555555555555

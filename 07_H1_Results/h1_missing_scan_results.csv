@@ -1,0 +1,5001 @@
+bag_id,route_type,missing_custody_detected,missing_custody_points,journey_abnormal_type,actual_missing_scan
+BAG0001,Direct,False,,Delayed,False
+BAG0002,Direct,False,,,False
+BAG0003,Direct,False,,Delayed,False
+BAG0004,Direct,False,,Spoofed Reader,False
+BAG0005,Direct,False,,,False
+BAG0006,Direct,False,,Duplicate,False
+BAG0007,Direct,False,,Spoofed Reader,False
+BAG0008,Direct,False,,Spoofed Reader,False
+BAG0009,Transfer,False,,Spoofed Reader,False
+BAG0010,Direct,False,,Out of Sequence,False
+BAG0011,Direct,False,,Duplicate,False
+BAG0012,Direct,False,,,False
+BAG0013,Transfer,False,,,False
+BAG0014,Direct,False,,,False
+BAG0015,Transfer,False,,Spoofed Reader,False
+BAG0016,Direct,False,,,False
+BAG0017,Direct,False,,,False
+BAG0018,Transfer,False,,,False
+BAG0019,Direct,False,,,False
+BAG0020,Transfer,False,,Duplicate,False
+BAG0021,Direct,False,,,False
+BAG0022,Direct,False,,Out of Sequence,False
+BAG0023,Direct,False,,Delayed,False
+BAG0024,Transfer,False,,Invalid Location,False
+BAG0025,Direct,False,,,False
+BAG0026,Direct,False,,,False
+BAG0027,Transfer,False,,,False
+BAG0028,Direct,False,,,False
+BAG0029,Direct,False,,,False
+BAG0030,Transfer,False,,Duplicate,False
+BAG0031,Transfer,False,,,False
+BAG0032,Transfer,True,Arrival,Missing Scan,True
+BAG0033,Transfer,False,,Spoofed Reader,False
+BAG0034,Transfer,False,,Invalid Location,False
+BAG0035,Direct,False,,,False
+BAG0036,Direct,True,Acceptance,Missing Scan,True
+BAG0037,Direct,True,Claim,Missing Scan,True
+BAG0038,Direct,False,,,False
+BAG0039,Direct,False,,Denial of Service,False
+BAG0040,Direct,False,,Invalid Location,False
+BAG0041,Direct,False,,,False
+BAG0042,Direct,False,,,False
+BAG0043,Direct,False,,Spoofed Reader,False
+BAG0044,Transfer,True,Sorting,Missing Scan,True
+BAG0045,Direct,False,,,False
+BAG0046,Transfer,False,,,False
+BAG0047,Direct,False,,,False
+BAG0048,Transfer,False,,Spoofed Reader,False
+BAG0049,Direct,False,,,False
+BAG0050,Direct,False,,Invalid Location,False
+BAG0051,Direct,False,,Spoofed Reader,False
+BAG0052,Transfer,False,,,False
+BAG0053,Transfer,False,,,False
+BAG0054,Direct,False,,Spoofed Reader,False
+BAG0055,Direct,False,,,False
+BAG0056,Direct,False,,,False
+BAG0057,Direct,False,,,False
+BAG0058,Direct,False,,,False
+BAG0059,Direct,False,,,False
+BAG0060,Direct,False,,,False
+BAG0061,Direct,False,,,False
+BAG0062,Transfer,False,,,False
+BAG0063,Direct,False,,Invalid Location,False
+BAG0064,Direct,False,,,False
+BAG0065,Direct,False,,,False
+BAG0066,Transfer,False,,,False
+BAG0067,Direct,False,,,False
+BAG0068,Direct,False,,,False
+BAG0069,Transfer,False,,,False
+BAG0070,Transfer,False,,,False
+BAG0071,Transfer,False,,,False
+BAG0072,Direct,False,,,False
+BAG0073,Direct,False,,,False
+BAG0074,Transfer,False,,,False
+BAG0075,Direct,False,,,False
+BAG0076,Direct,False,,,False
+BAG0077,Direct,False,,Spoofed Reader,False
+BAG0078,Direct,False,,,False
+BAG0079,Direct,False,,,False
+BAG0080,Transfer,False,,,False
+BAG0081,Transfer,False,,Spoofed Reader,False
+BAG0082,Direct,False,,,False
+BAG0083,Direct,False,,,False
+BAG0084,Direct,False,,,False
+BAG0085,Transfer,False,,,False
+BAG0086,Direct,False,,,False
+BAG0087,Direct,False,,,False
+BAG0088,Direct,False,,,False
+BAG0089,Transfer,False,,Spoofed Reader,False
+BAG0090,Direct,False,,,False
+BAG0091,Transfer,False,,,False
+BAG0092,Direct,False,,,False
+BAG0093,Direct,False,,Duplicate,False
+BAG0094,Transfer,False,,Spoofed Reader,False
+BAG0095,Direct,False,,Out of Sequence,False
+BAG0096,Transfer,False,,Invalid Location,False
+BAG0097,Transfer,True,Acceptance,Missing Scan,True
+BAG0098,Direct,True,Loading,Missing Scan,True
+BAG0099,Direct,False,,,False
+BAG0100,Transfer,False,,,False
+BAG0101,Transfer,False,,,False
+BAG0102,Direct,False,,Spoofed Reader,False
+BAG0103,Direct,False,,,False
+BAG0104,Direct,False,,Delayed,False
+BAG0105,Direct,False,,,False
+BAG0106,Direct,False,,,False
+BAG0107,Transfer,True,Acceptance,Missing Scan,True
+BAG0108,Direct,False,,Spoofed Reader,False
+BAG0109,Direct,False,,Duplicate,False
+BAG0110,Transfer,False,,,False
+BAG0111,Direct,False,,,False
+BAG0112,Transfer,False,,,False
+BAG0113,Direct,True,Loading,Missing Scan,True
+BAG0114,Transfer,False,,Spoofed Reader,False
+BAG0115,Direct,False,,,False
+BAG0116,Direct,False,,,False
+BAG0117,Direct,False,,,False
+BAG0118,Direct,False,,,False
+BAG0119,Direct,False,,,False
+BAG0120,Direct,False,,Duplicate,False
+BAG0121,Transfer,False,,,False
+BAG0122,Direct,False,,,False
+BAG0123,Transfer,False,,,False
+BAG0124,Direct,False,,Invalid Location,False
+BAG0125,Direct,False,,,False
+BAG0126,Direct,False,,,False
+BAG0127,Direct,False,,,False
+BAG0128,Direct,False,,Delayed,False
+BAG0129,Direct,False,,,False
+BAG0130,Direct,False,,,False
+BAG0131,Direct,False,,,False
+BAG0132,Direct,False,,Out of Sequence,False
+BAG0133,Transfer,False,,,False
+BAG0134,Direct,False,,Delayed,False
+BAG0135,Transfer,False,,,False
+BAG0136,Transfer,False,,Delayed,False
+BAG0137,Direct,False,,,False
+BAG0138,Direct,False,,Duplicate,False
+BAG0139,Direct,False,,,False
+BAG0140,Transfer,False,,,False
+BAG0141,Direct,False,,,False
+BAG0142,Direct,False,,Duplicate,False
+BAG0143,Direct,False,,,False
+BAG0144,Direct,False,,,False
+BAG0145,Transfer,False,,Spoofed Reader,False
+BAG0146,Direct,False,,,False
+BAG0147,Direct,False,,Invalid Location,False
+BAG0148,Direct,False,,,False
+BAG0149,Direct,False,,,False
+BAG0150,Transfer,False,,,False
+BAG0151,Transfer,False,,Duplicate,False
+BAG0152,Transfer,False,,,False
+BAG0153,Transfer,False,,,False
+BAG0154,Direct,False,,,False
+BAG0155,Direct,False,,,False
+BAG0156,Direct,False,,,False
+BAG0157,Transfer,False,,,False
+BAG0158,Transfer,False,,,False
+BAG0159,Direct,False,,,False
+BAG0160,Direct,False,,Denial of Service,False
+BAG0161,Direct,False,,Invalid Location,False
+BAG0162,Direct,False,,Invalid Location,False
+BAG0163,Direct,False,,,False
+BAG0164,Direct,False,,Spoofed Reader,False
+BAG0165,Direct,False,,,False
+BAG0166,Direct,False,,,False
+BAG0167,Transfer,False,,,False
+BAG0168,Direct,False,,,False
+BAG0169,Transfer,False,,,False
+BAG0170,Direct,False,,Spoofed Reader,False
+BAG0171,Transfer,False,,,False
+BAG0172,Direct,False,,,False
+BAG0173,Direct,False,,,False
+BAG0174,Direct,False,,Duplicate,False
+BAG0175,Transfer,False,,Denial of Service,False
+BAG0176,Transfer,False,,,False
+BAG0177,Direct,False,,,False
+BAG0178,Transfer,False,,,False
+BAG0179,Direct,False,,,False
+BAG0180,Transfer,False,,,False
+BAG0181,Transfer,False,,,False
+BAG0182,Direct,False,,,False
+BAG0183,Direct,False,,Spoofed Reader,False
+BAG0184,Transfer,False,,,False
+BAG0185,Transfer,False,,,False
+BAG0186,Direct,False,,,False
+BAG0187,Direct,False,,,False
+BAG0188,Direct,False,,Spoofed Reader,False
+BAG0189,Transfer,False,,,False
+BAG0190,Direct,False,,Duplicate,False
+BAG0191,Direct,False,,,False
+BAG0192,Transfer,False,,,False
+BAG0193,Transfer,False,,,False
+BAG0194,Direct,False,,,False
+BAG0195,Direct,False,,,False
+BAG0196,Transfer,True,Screening,Missing Scan,True
+BAG0197,Transfer,False,,,False
+BAG0198,Direct,False,,,False
+BAG0199,Transfer,False,,,False
+BAG0200,Transfer,False,,,False
+BAG0201,Direct,False,,Out of Sequence,False
+BAG0202,Direct,True,Claim,Missing Scan,True
+BAG0203,Direct,False,,Spoofed Reader,False
+BAG0204,Transfer,False,,,False
+BAG0205,Direct,False,,Out of Sequence,False
+BAG0206,Transfer,False,,Out of Sequence,False
+BAG0207,Direct,False,,,False
+BAG0208,Direct,False,,,False
+BAG0209,Transfer,False,,,False
+BAG0210,Direct,False,,,False
+BAG0211,Transfer,False,,Invalid Location,False
+BAG0212,Transfer,False,,,False
+BAG0213,Direct,False,,Spoofed Reader,False
+BAG0214,Direct,False,,,False
+BAG0215,Transfer,False,,,False
+BAG0216,Direct,False,,,False
+BAG0217,Direct,False,,,False
+BAG0218,Transfer,False,,Spoofed Reader,False
+BAG0219,Transfer,False,,,False
+BAG0220,Transfer,False,,,False
+BAG0221,Transfer,False,,,False
+BAG0222,Transfer,False,,,False
+BAG0223,Direct,False,,Duplicate,False
+BAG0224,Direct,False,,,False
+BAG0225,Direct,False,,,False
+BAG0226,Direct,False,,,False
+BAG0227,Direct,False,,,False
+BAG0228,Transfer,False,,,False
+BAG0229,Transfer,False,,,False
+BAG0230,Transfer,False,,,False
+BAG0231,Transfer,False,,,False
+BAG0232,Direct,False,,,False
+BAG0233,Direct,False,,,False
+BAG0234,Transfer,False,,Duplicate,False
+BAG0235,Direct,False,,Out of Sequence,False
+BAG0236,Direct,False,,Spoofed Reader,False
+BAG0237,Direct,False,,,False
+BAG0238,Direct,False,,,False
+BAG0239,Transfer,False,,,False
+BAG0240,Transfer,False,,Out of Sequence,False
+BAG0241,Transfer,False,,,False
+BAG0242,Direct,False,,,False
+BAG0243,Direct,False,,,False
+BAG0244,Direct,False,,,False
+BAG0245,Direct,False,,,False
+BAG0246,Direct,False,,Invalid Location,False
+BAG0247,Direct,False,,,False
+BAG0248,Transfer,False,,,False
+BAG0249,Transfer,False,,Invalid Location,False
+BAG0250,Direct,False,,,False
+BAG0251,Direct,False,,,False
+BAG0252,Transfer,False,,Invalid Location,False
+BAG0253,Transfer,False,,Spoofed Reader,False
+BAG0254,Direct,False,,,False
+BAG0255,Transfer,False,,,False
+BAG0256,Direct,False,,,False
+BAG0257,Direct,False,,,False
+BAG0258,Direct,False,,,False
+BAG0259,Direct,False,,,False
+BAG0260,Transfer,False,,Denial of Service,False
+BAG0261,Direct,False,,,False
+BAG0262,Direct,False,,,False
+BAG0263,Direct,False,,,False
+BAG0264,Direct,False,,Duplicate,False
+BAG0265,Direct,False,,,False
+BAG0266,Direct,False,,Delayed,False
+BAG0267,Direct,False,,,False
+BAG0268,Direct,False,,Delayed,False
+BAG0269,Direct,False,,,False
+BAG0270,Direct,False,,,False
+BAG0271,Transfer,False,,,False
+BAG0272,Direct,False,,,False
+BAG0273,Direct,False,,,False
+BAG0274,Direct,False,,,False
+BAG0275,Transfer,False,,Duplicate,False
+BAG0276,Direct,False,,,False
+BAG0277,Direct,False,,,False
+BAG0278,Direct,False,,,False
+BAG0279,Transfer,False,,Spoofed Reader,False
+BAG0280,Transfer,False,,,False
+BAG0281,Direct,False,,,False
+BAG0282,Direct,False,,,False
+BAG0283,Direct,False,,,False
+BAG0284,Transfer,False,,,False
+BAG0285,Direct,False,,,False
+BAG0286,Direct,False,,Spoofed Reader,False
+BAG0287,Direct,False,,Invalid Location,False
+BAG0288,Transfer,False,,,False
+BAG0289,Direct,False,,,False
+BAG0290,Transfer,False,,Delayed,False
+BAG0291,Transfer,False,,Duplicate,False
+BAG0292,Transfer,True,Sorting,Missing Scan,True
+BAG0293,Direct,False,,Out of Sequence,False
+BAG0294,Transfer,False,,Delayed,False
+BAG0295,Direct,False,,,False
+BAG0296,Direct,False,,,False
+BAG0297,Transfer,False,,,False
+BAG0298,Transfer,False,,,False
+BAG0299,Transfer,False,,,False
+BAG0300,Direct,False,,Delayed,False
+BAG0301,Direct,False,,,False
+BAG0302,Direct,False,,,False
+BAG0303,Direct,False,,Spoofed Reader,False
+BAG0304,Direct,False,,Delayed,False
+BAG0305,Direct,False,,Out of Sequence,False
+BAG0306,Transfer,False,,,False
+BAG0307,Direct,False,,,False
+BAG0308,Direct,False,,,False
+BAG0309,Transfer,False,,,False
+BAG0310,Transfer,False,,,False
+BAG0311,Direct,False,,,False
+BAG0312,Direct,False,,Out of Sequence,False
+BAG0313,Direct,False,,,False
+BAG0314,Direct,False,,,False
+BAG0315,Transfer,False,,,False
+BAG0316,Transfer,False,,Out of Sequence,False
+BAG0317,Direct,False,,Spoofed Reader,False
+BAG0318,Direct,False,,,False
+BAG0319,Transfer,False,,Delayed,False
+BAG0320,Direct,False,,,False
+BAG0321,Direct,False,,,False
+BAG0322,Transfer,False,,Spoofed Reader,False
+BAG0323,Transfer,False,,,False
+BAG0324,Direct,False,,Invalid Location,False
+BAG0325,Direct,False,,,False
+BAG0326,Transfer,False,,,False
+BAG0327,Direct,False,,,False
+BAG0328,Direct,False,,,False
+BAG0329,Transfer,False,,,False
+BAG0330,Direct,False,,,False
+BAG0331,Transfer,False,,Delayed,False
+BAG0332,Direct,False,,,False
+BAG0333,Transfer,False,,,False
+BAG0334,Transfer,False,,Delayed,False
+BAG0335,Direct,False,,Duplicate,False
+BAG0336,Direct,False,,Out of Sequence,False
+BAG0337,Direct,False,,Duplicate,False
+BAG0338,Direct,False,,,False
+BAG0339,Direct,False,,Duplicate,False
+BAG0340,Direct,False,,,False
+BAG0341,Direct,False,,,False
+BAG0342,Direct,False,,Delayed,False
+BAG0343,Direct,False,,,False
+BAG0344,Direct,False,,,False
+BAG0345,Direct,False,,,False
+BAG0346,Direct,False,,Denial of Service,False
+BAG0347,Direct,False,,Spoofed Reader,False
+BAG0348,Direct,False,,Spoofed Reader,False
+BAG0349,Direct,False,,,False
+BAG0350,Direct,False,,Duplicate,False
+BAG0351,Transfer,False,,,False
+BAG0352,Transfer,False,,,False
+BAG0353,Direct,False,,Spoofed Reader,False
+BAG0354,Transfer,False,,Delayed,False
+BAG0355,Transfer,False,,,False
+BAG0356,Direct,False,,,False
+BAG0357,Transfer,False,,,False
+BAG0358,Direct,False,,,False
+BAG0359,Direct,False,,Spoofed Reader,False
+BAG0360,Direct,False,,,False
+BAG0361,Transfer,False,,Invalid Location,False
+BAG0362,Direct,False,,,False
+BAG0363,Direct,False,,Spoofed Reader,False
+BAG0364,Direct,False,,,False
+BAG0365,Direct,False,,,False
+BAG0366,Direct,False,,,False
+BAG0367,Transfer,False,,,False
+BAG0368,Transfer,True,Claim,Missing Scan,True
+BAG0369,Direct,True,Loading,Missing Scan,True
+BAG0370,Direct,False,,Invalid Location,False
+BAG0371,Direct,False,,,False
+BAG0372,Transfer,False,,,False
+BAG0373,Direct,False,,,False
+BAG0374,Transfer,False,,Out of Sequence,False
+BAG0375,Direct,False,,Spoofed Reader,False
+BAG0376,Direct,False,,,False
+BAG0377,Transfer,True,Screening,Missing Scan,True
+BAG0378,Direct,False,,,False
+BAG0379,Transfer,False,,,False
+BAG0380,Direct,False,,,False
+BAG0381,Direct,False,,,False
+BAG0382,Direct,False,,Spoofed Reader,False
+BAG0383,Direct,False,,,False
+BAG0384,Direct,False,,,False
+BAG0385,Direct,False,,Duplicate,False
+BAG0386,Direct,False,,,False
+BAG0387,Direct,False,,,False
+BAG0388,Transfer,False,,,False
+BAG0389,Direct,False,,Delayed,False
+BAG0390,Direct,False,,Out of Sequence,False
+BAG0391,Direct,False,,,False
+BAG0392,Direct,False,,,False
+BAG0393,Direct,False,,,False
+BAG0394,Transfer,False,,Out of Sequence,False
+BAG0395,Direct,False,,,False
+BAG0396,Direct,False,,,False
+BAG0397,Direct,False,,,False
+BAG0398,Direct,False,,,False
+BAG0399,Direct,False,,Out of Sequence,False
+BAG0400,Direct,False,,Invalid Location,False
+BAG0401,Direct,False,,,False
+BAG0402,Direct,False,,,False
+BAG0403,Transfer,False,,,False
+BAG0404,Direct,False,,,False
+BAG0405,Direct,False,,,False
+BAG0406,Direct,False,,Invalid Location,False
+BAG0407,Direct,False,,,False
+BAG0408,Direct,False,,,False
+BAG0409,Transfer,False,,Invalid Location,False
+BAG0410,Direct,False,,,False
+BAG0411,Transfer,False,,Spoofed Reader,False
+BAG0412,Direct,False,,,False
+BAG0413,Direct,True,Loading,Missing Scan,True
+BAG0414,Direct,False,,,False
+BAG0415,Transfer,False,,,False
+BAG0416,Transfer,False,,,False
+BAG0417,Transfer,False,,Delayed,False
+BAG0418,Direct,False,,,False
+BAG0419,Direct,False,,,False
+BAG0420,Direct,False,,,False
+BAG0421,Direct,False,,,False
+BAG0422,Direct,False,,,False
+BAG0423,Transfer,False,,,False
+BAG0424,Direct,False,,,False
+BAG0425,Direct,False,,Spoofed Reader,False
+BAG0426,Direct,False,,,False
+BAG0427,Transfer,False,,,False
+BAG0428,Direct,False,,,False
+BAG0429,Direct,False,,,False
+BAG0430,Transfer,False,,,False
+BAG0431,Direct,False,,,False
+BAG0432,Direct,False,,Invalid Location,False
+BAG0433,Transfer,False,,,False
+BAG0434,Transfer,False,,,False
+BAG0435,Direct,False,,,False
+BAG0436,Direct,False,,,False
+BAG0437,Transfer,False,,,False
+BAG0438,Direct,False,,,False
+BAG0439,Transfer,False,,,False
+BAG0440,Direct,False,,Out of Sequence,False
+BAG0441,Direct,False,,Delayed,False
+BAG0442,Direct,False,,,False
+BAG0443,Direct,False,,,False
+BAG0444,Transfer,False,,,False
+BAG0445,Direct,False,,,False
+BAG0446,Transfer,False,,,False
+BAG0447,Direct,False,,,False
+BAG0448,Direct,False,,Delayed,False
+BAG0449,Direct,False,,Invalid Location,False
+BAG0450,Direct,False,,,False
+BAG0451,Transfer,False,,Duplicate,False
+BAG0452,Direct,False,,Out of Sequence,False
+BAG0453,Transfer,False,,,False
+BAG0454,Direct,False,,,False
+BAG0455,Direct,False,,,False
+BAG0456,Direct,False,,,False
+BAG0457,Direct,False,,Delayed,False
+BAG0458,Transfer,False,,Out of Sequence,False
+BAG0459,Direct,False,,,False
+BAG0460,Direct,False,,,False
+BAG0461,Direct,False,,,False
+BAG0462,Transfer,False,,Duplicate,False
+BAG0463,Direct,False,,,False
+BAG0464,Transfer,False,,,False
+BAG0465,Direct,False,,,False
+BAG0466,Transfer,False,,,False
+BAG0467,Direct,False,,Delayed,False
+BAG0468,Direct,False,,,False
+BAG0469,Transfer,False,,,False
+BAG0470,Direct,False,,,False
+BAG0471,Direct,False,,,False
+BAG0472,Transfer,False,,,False
+BAG0473,Transfer,False,,,False
+BAG0474,Direct,False,,,False
+BAG0475,Direct,False,,Duplicate,False
+BAG0476,Direct,False,,Delayed,False
+BAG0477,Direct,False,,,False
+BAG0478,Direct,False,,,False
+BAG0479,Transfer,False,,,False
+BAG0480,Direct,False,,,False
+BAG0481,Direct,False,,,False
+BAG0482,Direct,True,Acceptance,Missing Scan,True
+BAG0483,Direct,False,,Delayed,False
+BAG0484,Direct,False,,Spoofed Reader,False
+BAG0485,Direct,False,,Invalid Location,False
+BAG0486,Transfer,False,,,False
+BAG0487,Transfer,False,,,False
+BAG0488,Direct,False,,Out of Sequence,False
+BAG0489,Direct,False,,Invalid Location,False
+BAG0490,Direct,False,,,False
+BAG0491,Transfer,False,,,False
+BAG0492,Transfer,False,,,False
+BAG0493,Direct,False,,,False
+BAG0494,Direct,False,,Out of Sequence,False
+BAG0495,Transfer,False,,,False
+BAG0496,Transfer,False,,,False
+BAG0497,Direct,False,,,False
+BAG0498,Transfer,False,,,False
+BAG0499,Direct,False,,,False
+BAG0500,Direct,False,,Spoofed Reader,False
+BAG0501,Direct,False,,Duplicate,False
+BAG0502,Transfer,False,,,False
+BAG0503,Direct,False,,,False
+BAG0504,Direct,False,,,False
+BAG0505,Direct,False,,Duplicate,False
+BAG0506,Transfer,False,,,False
+BAG0507,Transfer,False,,,False
+BAG0508,Transfer,False,,,False
+BAG0509,Direct,False,,,False
+BAG0510,Direct,False,,Out of Sequence,False
+BAG0511,Direct,False,,Invalid Location,False
+BAG0512,Transfer,False,,,False
+BAG0513,Direct,False,,,False
+BAG0514,Direct,False,,Duplicate,False
+BAG0515,Direct,False,,,False
+BAG0516,Direct,False,,,False
+BAG0517,Direct,False,,,False
+BAG0518,Transfer,False,,,False
+BAG0519,Transfer,False,,Invalid Location,False
+BAG0520,Direct,False,,,False
+BAG0521,Direct,False,,,False
+BAG0522,Direct,False,,,False
+BAG0523,Direct,False,,,False
+BAG0524,Direct,False,,,False
+BAG0525,Direct,False,,,False
+BAG0526,Direct,False,,Duplicate,False
+BAG0527,Direct,False,,,False
+BAG0528,Transfer,False,,,False
+BAG0529,Direct,False,,,False
+BAG0530,Direct,False,,,False
+BAG0531,Transfer,False,,,False
+BAG0532,Direct,False,,Duplicate,False
+BAG0533,Direct,False,,Out of Sequence,False
+BAG0534,Transfer,True,Arrival,Missing Scan,True
+BAG0535,Transfer,False,,,False
+BAG0536,Transfer,False,,,False
+BAG0537,Direct,False,,,False
+BAG0538,Direct,False,,,False
+BAG0539,Transfer,False,,,False
+BAG0540,Direct,False,,Out of Sequence,False
+BAG0541,Transfer,False,,,False
+BAG0542,Direct,False,,,False
+BAG0543,Direct,False,,Duplicate,False
+BAG0544,Transfer,False,,Spoofed Reader,False
+BAG0545,Transfer,False,,,False
+BAG0546,Direct,False,,,False
+BAG0547,Direct,False,,,False
+BAG0548,Direct,False,,,False
+BAG0549,Direct,False,,,False
+BAG0550,Transfer,False,,,False
+BAG0551,Direct,False,,,False
+BAG0552,Transfer,False,,,False
+BAG0553,Direct,False,,Spoofed Reader,False
+BAG0554,Transfer,False,,,False
+BAG0555,Direct,False,,,False
+BAG0556,Transfer,False,,,False
+BAG0557,Direct,False,,,False
+BAG0558,Direct,False,,Spoofed Reader,False
+BAG0559,Direct,False,,,False
+BAG0560,Direct,False,,,False
+BAG0561,Direct,False,,,False
+BAG0562,Transfer,False,,,False
+BAG0563,Direct,False,,Invalid Location,False
+BAG0564,Direct,True,Claim,Missing Scan,True
+BAG0565,Transfer,False,,,False
+BAG0566,Transfer,False,,,False
+BAG0567,Transfer,False,,,False
+BAG0568,Transfer,False,,Invalid Location,False
+BAG0569,Transfer,False,,Invalid Location,False
+BAG0570,Direct,False,,,False
+BAG0571,Direct,False,,Invalid Location,False
+BAG0572,Direct,False,,,False
+BAG0573,Direct,False,,,False
+BAG0574,Direct,False,,,False
+BAG0575,Direct,False,,,False
+BAG0576,Direct,False,,Delayed,False
+BAG0577,Transfer,False,,Invalid Location,False
+BAG0578,Transfer,True,Claim,Missing Scan,True
+BAG0579,Direct,False,,,False
+BAG0580,Direct,False,,,False
+BAG0581,Direct,False,,,False
+BAG0582,Direct,True,Arrival,Missing Scan,True
+BAG0583,Transfer,False,,Delayed,False
+BAG0584,Direct,False,,Denial of Service,False
+BAG0585,Transfer,False,,,False
+BAG0586,Direct,False,,,False
+BAG0587,Transfer,False,,Delayed,False
+BAG0588,Direct,False,,,False
+BAG0589,Direct,False,,,False
+BAG0590,Transfer,False,,,False
+BAG0591,Direct,True,Acceptance,Missing Scan,True
+BAG0592,Direct,False,,,False
+BAG0593,Direct,False,,Duplicate,False
+BAG0594,Direct,False,,,False
+BAG0595,Transfer,False,,Duplicate,False
+BAG0596,Direct,False,,,False
+BAG0597,Transfer,False,,,False
+BAG0598,Direct,False,,Delayed,False
+BAG0599,Transfer,False,,,False
+BAG0600,Transfer,False,,,False
+BAG0601,Direct,False,,,False
+BAG0602,Direct,False,,,False
+BAG0603,Transfer,False,,,False
+BAG0604,Direct,False,,Spoofed Reader,False
+BAG0605,Direct,False,,,False
+BAG0606,Transfer,False,,,False
+BAG0607,Direct,False,,Spoofed Reader,False
+BAG0608,Direct,False,,,False
+BAG0609,Direct,False,,,False
+BAG0610,Direct,False,,,False
+BAG0611,Direct,False,,,False
+BAG0612,Transfer,False,,,False
+BAG0613,Direct,False,,,False
+BAG0614,Transfer,False,,,False
+BAG0615,Direct,False,,,False
+BAG0616,Transfer,False,,,False
+BAG0617,Direct,False,,,False
+BAG0618,Direct,False,,,False
+BAG0619,Transfer,False,,,False
+BAG0620,Direct,False,,,False
+BAG0621,Transfer,True,Acceptance,Missing Scan,True
+BAG0622,Transfer,False,,Duplicate,False
+BAG0623,Transfer,False,,,False
+BAG0624,Direct,False,,Out of Sequence,False
+BAG0625,Transfer,False,,Spoofed Reader,False
+BAG0626,Transfer,True,Screening,Missing Scan,True
+BAG0627,Transfer,False,,,False
+BAG0628,Transfer,False,,,False
+BAG0629,Direct,False,,,False
+BAG0630,Direct,False,,Delayed,False
+BAG0631,Direct,False,,,False
+BAG0632,Direct,False,,,False
+BAG0633,Direct,False,,Invalid Location,False
+BAG0634,Transfer,False,,,False
+BAG0635,Direct,False,,Duplicate,False
+BAG0636,Direct,False,,Delayed,False
+BAG0637,Direct,False,,,False
+BAG0638,Direct,False,,Spoofed Reader,False
+BAG0639,Direct,False,,,False
+BAG0640,Direct,False,,,False
+BAG0641,Direct,False,,,False
+BAG0642,Direct,False,,,False
+BAG0643,Transfer,False,,,False
+BAG0644,Transfer,False,,,False
+BAG0645,Transfer,False,,Invalid Location,False
+BAG0646,Direct,True,Claim,Missing Scan,True
+BAG0647,Direct,False,,,False
+BAG0648,Direct,False,,Duplicate,False
+BAG0649,Transfer,False,,,False
+BAG0650,Direct,False,,Spoofed Reader,False
+BAG0651,Transfer,False,,,False
+BAG0652,Direct,False,,Duplicate,False
+BAG0653,Direct,False,,,False
+BAG0654,Transfer,False,,,False
+BAG0655,Direct,False,,,False
+BAG0656,Transfer,False,,Out of Sequence,False
+BAG0657,Direct,False,,,False
+BAG0658,Transfer,False,,,False
+BAG0659,Direct,False,,Invalid Location,False
+BAG0660,Direct,False,,,False
+BAG0661,Direct,False,,,False
+BAG0662,Direct,False,,,False
+BAG0663,Direct,False,,,False
+BAG0664,Direct,False,,Denial of Service,False
+BAG0665,Direct,False,,,False
+BAG0666,Direct,False,,,False
+BAG0667,Direct,False,,,False
+BAG0668,Direct,False,,,False
+BAG0669,Transfer,False,,Spoofed Reader,False
+BAG0670,Direct,False,,,False
+BAG0671,Transfer,False,,,False
+BAG0672,Direct,False,,Spoofed Reader,False
+BAG0673,Direct,False,,,False
+BAG0674,Direct,False,,Out of Sequence,False
+BAG0675,Direct,False,,,False
+BAG0676,Direct,False,,,False
+BAG0677,Transfer,False,,,False
+BAG0678,Transfer,False,,,False
+BAG0679,Direct,False,,,False
+BAG0680,Transfer,False,,,False
+BAG0681,Transfer,False,,,False
+BAG0682,Transfer,False,,,False
+BAG0683,Direct,False,,,False
+BAG0684,Transfer,False,,Spoofed Reader,False
+BAG0685,Direct,False,,,False
+BAG0686,Direct,True,Arrival,Missing Scan,True
+BAG0687,Direct,False,,,False
+BAG0688,Direct,False,,,False
+BAG0689,Direct,False,,,False
+BAG0690,Direct,False,,,False
+BAG0691,Transfer,False,,Spoofed Reader,False
+BAG0692,Transfer,False,,,False
+BAG0693,Direct,False,,,False
+BAG0694,Transfer,False,,,False
+BAG0695,Direct,False,,,False
+BAG0696,Direct,False,,Invalid Location,False
+BAG0697,Direct,False,,,False
+BAG0698,Direct,False,,Out of Sequence,False
+BAG0699,Direct,False,,,False
+BAG0700,Direct,False,,,False
+BAG0701,Direct,False,,Invalid Location,False
+BAG0702,Direct,False,,,False
+BAG0703,Direct,False,,,False
+BAG0704,Direct,False,,,False
+BAG0705,Direct,False,,Out of Sequence,False
+BAG0706,Transfer,False,,Spoofed Reader,False
+BAG0707,Direct,False,,,False
+BAG0708,Direct,False,,,False
+BAG0709,Transfer,False,,Duplicate,False
+BAG0710,Direct,False,,,False
+BAG0711,Direct,False,,,False
+BAG0712,Transfer,False,,Delayed,False
+BAG0713,Direct,False,,Denial of Service,False
+BAG0714,Direct,False,,Duplicate,False
+BAG0715,Direct,False,,Spoofed Reader,False
+BAG0716,Direct,False,,Spoofed Reader,False
+BAG0717,Direct,False,,,False
+BAG0718,Direct,False,,,False
+BAG0719,Transfer,True,Loading,Missing Scan,True
+BAG0720,Direct,False,,,False
+BAG0721,Transfer,False,,Invalid Location,False
+BAG0722,Transfer,False,,,False
+BAG0723,Direct,False,,,False
+BAG0724,Direct,False,,,False
+BAG0725,Transfer,False,,,False
+BAG0726,Transfer,False,,,False
+BAG0727,Direct,False,,,False
+BAG0728,Direct,False,,,False
+BAG0729,Direct,False,,,False
+BAG0730,Direct,False,,,False
+BAG0731,Direct,False,,,False
+BAG0732,Transfer,False,,,False
+BAG0733,Direct,False,,,False
+BAG0734,Transfer,False,,Spoofed Reader,False
+BAG0735,Transfer,False,,,False
+BAG0736,Direct,False,,Duplicate,False
+BAG0737,Direct,False,,,False
+BAG0738,Direct,False,,,False
+BAG0739,Direct,False,,,False
+BAG0740,Direct,False,,,False
+BAG0741,Direct,False,,,False
+BAG0742,Direct,False,,,False
+BAG0743,Transfer,False,,Duplicate,False
+BAG0744,Direct,True,Sorting,Missing Scan,True
+BAG0745,Transfer,False,,,False
+BAG0746,Direct,False,,,False
+BAG0747,Transfer,False,,,False
+BAG0748,Direct,False,,Spoofed Reader,False
+BAG0749,Direct,False,,,False
+BAG0750,Direct,False,,,False
+BAG0751,Direct,False,,,False
+BAG0752,Transfer,False,,,False
+BAG0753,Direct,False,,,False
+BAG0754,Direct,False,,,False
+BAG0755,Direct,False,,,False
+BAG0756,Transfer,False,,,False
+BAG0757,Transfer,False,,,False
+BAG0758,Direct,False,,,False
+BAG0759,Direct,False,,,False
+BAG0760,Transfer,False,,,False
+BAG0761,Direct,False,,,False
+BAG0762,Direct,False,,Spoofed Reader,False
+BAG0763,Direct,False,,Spoofed Reader,False
+BAG0764,Transfer,False,,Duplicate,False
+BAG0765,Transfer,False,,Spoofed Reader,False
+BAG0766,Transfer,False,,Spoofed Reader,False
+BAG0767,Direct,False,,,False
+BAG0768,Direct,False,,,False
+BAG0769,Direct,False,,,False
+BAG0770,Direct,False,,,False
+BAG0771,Direct,False,,,False
+BAG0772,Direct,False,,,False
+BAG0773,Direct,False,,,False
+BAG0774,Direct,False,,,False
+BAG0775,Direct,False,,Delayed,False
+BAG0776,Direct,False,,Delayed,False
+BAG0777,Transfer,False,,Spoofed Reader,False
+BAG0778,Direct,False,,,False
+BAG0779,Direct,False,,,False
+BAG0780,Direct,False,,,False
+BAG0781,Direct,False,,,False
+BAG0782,Direct,False,,,False
+BAG0783,Direct,False,,Duplicate,False
+BAG0784,Transfer,False,,,False
+BAG0785,Direct,False,,,False
+BAG0786,Direct,False,,Out of Sequence,False
+BAG0787,Direct,False,,,False
+BAG0788,Transfer,False,,,False
+BAG0789,Direct,False,,Denial of Service,False
+BAG0790,Transfer,False,,Spoofed Reader,False
+BAG0791,Transfer,False,,,False
+BAG0792,Direct,False,,,False
+BAG0793,Direct,False,,,False
+BAG0794,Direct,False,,Duplicate,False
+BAG0795,Transfer,False,,Spoofed Reader,False
+BAG0796,Direct,False,,Spoofed Reader,False
+BAG0797,Direct,False,,Delayed,False
+BAG0798,Direct,False,,,False
+BAG0799,Transfer,False,,,False
+BAG0800,Direct,False,,Delayed,False
+BAG0801,Transfer,False,,,False
+BAG0802,Direct,False,,,False
+BAG0803,Transfer,False,,,False
+BAG0804,Transfer,False,,,False
+BAG0805,Direct,False,,,False
+BAG0806,Transfer,False,,,False
+BAG0807,Direct,False,,Denial of Service,False
+BAG0808,Transfer,False,,,False
+BAG0809,Direct,False,,,False
+BAG0810,Transfer,True,Transfer,Missing Scan,True
+BAG0811,Transfer,False,,,False
+BAG0812,Transfer,False,,,False
+BAG0813,Transfer,False,,,False
+BAG0814,Direct,False,,,False
+BAG0815,Direct,False,,,False
+BAG0816,Direct,False,,,False
+BAG0817,Direct,False,,,False
+BAG0818,Transfer,False,,,False
+BAG0819,Direct,False,,,False
+BAG0820,Direct,False,,,False
+BAG0821,Direct,False,,,False
+BAG0822,Direct,False,,,False
+BAG0823,Direct,False,,Invalid Location,False
+BAG0824,Direct,True,Sorting,Missing Scan,True
+BAG0825,Direct,False,,,False
+BAG0826,Direct,False,,,False
+BAG0827,Direct,False,,,False
+BAG0828,Direct,False,,,False
+BAG0829,Transfer,False,,,False
+BAG0830,Transfer,False,,,False
+BAG0831,Direct,False,,,False
+BAG0832,Transfer,False,,,False
+BAG0833,Direct,False,,,False
+BAG0834,Transfer,False,,,False
+BAG0835,Direct,False,,,False
+BAG0836,Direct,False,,,False
+BAG0837,Direct,True,Acceptance,Missing Scan,True
+BAG0838,Direct,False,,,False
+BAG0839,Transfer,False,,,False
+BAG0840,Direct,False,,,False
+BAG0841,Direct,False,,,False
+BAG0842,Transfer,False,,,False
+BAG0843,Transfer,False,,,False
+BAG0844,Transfer,False,,,False
+BAG0845,Direct,False,,,False
+BAG0846,Direct,False,,,False
+BAG0847,Direct,False,,Duplicate,False
+BAG0848,Direct,False,,,False
+BAG0849,Direct,False,,,False
+BAG0850,Direct,False,,,False
+BAG0851,Direct,False,,Duplicate,False
+BAG0852,Direct,False,,,False
+BAG0853,Direct,False,,Spoofed Reader,False
+BAG0854,Direct,False,,,False
+BAG0855,Direct,False,,Spoofed Reader,False
+BAG0856,Direct,False,,,False
+BAG0857,Transfer,False,,Invalid Location,False
+BAG0858,Transfer,False,,,False
+BAG0859,Direct,False,,,False
+BAG0860,Transfer,False,,,False
+BAG0861,Direct,False,,,False
+BAG0862,Direct,False,,,False
+BAG0863,Transfer,False,,,False
+BAG0864,Direct,False,,Denial of Service,False
+BAG0865,Direct,False,,,False
+BAG0866,Direct,False,,,False
+BAG0867,Direct,False,,,False
+BAG0868,Direct,False,,,False
+BAG0869,Direct,False,,,False
+BAG0870,Transfer,False,,Invalid Location,False
+BAG0871,Direct,False,,,False
+BAG0872,Transfer,False,,Spoofed Reader,False
+BAG0873,Direct,False,,Spoofed Reader,False
+BAG0874,Direct,False,,,False
+BAG0875,Direct,False,,Out of Sequence,False
+BAG0876,Direct,False,,,False
+BAG0877,Direct,False,,Out of Sequence,False
+BAG0878,Transfer,False,,,False
+BAG0879,Direct,False,,Duplicate,False
+BAG0880,Transfer,False,,,False
+BAG0881,Direct,False,,,False
+BAG0882,Transfer,False,,,False
+BAG0883,Direct,False,,,False
+BAG0884,Direct,False,,,False
+BAG0885,Direct,False,,Duplicate,False
+BAG0886,Direct,False,,,False
+BAG0887,Direct,False,,,False
+BAG0888,Transfer,False,,,False
+BAG0889,Transfer,False,,,False
+BAG0890,Transfer,False,,,False
+BAG0891,Direct,False,,,False
+BAG0892,Direct,False,,,False
+BAG0893,Direct,False,,,False
+BAG0894,Transfer,False,,,False
+BAG0895,Direct,False,,,False
+BAG0896,Direct,False,,Delayed,False
+BAG0897,Transfer,False,,,False
+BAG0898,Transfer,False,,,False
+BAG0899,Direct,False,,,False
+BAG0900,Direct,False,,,False
+BAG0901,Direct,False,,Duplicate,False
+BAG0902,Direct,False,,,False
+BAG0903,Direct,True,Screening,Missing Scan,True
+BAG0904,Transfer,False,,,False
+BAG0905,Direct,False,,,False
+BAG0906,Direct,True,Loading,Missing Scan,True
+BAG0907,Direct,False,,Invalid Location,False
+BAG0908,Transfer,False,,,False
+BAG0909,Direct,False,,Spoofed Reader,False
+BAG0910,Direct,False,,Denial of Service,False
+BAG0911,Direct,False,,Duplicate,False
+BAG0912,Transfer,False,,,False
+BAG0913,Transfer,False,,,False
+BAG0914,Direct,False,,,False
+BAG0915,Direct,False,,,False
+BAG0916,Transfer,False,,,False
+BAG0917,Direct,False,,,False
+BAG0918,Direct,False,,Delayed,False
+BAG0919,Direct,False,,,False
+BAG0920,Direct,False,,,False
+BAG0921,Direct,False,,,False
+BAG0922,Direct,False,,Duplicate,False
+BAG0923,Direct,False,,,False
+BAG0924,Direct,False,,,False
+BAG0925,Direct,False,,,False
+BAG0926,Direct,False,,,False
+BAG0927,Transfer,False,,,False
+BAG0928,Transfer,False,,,False
+BAG0929,Direct,False,,,False
+BAG0930,Direct,False,,,False
+BAG0931,Direct,False,,,False
+BAG0932,Transfer,False,,,False
+BAG0933,Direct,True,Claim,Missing Scan,True
+BAG0934,Direct,False,,,False
+BAG0935,Direct,False,,,False
+BAG0936,Direct,False,,,False
+BAG0937,Direct,False,,Delayed,False
+BAG0938,Transfer,False,,,False
+BAG0939,Direct,False,,,False
+BAG0940,Direct,False,,Invalid Location,False
+BAG0941,Direct,False,,,False
+BAG0942,Direct,False,,,False
+BAG0943,Direct,False,,,False
+BAG0944,Direct,False,,,False
+BAG0945,Transfer,False,,Denial of Service,False
+BAG0946,Transfer,False,,,False
+BAG0947,Direct,False,,,False
+BAG0948,Direct,False,,,False
+BAG0949,Direct,False,,Duplicate,False
+BAG0950,Transfer,False,,,False
+BAG0951,Direct,False,,,False
+BAG0952,Direct,False,,,False
+BAG0953,Transfer,False,,Spoofed Reader,False
+BAG0954,Direct,False,,,False
+BAG0955,Direct,False,,,False
+BAG0956,Direct,False,,,False
+BAG0957,Direct,False,,Spoofed Reader,False
+BAG0958,Direct,False,,,False
+BAG0959,Direct,False,,Duplicate,False
+BAG0960,Direct,False,,,False
+BAG0961,Transfer,False,,Spoofed Reader,False
+BAG0962,Direct,False,,,False
+BAG0963,Direct,False,,,False
+BAG0964,Direct,True,Screening,Missing Scan,True
+BAG0965,Transfer,False,,,False
+BAG0966,Direct,False,,Invalid Location,False
+BAG0967,Direct,False,,,False
+BAG0968,Direct,False,,,False
+BAG0969,Direct,False,,,False
+BAG0970,Transfer,False,,,False
+BAG0971,Direct,False,,Out of Sequence,False
+BAG0972,Direct,False,,Duplicate,False
+BAG0973,Direct,False,,,False
+BAG0974,Direct,False,,,False
+BAG0975,Direct,False,,,False
+BAG0976,Direct,False,,Invalid Location,False
+BAG0977,Direct,False,,,False
+BAG0978,Transfer,False,,,False
+BAG0979,Transfer,False,,,False
+BAG0980,Direct,False,,Spoofed Reader,False
+BAG0981,Direct,False,,Out of Sequence,False
+BAG0982,Direct,False,,,False
+BAG0983,Direct,False,,,False
+BAG0984,Direct,False,,,False
+BAG0985,Direct,False,,,False
+BAG0986,Direct,False,,,False
+BAG0987,Direct,False,,Invalid Location,False
+BAG0988,Direct,False,,,False
+BAG0989,Direct,False,,,False
+BAG0990,Direct,False,,,False
+BAG0991,Transfer,False,,,False
+BAG0992,Direct,False,,,False
+BAG0993,Direct,False,,,False
+BAG0994,Direct,False,,Spoofed Reader,False
+BAG0995,Transfer,False,,,False
+BAG0996,Direct,False,,,False
+BAG0997,Transfer,False,,,False
+BAG0998,Direct,False,,,False
+BAG0999,Direct,False,,,False
+BAG1000,Transfer,False,,,False
+BAG1001,Direct,False,,,False
+BAG1002,Transfer,False,,,False
+BAG1003,Direct,False,,,False
+BAG1004,Direct,False,,,False
+BAG1005,Direct,False,,,False
+BAG1006,Direct,False,,,False
+BAG1007,Direct,False,,Invalid Location,False
+BAG1008,Direct,False,,,False
+BAG1009,Direct,False,,,False
+BAG1010,Direct,False,,,False
+BAG1011,Transfer,True,Transfer,Missing Scan,True
+BAG1012,Direct,False,,Out of Sequence,False
+BAG1013,Direct,False,,,False
+BAG1014,Direct,False,,,False
+BAG1015,Direct,False,,,False
+BAG1016,Direct,False,,,False
+BAG1017,Direct,False,,,False
+BAG1018,Direct,False,,,False
+BAG1019,Transfer,False,,Out of Sequence,False
+BAG1020,Direct,False,,,False
+BAG1021,Transfer,False,,Spoofed Reader,False
+BAG1022,Direct,False,,,False
+BAG1023,Direct,False,,,False
+BAG1024,Transfer,False,,,False
+BAG1025,Transfer,False,,,False
+BAG1026,Transfer,False,,,False
+BAG1027,Direct,False,,Delayed,False
+BAG1028,Transfer,False,,,False
+BAG1029,Direct,False,,,False
+BAG1030,Transfer,False,,,False
+BAG1031,Direct,False,,,False
+BAG1032,Direct,False,,,False
+BAG1033,Transfer,False,,,False
+BAG1034,Transfer,False,,,False
+BAG1035,Transfer,False,,Invalid Location,False
+BAG1036,Direct,False,,,False
+BAG1037,Direct,False,,,False
+BAG1038,Direct,False,,,False
+BAG1039,Transfer,False,,,False
+BAG1040,Direct,False,,,False
+BAG1041,Direct,False,,,False
+BAG1042,Transfer,False,,,False
+BAG1043,Transfer,False,,,False
+BAG1044,Direct,False,,,False
+BAG1045,Transfer,False,,,False
+BAG1046,Direct,False,,,False
+BAG1047,Transfer,False,,Spoofed Reader,False
+BAG1048,Transfer,False,,,False
+BAG1049,Direct,False,,,False
+BAG1050,Transfer,False,,,False
+BAG1051,Direct,False,,Invalid Location,False
+BAG1052,Transfer,False,,,False
+BAG1053,Transfer,False,,,False
+BAG1054,Direct,False,,,False
+BAG1055,Direct,False,,Duplicate,False
+BAG1056,Transfer,False,,,False
+BAG1057,Transfer,False,,Spoofed Reader,False
+BAG1058,Transfer,False,,,False
+BAG1059,Direct,False,,,False
+BAG1060,Direct,False,,Delayed,False
+BAG1061,Direct,False,,,False
+BAG1062,Transfer,False,,,False
+BAG1063,Direct,False,,,False
+BAG1064,Direct,False,,,False
+BAG1065,Direct,False,,Delayed,False
+BAG1066,Direct,False,,,False
+BAG1067,Direct,True,Acceptance,Missing Scan,True
+BAG1068,Direct,False,,,False
+BAG1069,Transfer,False,,Denial of Service,False
+BAG1070,Direct,False,,,False
+BAG1071,Direct,False,,,False
+BAG1072,Direct,False,,Spoofed Reader,False
+BAG1073,Direct,False,,Invalid Location,False
+BAG1074,Transfer,False,,,False
+BAG1075,Transfer,False,,,False
+BAG1076,Transfer,False,,,False
+BAG1077,Direct,True,Loading,Missing Scan,True
+BAG1078,Direct,False,,,False
+BAG1079,Direct,False,,Delayed,False
+BAG1080,Direct,False,,,False
+BAG1081,Direct,False,,,False
+BAG1082,Direct,False,,,False
+BAG1083,Direct,False,,,False
+BAG1084,Direct,False,,,False
+BAG1085,Transfer,False,,Invalid Location,False
+BAG1086,Direct,False,,Out of Sequence,False
+BAG1087,Direct,False,,,False
+BAG1088,Direct,False,,Duplicate,False
+BAG1089,Direct,False,,Out of Sequence,False
+BAG1090,Direct,False,,,False
+BAG1091,Transfer,False,,Spoofed Reader,False
+BAG1092,Direct,False,,,False
+BAG1093,Direct,False,,,False
+BAG1094,Direct,False,,,False
+BAG1095,Transfer,False,,,False
+BAG1096,Transfer,False,,,False
+BAG1097,Transfer,False,,,False
+BAG1098,Transfer,False,,,False
+BAG1099,Direct,False,,,False
+BAG1100,Direct,False,,,False
+BAG1101,Direct,False,,Invalid Location,False
+BAG1102,Transfer,False,,,False
+BAG1103,Transfer,False,,,False
+BAG1104,Transfer,False,,Invalid Location,False
+BAG1105,Direct,False,,,False
+BAG1106,Direct,False,,,False
+BAG1107,Transfer,False,,,False
+BAG1108,Direct,False,,Out of Sequence,False
+BAG1109,Transfer,False,,,False
+BAG1110,Direct,False,,,False
+BAG1111,Direct,False,,Spoofed Reader,False
+BAG1112,Direct,False,,Out of Sequence,False
+BAG1113,Direct,False,,Duplicate,False
+BAG1114,Transfer,False,,,False
+BAG1115,Direct,False,,,False
+BAG1116,Transfer,False,,,False
+BAG1117,Transfer,False,,Delayed,False
+BAG1118,Transfer,False,,,False
+BAG1119,Direct,False,,,False
+BAG1120,Transfer,False,,,False
+BAG1121,Direct,False,,Spoofed Reader,False
+BAG1122,Direct,True,Acceptance,Missing Scan,True
+BAG1123,Direct,False,,,False
+BAG1124,Transfer,False,,Delayed,False
+BAG1125,Direct,False,,,False
+BAG1126,Direct,False,,,False
+BAG1127,Transfer,False,,,False
+BAG1128,Direct,False,,,False
+BAG1129,Transfer,False,,,False
+BAG1130,Transfer,False,,,False
+BAG1131,Direct,False,,,False
+BAG1132,Direct,False,,,False
+BAG1133,Direct,False,,,False
+BAG1134,Direct,False,,,False
+BAG1135,Direct,False,,,False
+BAG1136,Transfer,False,,,False
+BAG1137,Direct,False,,Delayed,False
+BAG1138,Direct,False,,,False
+BAG1139,Direct,False,,Delayed,False
+BAG1140,Direct,False,,,False
+BAG1141,Direct,False,,,False
+BAG1142,Direct,False,,,False
+BAG1143,Direct,True,Loading,Missing Scan,True
+BAG1144,Direct,False,,,False
+BAG1145,Transfer,False,,,False
+BAG1146,Direct,False,,Delayed,False
+BAG1147,Direct,False,,,False
+BAG1148,Direct,False,,Out of Sequence,False
+BAG1149,Direct,False,,,False
+BAG1150,Transfer,False,,Spoofed Reader,False
+BAG1151,Direct,False,,Spoofed Reader,False
+BAG1152,Direct,False,,,False
+BAG1153,Direct,False,,,False
+BAG1154,Direct,False,,,False
+BAG1155,Direct,False,,Delayed,False
+BAG1156,Direct,False,,Delayed,False
+BAG1157,Direct,False,,Spoofed Reader,False
+BAG1158,Transfer,False,,,False
+BAG1159,Transfer,False,,,False
+BAG1160,Direct,False,,Out of Sequence,False
+BAG1161,Direct,False,,,False
+BAG1162,Transfer,False,,,False
+BAG1163,Transfer,False,,,False
+BAG1164,Direct,False,,,False
+BAG1165,Transfer,False,,,False
+BAG1166,Direct,True,Acceptance,Missing Scan,True
+BAG1167,Direct,False,,,False
+BAG1168,Direct,False,,,False
+BAG1169,Transfer,False,,,False
+BAG1170,Direct,False,,,False
+BAG1171,Transfer,False,,,False
+BAG1172,Direct,False,,Spoofed Reader,False
+BAG1173,Transfer,False,,,False
+BAG1174,Transfer,False,,,False
+BAG1175,Transfer,False,,,False
+BAG1176,Transfer,False,,Out of Sequence,False
+BAG1177,Direct,False,,,False
+BAG1178,Direct,False,,,False
+BAG1179,Direct,False,,Delayed,False
+BAG1180,Direct,False,,,False
+BAG1181,Transfer,False,,Invalid Location,False
+BAG1182,Transfer,False,,,False
+BAG1183,Direct,False,,,False
+BAG1184,Transfer,False,,Out of Sequence,False
+BAG1185,Direct,False,,,False
+BAG1186,Direct,False,,,False
+BAG1187,Direct,False,,,False
+BAG1188,Transfer,False,,,False
+BAG1189,Direct,False,,Denial of Service,False
+BAG1190,Transfer,False,,,False
+BAG1191,Direct,False,,Out of Sequence,False
+BAG1192,Direct,False,,,False
+BAG1193,Transfer,False,,,False
+BAG1194,Direct,False,,,False
+BAG1195,Direct,False,,,False
+BAG1196,Direct,False,,,False
+BAG1197,Transfer,False,,,False
+BAG1198,Transfer,False,,,False
+BAG1199,Direct,False,,Duplicate,False
+BAG1200,Direct,False,,Spoofed Reader,False
+BAG1201,Transfer,False,,Delayed,False
+BAG1202,Direct,False,,,False
+BAG1203,Direct,False,,,False
+BAG1204,Direct,False,,,False
+BAG1205,Transfer,False,,,False
+BAG1206,Direct,False,,,False
+BAG1207,Direct,False,,,False
+BAG1208,Direct,False,,,False
+BAG1209,Direct,False,,Spoofed Reader,False
+BAG1210,Transfer,False,,,False
+BAG1211,Transfer,False,,,False
+BAG1212,Direct,False,,,False
+BAG1213,Transfer,False,,,False
+BAG1214,Direct,False,,Delayed,False
+BAG1215,Direct,False,,,False
+BAG1216,Transfer,False,,,False
+BAG1217,Direct,False,,,False
+BAG1218,Direct,False,,Delayed,False
+BAG1219,Direct,False,,,False
+BAG1220,Direct,False,,,False
+BAG1221,Transfer,False,,Out of Sequence,False
+BAG1222,Transfer,False,,,False
+BAG1223,Transfer,False,,Out of Sequence,False
+BAG1224,Direct,False,,,False
+BAG1225,Direct,False,,Spoofed Reader,False
+BAG1226,Direct,False,,,False
+BAG1227,Direct,False,,,False
+BAG1228,Direct,False,,,False
+BAG1229,Transfer,False,,,False
+BAG1230,Direct,False,,,False
+BAG1231,Direct,False,,,False
+BAG1232,Transfer,False,,,False
+BAG1233,Direct,False,,,False
+BAG1234,Direct,False,,,False
+BAG1235,Direct,False,,,False
+BAG1236,Transfer,False,,,False
+BAG1237,Direct,False,,,False
+BAG1238,Direct,False,,,False
+BAG1239,Transfer,False,,,False
+BAG1240,Direct,False,,,False
+BAG1241,Direct,False,,,False
+BAG1242,Direct,False,,,False
+BAG1243,Transfer,False,,,False
+BAG1244,Direct,False,,,False
+BAG1245,Transfer,False,,,False
+BAG1246,Direct,False,,Out of Sequence,False
+BAG1247,Direct,False,,Spoofed Reader,False
+BAG1248,Direct,False,,Invalid Location,False
+BAG1249,Direct,False,,,False
+BAG1250,Direct,False,,Invalid Location,False
+BAG1251,Direct,False,,,False
+BAG1252,Direct,False,,,False
+BAG1253,Direct,False,,,False
+BAG1254,Transfer,False,,Invalid Location,False
+BAG1255,Direct,False,,Spoofed Reader,False
+BAG1256,Transfer,False,,,False
+BAG1257,Direct,False,,,False
+BAG1258,Direct,False,,Duplicate,False
+BAG1259,Transfer,False,,,False
+BAG1260,Direct,False,,,False
+BAG1261,Transfer,False,,,False
+BAG1262,Transfer,False,,Duplicate,False
+BAG1263,Direct,False,,,False
+BAG1264,Direct,False,,Delayed,False
+BAG1265,Transfer,False,,,False
+BAG1266,Direct,False,,Spoofed Reader,False
+BAG1267,Direct,False,,,False
+BAG1268,Direct,False,,Duplicate,False
+BAG1269,Transfer,False,,,False
+BAG1270,Direct,False,,,False
+BAG1271,Transfer,False,,,False
+BAG1272,Direct,False,,,False
+BAG1273,Transfer,False,,,False
+BAG1274,Direct,False,,,False
+BAG1275,Direct,False,,,False
+BAG1276,Direct,False,,Spoofed Reader,False
+BAG1277,Direct,False,,Spoofed Reader,False
+BAG1278,Direct,False,,Invalid Location,False
+BAG1279,Direct,False,,,False
+BAG1280,Direct,False,,,False
+BAG1281,Direct,False,,,False
+BAG1282,Transfer,False,,,False
+BAG1283,Direct,False,,,False
+BAG1284,Direct,False,,,False
+BAG1285,Direct,False,,Duplicate,False
+BAG1286,Direct,False,,,False
+BAG1287,Direct,True,Claim,Missing Scan,True
+BAG1288,Direct,False,,,False
+BAG1289,Direct,False,,Spoofed Reader,False
+BAG1290,Direct,False,,Spoofed Reader,False
+BAG1291,Direct,False,,Denial of Service,False
+BAG1292,Direct,False,,Out of Sequence,False
+BAG1293,Transfer,False,,,False
+BAG1294,Transfer,False,,,False
+BAG1295,Direct,False,,,False
+BAG1296,Transfer,False,,,False
+BAG1297,Direct,False,,,False
+BAG1298,Direct,False,,,False
+BAG1299,Direct,False,,,False
+BAG1300,Direct,False,,,False
+BAG1301,Direct,False,,Out of Sequence,False
+BAG1302,Direct,False,,,False
+BAG1303,Direct,False,,,False
+BAG1304,Direct,False,,,False
+BAG1305,Direct,False,,Spoofed Reader,False
+BAG1306,Transfer,False,,,False
+BAG1307,Direct,False,,,False
+BAG1308,Direct,False,,,False
+BAG1309,Direct,False,,,False
+BAG1310,Direct,False,,Spoofed Reader,False
+BAG1311,Direct,False,,Delayed,False
+BAG1312,Direct,False,,,False
+BAG1313,Direct,False,,,False
+BAG1314,Direct,False,,,False
+BAG1315,Direct,False,,,False
+BAG1316,Direct,False,,Out of Sequence,False
+BAG1317,Direct,False,,,False
+BAG1318,Direct,False,,,False
+BAG1319,Direct,False,,Invalid Location,False
+BAG1320,Direct,False,,,False
+BAG1321,Direct,False,,,False
+BAG1322,Transfer,False,,,False
+BAG1323,Transfer,False,,,False
+BAG1324,Transfer,False,,,False
+BAG1325,Direct,False,,Spoofed Reader,False
+BAG1326,Direct,False,,,False
+BAG1327,Direct,False,,,False
+BAG1328,Direct,False,,,False
+BAG1329,Direct,False,,,False
+BAG1330,Direct,False,,,False
+BAG1331,Transfer,False,,Spoofed Reader,False
+BAG1332,Direct,False,,,False
+BAG1333,Direct,False,,,False
+BAG1334,Direct,False,,Spoofed Reader,False
+BAG1335,Direct,False,,,False
+BAG1336,Transfer,False,,,False
+BAG1337,Direct,False,,,False
+BAG1338,Direct,False,,Invalid Location,False
+BAG1339,Transfer,False,,,False
+BAG1340,Direct,False,,Spoofed Reader,False
+BAG1341,Transfer,False,,,False
+BAG1342,Direct,False,,,False
+BAG1343,Direct,False,,,False
+BAG1344,Direct,False,,Spoofed Reader,False
+BAG1345,Transfer,False,,Out of Sequence,False
+BAG1346,Transfer,False,,,False
+BAG1347,Direct,False,,,False
+BAG1348,Direct,False,,Spoofed Reader,False
+BAG1349,Direct,False,,,False
+BAG1350,Direct,False,,,False
+BAG1351,Direct,False,,,False
+BAG1352,Transfer,False,,,False
+BAG1353,Direct,False,,,False
+BAG1354,Direct,False,,,False
+BAG1355,Direct,False,,,False
+BAG1356,Direct,False,,Out of Sequence,False
+BAG1357,Direct,False,,,False
+BAG1358,Direct,False,,,False
+BAG1359,Direct,False,,,False
+BAG1360,Direct,False,,,False
+BAG1361,Transfer,True,Sorting,Missing Scan,True
+BAG1362,Transfer,False,,Spoofed Reader,False
+BAG1363,Transfer,False,,,False
+BAG1364,Direct,False,,Denial of Service,False
+BAG1365,Direct,False,,,False
+BAG1366,Direct,False,,,False
+BAG1367,Direct,False,,,False
+BAG1368,Direct,False,,,False
+BAG1369,Direct,False,,Spoofed Reader,False
+BAG1370,Direct,True,Claim,Missing Scan,True
+BAG1371,Transfer,False,,,False
+BAG1372,Transfer,False,,,False
+BAG1373,Direct,False,,Spoofed Reader,False
+BAG1374,Direct,False,,Duplicate,False
+BAG1375,Transfer,False,,,False
+BAG1376,Transfer,False,,,False
+BAG1377,Direct,False,,Spoofed Reader,False
+BAG1378,Direct,False,,,False
+BAG1379,Direct,False,,,False
+BAG1380,Direct,False,,,False
+BAG1381,Direct,False,,,False
+BAG1382,Direct,False,,,False
+BAG1383,Direct,False,,,False
+BAG1384,Direct,False,,Spoofed Reader,False
+BAG1385,Direct,False,,,False
+BAG1386,Direct,False,,,False
+BAG1387,Direct,False,,,False
+BAG1388,Direct,False,,,False
+BAG1389,Direct,False,,,False
+BAG1390,Direct,False,,Delayed,False
+BAG1391,Direct,False,,,False
+BAG1392,Transfer,False,,,False
+BAG1393,Transfer,False,,,False
+BAG1394,Direct,False,,Spoofed Reader,False
+BAG1395,Direct,False,,,False
+BAG1396,Direct,False,,,False
+BAG1397,Direct,False,,,False
+BAG1398,Transfer,False,,,False
+BAG1399,Direct,False,,,False
+BAG1400,Direct,False,,,False
+BAG1401,Direct,False,,,False
+BAG1402,Direct,False,,,False
+BAG1403,Direct,False,,Spoofed Reader,False
+BAG1404,Direct,False,,,False
+BAG1405,Direct,False,,,False
+BAG1406,Transfer,False,,,False
+BAG1407,Transfer,False,,,False
+BAG1408,Direct,False,,,False
+BAG1409,Direct,False,,Out of Sequence,False
+BAG1410,Direct,False,,,False
+BAG1411,Direct,False,,,False
+BAG1412,Direct,False,,,False
+BAG1413,Transfer,False,,,False
+BAG1414,Transfer,False,,Denial of Service,False
+BAG1415,Direct,False,,,False
+BAG1416,Direct,False,,Spoofed Reader,False
+BAG1417,Direct,False,,,False
+BAG1418,Transfer,False,,,False
+BAG1419,Direct,False,,Out of Sequence,False
+BAG1420,Transfer,False,,,False
+BAG1421,Transfer,False,,,False
+BAG1422,Transfer,False,,,False
+BAG1423,Direct,False,,,False
+BAG1424,Direct,False,,,False
+BAG1425,Transfer,False,,Denial of Service,False
+BAG1426,Transfer,False,,,False
+BAG1427,Transfer,False,,,False
+BAG1428,Transfer,False,,,False
+BAG1429,Direct,False,,,False
+BAG1430,Direct,False,,,False
+BAG1431,Direct,False,,,False
+BAG1432,Direct,False,,Spoofed Reader,False
+BAG1433,Transfer,False,,Spoofed Reader,False
+BAG1434,Transfer,False,,,False
+BAG1435,Transfer,False,,,False
+BAG1436,Direct,False,,,False
+BAG1437,Transfer,False,,,False
+BAG1438,Transfer,False,,,False
+BAG1439,Transfer,False,,,False
+BAG1440,Direct,False,,,False
+BAG1441,Direct,False,,Spoofed Reader,False
+BAG1442,Direct,False,,Spoofed Reader,False
+BAG1443,Direct,False,,,False
+BAG1444,Direct,False,,,False
+BAG1445,Transfer,False,,,False
+BAG1446,Direct,False,,,False
+BAG1447,Direct,False,,Invalid Location,False
+BAG1448,Direct,False,,,False
+BAG1449,Transfer,False,,,False
+BAG1450,Direct,False,,,False
+BAG1451,Direct,False,,,False
+BAG1452,Transfer,False,,,False
+BAG1453,Direct,False,,,False
+BAG1454,Direct,False,,Delayed,False
+BAG1455,Direct,False,,,False
+BAG1456,Direct,False,,,False
+BAG1457,Transfer,False,,,False
+BAG1458,Direct,True,Screening,Missing Scan,True
+BAG1459,Direct,False,,Spoofed Reader,False
+BAG1460,Direct,False,,,False
+BAG1461,Direct,False,,,False
+BAG1462,Direct,False,,,False
+BAG1463,Direct,False,,,False
+BAG1464,Direct,False,,,False
+BAG1465,Direct,False,,,False
+BAG1466,Direct,False,,,False
+BAG1467,Direct,False,,,False
+BAG1468,Direct,False,,,False
+BAG1469,Direct,False,,,False
+BAG1470,Transfer,False,,,False
+BAG1471,Direct,False,,Delayed,False
+BAG1472,Transfer,False,,,False
+BAG1473,Direct,False,,Out of Sequence,False
+BAG1474,Direct,False,,,False
+BAG1475,Direct,False,,Spoofed Reader,False
+BAG1476,Direct,False,,,False
+BAG1477,Direct,False,,Out of Sequence,False
+BAG1478,Transfer,False,,,False
+BAG1479,Direct,False,,,False
+BAG1480,Transfer,False,,Spoofed Reader,False
+BAG1481,Transfer,False,,,False
+BAG1482,Direct,False,,,False
+BAG1483,Transfer,False,,Out of Sequence,False
+BAG1484,Transfer,False,,,False
+BAG1485,Direct,False,,,False
+BAG1486,Transfer,False,,,False
+BAG1487,Direct,False,,Spoofed Reader,False
+BAG1488,Transfer,False,,,False
+BAG1489,Direct,False,,Delayed,False
+BAG1490,Transfer,False,,,False
+BAG1491,Direct,False,,,False
+BAG1492,Transfer,False,,,False
+BAG1493,Direct,False,,,False
+BAG1494,Direct,False,,,False
+BAG1495,Direct,False,,Delayed,False
+BAG1496,Direct,False,,,False
+BAG1497,Direct,False,,Invalid Location,False
+BAG1498,Transfer,True,Loading,Missing Scan,True
+BAG1499,Direct,False,,Duplicate,False
+BAG1500,Transfer,False,,,False
+BAG1501,Direct,False,,,False
+BAG1502,Transfer,False,,Out of Sequence,False
+BAG1503,Direct,False,,,False
+BAG1504,Transfer,False,,,False
+BAG1505,Transfer,False,,,False
+BAG1506,Transfer,False,,,False
+BAG1507,Direct,False,,,False
+BAG1508,Transfer,False,,,False
+BAG1509,Direct,False,,Invalid Location,False
+BAG1510,Direct,False,,Denial of Service,False
+BAG1511,Direct,False,,,False
+BAG1512,Direct,False,,,False
+BAG1513,Direct,True,Screening,Missing Scan,True
+BAG1514,Transfer,False,,Out of Sequence,False
+BAG1515,Transfer,False,,,False
+BAG1516,Direct,False,,,False
+BAG1517,Direct,False,,Out of Sequence,False
+BAG1518,Direct,False,,,False
+BAG1519,Direct,False,,Spoofed Reader,False
+BAG1520,Transfer,False,,,False
+BAG1521,Direct,False,,,False
+BAG1522,Direct,False,,,False
+BAG1523,Direct,False,,,False
+BAG1524,Direct,False,,Delayed,False
+BAG1525,Direct,False,,,False
+BAG1526,Direct,False,,,False
+BAG1527,Direct,False,,,False
+BAG1528,Direct,False,,,False
+BAG1529,Direct,False,,,False
+BAG1530,Direct,False,,Spoofed Reader,False
+BAG1531,Direct,False,,Duplicate,False
+BAG1532,Direct,False,,Denial of Service,False
+BAG1533,Transfer,False,,,False
+BAG1534,Transfer,False,,,False
+BAG1535,Transfer,False,,,False
+BAG1536,Direct,False,,,False
+BAG1537,Transfer,False,,,False
+BAG1538,Direct,False,,,False
+BAG1539,Transfer,False,,,False
+BAG1540,Transfer,False,,,False
+BAG1541,Direct,False,,,False
+BAG1542,Transfer,False,,,False
+BAG1543,Direct,False,,,False
+BAG1544,Transfer,False,,Invalid Location,False
+BAG1545,Direct,False,,,False
+BAG1546,Transfer,False,,,False
+BAG1547,Direct,False,,,False
+BAG1548,Direct,False,,,False
+BAG1549,Direct,False,,,False
+BAG1550,Direct,False,,,False
+BAG1551,Transfer,False,,,False
+BAG1552,Transfer,False,,,False
+BAG1553,Direct,False,,,False
+BAG1554,Transfer,False,,,False
+BAG1555,Transfer,False,,,False
+BAG1556,Direct,False,,,False
+BAG1557,Direct,False,,,False
+BAG1558,Transfer,False,,,False
+BAG1559,Transfer,False,,Duplicate,False
+BAG1560,Direct,False,,,False
+BAG1561,Direct,False,,,False
+BAG1562,Direct,False,,,False
+BAG1563,Direct,False,,Invalid Location,False
+BAG1564,Direct,False,,,False
+BAG1565,Transfer,False,,,False
+BAG1566,Direct,False,,,False
+BAG1567,Transfer,False,,,False
+BAG1568,Direct,False,,,False
+BAG1569,Direct,False,,Invalid Location,False
+BAG1570,Transfer,False,,Spoofed Reader,False
+BAG1571,Direct,False,,,False
+BAG1572,Direct,False,,Spoofed Reader,False
+BAG1573,Direct,False,,Out of Sequence,False
+BAG1574,Direct,False,,,False
+BAG1575,Direct,False,,,False
+BAG1576,Direct,False,,Spoofed Reader,False
+BAG1577,Direct,False,,Invalid Location,False
+BAG1578,Direct,False,,,False
+BAG1579,Transfer,False,,,False
+BAG1580,Direct,False,,,False
+BAG1581,Direct,False,,,False
+BAG1582,Direct,False,,,False
+BAG1583,Direct,False,,,False
+BAG1584,Transfer,False,,,False
+BAG1585,Direct,False,,,False
+BAG1586,Direct,False,,Invalid Location,False
+BAG1587,Direct,False,,,False
+BAG1588,Direct,False,,,False
+BAG1589,Transfer,False,,,False
+BAG1590,Transfer,False,,Spoofed Reader,False
+BAG1591,Transfer,False,,,False
+BAG1592,Direct,False,,,False
+BAG1593,Transfer,False,,Delayed,False
+BAG1594,Transfer,False,,Delayed,False
+BAG1595,Direct,False,,Invalid Location,False
+BAG1596,Transfer,False,,Out of Sequence,False
+BAG1597,Direct,False,,Invalid Location,False
+BAG1598,Direct,False,,Duplicate,False
+BAG1599,Transfer,False,,,False
+BAG1600,Direct,False,,Out of Sequence,False
+BAG1601,Transfer,False,,,False
+BAG1602,Direct,False,,,False
+BAG1603,Direct,False,,,False
+BAG1604,Direct,False,,,False
+BAG1605,Direct,False,,,False
+BAG1606,Direct,False,,,False
+BAG1607,Transfer,False,,Duplicate,False
+BAG1608,Direct,False,,,False
+BAG1609,Direct,False,,Out of Sequence,False
+BAG1610,Transfer,False,,,False
+BAG1611,Transfer,False,,Out of Sequence,False
+BAG1612,Direct,False,,,False
+BAG1613,Transfer,False,,,False
+BAG1614,Direct,False,,,False
+BAG1615,Transfer,False,,,False
+BAG1616,Transfer,False,,,False
+BAG1617,Transfer,False,,Denial of Service,False
+BAG1618,Transfer,False,,Spoofed Reader,False
+BAG1619,Transfer,False,,Out of Sequence,False
+BAG1620,Direct,False,,Spoofed Reader,False
+BAG1621,Transfer,False,,,False
+BAG1622,Direct,False,,Duplicate,False
+BAG1623,Direct,False,,,False
+BAG1624,Transfer,False,,Invalid Location,False
+BAG1625,Direct,False,,,False
+BAG1626,Direct,False,,,False
+BAG1627,Transfer,False,,Delayed,False
+BAG1628,Direct,False,,,False
+BAG1629,Direct,False,,,False
+BAG1630,Transfer,False,,,False
+BAG1631,Transfer,False,,,False
+BAG1632,Direct,False,,Delayed,False
+BAG1633,Transfer,False,,,False
+BAG1634,Direct,False,,,False
+BAG1635,Transfer,False,,,False
+BAG1636,Direct,False,,,False
+BAG1637,Direct,False,,,False
+BAG1638,Direct,False,,,False
+BAG1639,Direct,False,,,False
+BAG1640,Direct,False,,Duplicate,False
+BAG1641,Direct,False,,,False
+BAG1642,Direct,False,,,False
+BAG1643,Direct,False,,,False
+BAG1644,Direct,False,,,False
+BAG1645,Direct,False,,,False
+BAG1646,Direct,False,,,False
+BAG1647,Direct,False,,Invalid Location,False
+BAG1648,Transfer,False,,Out of Sequence,False
+BAG1649,Direct,False,,Invalid Location,False
+BAG1650,Direct,False,,,False
+BAG1651,Transfer,False,,Duplicate,False
+BAG1652,Direct,False,,Spoofed Reader,False
+BAG1653,Transfer,False,,,False
+BAG1654,Direct,False,,Invalid Location,False
+BAG1655,Transfer,False,,,False
+BAG1656,Direct,False,,,False
+BAG1657,Direct,False,,,False
+BAG1658,Direct,False,,,False
+BAG1659,Direct,True,Acceptance,Missing Scan,True
+BAG1660,Direct,False,,,False
+BAG1661,Direct,False,,Out of Sequence,False
+BAG1662,Direct,False,,Out of Sequence,False
+BAG1663,Transfer,False,,,False
+BAG1664,Direct,False,,,False
+BAG1665,Direct,False,,,False
+BAG1666,Transfer,False,,,False
+BAG1667,Transfer,False,,Invalid Location,False
+BAG1668,Direct,False,,,False
+BAG1669,Direct,False,,,False
+BAG1670,Transfer,False,,,False
+BAG1671,Transfer,False,,Delayed,False
+BAG1672,Direct,False,,Spoofed Reader,False
+BAG1673,Direct,False,,,False
+BAG1674,Direct,False,,Delayed,False
+BAG1675,Direct,False,,,False
+BAG1676,Transfer,False,,,False
+BAG1677,Direct,False,,,False
+BAG1678,Direct,False,,,False
+BAG1679,Direct,False,,Denial of Service,False
+BAG1680,Direct,False,,Out of Sequence,False
+BAG1681,Direct,False,,,False
+BAG1682,Direct,False,,,False
+BAG1683,Direct,False,,Spoofed Reader,False
+BAG1684,Direct,False,,Duplicate,False
+BAG1685,Transfer,False,,Delayed,False
+BAG1686,Direct,False,,Spoofed Reader,False
+BAG1687,Direct,False,,,False
+BAG1688,Direct,False,,,False
+BAG1689,Direct,False,,,False
+BAG1690,Direct,False,,,False
+BAG1691,Direct,True,Sorting,Missing Scan,True
+BAG1692,Direct,False,,,False
+BAG1693,Direct,False,,Duplicate,False
+BAG1694,Direct,False,,,False
+BAG1695,Transfer,False,,,False
+BAG1696,Direct,False,,,False
+BAG1697,Direct,False,,Duplicate,False
+BAG1698,Transfer,True,Sorting,Missing Scan,True
+BAG1699,Direct,False,,,False
+BAG1700,Transfer,False,,,False
+BAG1701,Direct,False,,,False
+BAG1702,Direct,False,,,False
+BAG1703,Direct,False,,Out of Sequence,False
+BAG1704,Direct,False,,,False
+BAG1705,Direct,False,,,False
+BAG1706,Direct,False,,,False
+BAG1707,Direct,False,,,False
+BAG1708,Direct,False,,Delayed,False
+BAG1709,Direct,False,,,False
+BAG1710,Direct,False,,,False
+BAG1711,Direct,False,,,False
+BAG1712,Direct,False,,,False
+BAG1713,Direct,False,,Delayed,False
+BAG1714,Direct,False,,Out of Sequence,False
+BAG1715,Transfer,False,,,False
+BAG1716,Direct,False,,Denial of Service,False
+BAG1717,Direct,False,,,False
+BAG1718,Transfer,False,,,False
+BAG1719,Transfer,False,,,False
+BAG1720,Direct,False,,,False
+BAG1721,Transfer,False,,,False
+BAG1722,Transfer,False,,,False
+BAG1723,Direct,False,,,False
+BAG1724,Transfer,False,,,False
+BAG1725,Direct,False,,,False
+BAG1726,Direct,False,,,False
+BAG1727,Direct,False,,Duplicate,False
+BAG1728,Direct,False,,,False
+BAG1729,Transfer,False,,,False
+BAG1730,Direct,False,,,False
+BAG1731,Transfer,False,,Delayed,False
+BAG1732,Direct,False,,Delayed,False
+BAG1733,Transfer,False,,Out of Sequence,False
+BAG1734,Direct,False,,,False
+BAG1735,Direct,False,,Invalid Location,False
+BAG1736,Direct,False,,,False
+BAG1737,Direct,False,,,False
+BAG1738,Direct,False,,Out of Sequence,False
+BAG1739,Transfer,False,,,False
+BAG1740,Transfer,False,,,False
+BAG1741,Transfer,False,,Out of Sequence,False
+BAG1742,Transfer,False,,Delayed,False
+BAG1743,Direct,False,,Delayed,False
+BAG1744,Transfer,False,,,False
+BAG1745,Transfer,False,,,False
+BAG1746,Direct,False,,,False
+BAG1747,Transfer,False,,Invalid Location,False
+BAG1748,Transfer,False,,Invalid Location,False
+BAG1749,Direct,False,,,False
+BAG1750,Direct,False,,,False
+BAG1751,Direct,False,,Delayed,False
+BAG1752,Transfer,False,,,False
+BAG1753,Transfer,False,,,False
+BAG1754,Direct,False,,,False
+BAG1755,Direct,False,,,False
+BAG1756,Transfer,False,,,False
+BAG1757,Transfer,False,,Invalid Location,False
+BAG1758,Direct,False,,,False
+BAG1759,Direct,False,,Spoofed Reader,False
+BAG1760,Direct,False,,,False
+BAG1761,Direct,False,,Invalid Location,False
+BAG1762,Direct,False,,,False
+BAG1763,Direct,False,,Invalid Location,False
+BAG1764,Direct,False,,,False
+BAG1765,Direct,False,,,False
+BAG1766,Direct,False,,Out of Sequence,False
+BAG1767,Direct,False,,Delayed,False
+BAG1768,Transfer,False,,,False
+BAG1769,Direct,False,,Duplicate,False
+BAG1770,Transfer,False,,,False
+BAG1771,Transfer,False,,,False
+BAG1772,Direct,False,,,False
+BAG1773,Direct,False,,,False
+BAG1774,Transfer,False,,,False
+BAG1775,Direct,False,,Invalid Location,False
+BAG1776,Direct,False,,Spoofed Reader,False
+BAG1777,Direct,False,,,False
+BAG1778,Transfer,False,,,False
+BAG1779,Direct,False,,Duplicate,False
+BAG1780,Transfer,False,,,False
+BAG1781,Direct,False,,Duplicate,False
+BAG1782,Direct,False,,,False
+BAG1783,Transfer,False,,,False
+BAG1784,Direct,False,,Out of Sequence,False
+BAG1785,Transfer,False,,,False
+BAG1786,Direct,False,,Spoofed Reader,False
+BAG1787,Transfer,False,,,False
+BAG1788,Direct,False,,,False
+BAG1789,Transfer,False,,Spoofed Reader,False
+BAG1790,Transfer,False,,,False
+BAG1791,Direct,False,,,False
+BAG1792,Direct,False,,,False
+BAG1793,Direct,False,,Spoofed Reader,False
+BAG1794,Direct,True,Loading,Missing Scan,True
+BAG1795,Direct,False,,,False
+BAG1796,Direct,True,Claim,Missing Scan,True
+BAG1797,Direct,False,,,False
+BAG1798,Direct,False,,,False
+BAG1799,Direct,False,,,False
+BAG1800,Direct,False,,Delayed,False
+BAG1801,Direct,False,,Spoofed Reader,False
+BAG1802,Direct,False,,,False
+BAG1803,Direct,False,,,False
+BAG1804,Transfer,False,,,False
+BAG1805,Direct,False,,,False
+BAG1806,Direct,False,,Spoofed Reader,False
+BAG1807,Direct,False,,Invalid Location,False
+BAG1808,Transfer,False,,Duplicate,False
+BAG1809,Transfer,False,,,False
+BAG1810,Direct,False,,Duplicate,False
+BAG1811,Direct,False,,,False
+BAG1812,Direct,False,,,False
+BAG1813,Direct,False,,,False
+BAG1814,Transfer,False,,,False
+BAG1815,Direct,False,,,False
+BAG1816,Transfer,False,,Spoofed Reader,False
+BAG1817,Direct,False,,Out of Sequence,False
+BAG1818,Direct,False,,,False
+BAG1819,Transfer,False,,Invalid Location,False
+BAG1820,Direct,False,,,False
+BAG1821,Direct,False,,,False
+BAG1822,Direct,False,,,False
+BAG1823,Transfer,False,,,False
+BAG1824,Direct,False,,,False
+BAG1825,Direct,False,,,False
+BAG1826,Direct,False,,Out of Sequence,False
+BAG1827,Direct,False,,,False
+BAG1828,Direct,False,,,False
+BAG1829,Direct,False,,,False
+BAG1830,Direct,False,,,False
+BAG1831,Direct,False,,Out of Sequence,False
+BAG1832,Transfer,False,,,False
+BAG1833,Transfer,False,,,False
+BAG1834,Transfer,False,,Out of Sequence,False
+BAG1835,Direct,False,,,False
+BAG1836,Transfer,False,,Delayed,False
+BAG1837,Direct,False,,,False
+BAG1838,Transfer,False,,Out of Sequence,False
+BAG1839,Direct,False,,Duplicate,False
+BAG1840,Direct,False,,,False
+BAG1841,Direct,False,,,False
+BAG1842,Direct,False,,Invalid Location,False
+BAG1843,Direct,False,,,False
+BAG1844,Direct,False,,Delayed,False
+BAG1845,Direct,False,,,False
+BAG1846,Direct,False,,Duplicate,False
+BAG1847,Direct,False,,Spoofed Reader,False
+BAG1848,Direct,False,,,False
+BAG1849,Direct,False,,,False
+BAG1850,Transfer,False,,,False
+BAG1851,Direct,False,,,False
+BAG1852,Direct,True,Acceptance,Missing Scan,True
+BAG1853,Direct,False,,Out of Sequence,False
+BAG1854,Direct,False,,,False
+BAG1855,Direct,False,,,False
+BAG1856,Direct,False,,,False
+BAG1857,Direct,False,,,False
+BAG1858,Direct,False,,,False
+BAG1859,Direct,False,,,False
+BAG1860,Transfer,False,,,False
+BAG1861,Transfer,False,,,False
+BAG1862,Direct,False,,,False
+BAG1863,Transfer,False,,,False
+BAG1864,Direct,False,,Duplicate,False
+BAG1865,Transfer,False,,Delayed,False
+BAG1866,Direct,False,,,False
+BAG1867,Direct,False,,Duplicate,False
+BAG1868,Transfer,False,,,False
+BAG1869,Direct,False,,,False
+BAG1870,Transfer,False,,,False
+BAG1871,Transfer,False,,,False
+BAG1872,Transfer,False,,,False
+BAG1873,Transfer,False,,,False
+BAG1874,Direct,False,,,False
+BAG1875,Transfer,False,,,False
+BAG1876,Direct,False,,,False
+BAG1877,Transfer,False,,,False
+BAG1878,Transfer,False,,Delayed,False
+BAG1879,Direct,False,,,False
+BAG1880,Direct,False,,,False
+BAG1881,Direct,False,,Spoofed Reader,False
+BAG1882,Direct,False,,,False
+BAG1883,Direct,False,,,False
+BAG1884,Direct,False,,,False
+BAG1885,Direct,False,,,False
+BAG1886,Direct,False,,Out of Sequence,False
+BAG1887,Transfer,False,,Invalid Location,False
+BAG1888,Direct,False,,,False
+BAG1889,Direct,False,,,False
+BAG1890,Direct,False,,,False
+BAG1891,Direct,False,,,False
+BAG1892,Transfer,False,,Denial of Service,False
+BAG1893,Direct,False,,,False
+BAG1894,Direct,False,,,False
+BAG1895,Transfer,False,,,False
+BAG1896,Direct,False,,,False
+BAG1897,Direct,False,,Delayed,False
+BAG1898,Transfer,False,,,False
+BAG1899,Direct,False,,,False
+BAG1900,Direct,False,,Delayed,False
+BAG1901,Direct,False,,Delayed,False
+BAG1902,Direct,False,,Invalid Location,False
+BAG1903,Direct,False,,,False
+BAG1904,Direct,False,,,False
+BAG1905,Direct,False,,,False
+BAG1906,Transfer,False,,,False
+BAG1907,Direct,False,,,False
+BAG1908,Transfer,False,,,False
+BAG1909,Direct,False,,,False
+BAG1910,Transfer,False,,,False
+BAG1911,Direct,False,,,False
+BAG1912,Direct,False,,Spoofed Reader,False
+BAG1913,Transfer,False,,,False
+BAG1914,Direct,False,,,False
+BAG1915,Direct,False,,Invalid Location,False
+BAG1916,Direct,False,,Spoofed Reader,False
+BAG1917,Direct,False,,,False
+BAG1918,Direct,False,,,False
+BAG1919,Transfer,False,,,False
+BAG1920,Transfer,False,,,False
+BAG1921,Direct,False,,,False
+BAG1922,Transfer,False,,,False
+BAG1923,Direct,False,,,False
+BAG1924,Direct,True,Screening,Missing Scan,True
+BAG1925,Direct,False,,,False
+BAG1926,Direct,False,,Spoofed Reader,False
+BAG1927,Transfer,False,,,False
+BAG1928,Direct,False,,,False
+BAG1929,Direct,False,,,False
+BAG1930,Direct,False,,,False
+BAG1931,Direct,False,,,False
+BAG1932,Direct,False,,Spoofed Reader,False
+BAG1933,Transfer,False,,,False
+BAG1934,Direct,False,,,False
+BAG1935,Transfer,False,,,False
+BAG1936,Transfer,False,,,False
+BAG1937,Direct,False,,,False
+BAG1938,Transfer,False,,,False
+BAG1939,Direct,False,,,False
+BAG1940,Direct,False,,,False
+BAG1941,Direct,False,,,False
+BAG1942,Transfer,False,,Denial of Service,False
+BAG1943,Transfer,False,,,False
+BAG1944,Direct,False,,,False
+BAG1945,Direct,False,,,False
+BAG1946,Transfer,False,,,False
+BAG1947,Transfer,False,,,False
+BAG1948,Direct,False,,,False
+BAG1949,Direct,False,,,False
+BAG1950,Direct,False,,Invalid Location,False
+BAG1951,Direct,False,,,False
+BAG1952,Direct,False,,,False
+BAG1953,Direct,False,,,False
+BAG1954,Direct,False,,,False
+BAG1955,Transfer,False,,Invalid Location,False
+BAG1956,Direct,False,,Denial of Service,False
+BAG1957,Direct,False,,,False
+BAG1958,Transfer,False,,,False
+BAG1959,Direct,False,,,False
+BAG1960,Direct,False,,,False
+BAG1961,Direct,False,,,False
+BAG1962,Transfer,False,,,False
+BAG1963,Transfer,False,,,False
+BAG1964,Direct,False,,Out of Sequence,False
+BAG1965,Direct,False,,,False
+BAG1966,Transfer,False,,,False
+BAG1967,Direct,False,,,False
+BAG1968,Direct,True,Sorting,Missing Scan,True
+BAG1969,Direct,False,,,False
+BAG1970,Direct,False,,,False
+BAG1971,Direct,False,,,False
+BAG1972,Transfer,False,,,False
+BAG1973,Transfer,False,,,False
+BAG1974,Transfer,False,,,False
+BAG1975,Direct,False,,Spoofed Reader,False
+BAG1976,Direct,False,,,False
+BAG1977,Direct,False,,Invalid Location,False
+BAG1978,Direct,False,,,False
+BAG1979,Transfer,False,,,False
+BAG1980,Direct,False,,,False
+BAG1981,Direct,False,,Delayed,False
+BAG1982,Direct,False,,Spoofed Reader,False
+BAG1983,Direct,False,,,False
+BAG1984,Transfer,False,,,False
+BAG1985,Direct,False,,,False
+BAG1986,Direct,False,,,False
+BAG1987,Direct,False,,,False
+BAG1988,Direct,False,,,False
+BAG1989,Transfer,False,,Spoofed Reader,False
+BAG1990,Direct,False,,,False
+BAG1991,Direct,False,,,False
+BAG1992,Direct,False,,Out of Sequence,False
+BAG1993,Direct,False,,,False
+BAG1994,Direct,False,,,False
+BAG1995,Direct,False,,Duplicate,False
+BAG1996,Direct,False,,,False
+BAG1997,Direct,False,,,False
+BAG1998,Direct,False,,,False
+BAG1999,Direct,False,,,False
+BAG2000,Direct,False,,,False
+BAG2001,Direct,False,,,False
+BAG2002,Direct,False,,Delayed,False
+BAG2003,Direct,False,,,False
+BAG2004,Direct,False,,,False
+BAG2005,Transfer,False,,,False
+BAG2006,Direct,False,,,False
+BAG2007,Direct,False,,,False
+BAG2008,Direct,False,,,False
+BAG2009,Direct,False,,,False
+BAG2010,Direct,False,,Delayed,False
+BAG2011,Direct,False,,Spoofed Reader,False
+BAG2012,Transfer,False,,,False
+BAG2013,Direct,False,,Out of Sequence,False
+BAG2014,Direct,False,,,False
+BAG2015,Direct,False,,,False
+BAG2016,Direct,False,,Duplicate,False
+BAG2017,Transfer,False,,,False
+BAG2018,Direct,False,,,False
+BAG2019,Transfer,False,,Out of Sequence,False
+BAG2020,Direct,False,,,False
+BAG2021,Direct,False,,Duplicate,False
+BAG2022,Transfer,False,,,False
+BAG2023,Transfer,False,,,False
+BAG2024,Direct,False,,Delayed,False
+BAG2025,Transfer,False,,,False
+BAG2026,Direct,False,,Spoofed Reader,False
+BAG2027,Direct,False,,,False
+BAG2028,Direct,False,,,False
+BAG2029,Direct,False,,,False
+BAG2030,Transfer,False,,Spoofed Reader,False
+BAG2031,Direct,False,,Out of Sequence,False
+BAG2032,Transfer,False,,,False
+BAG2033,Direct,False,,,False
+BAG2034,Direct,False,,Invalid Location,False
+BAG2035,Direct,False,,,False
+BAG2036,Direct,False,,,False
+BAG2037,Direct,False,,Out of Sequence,False
+BAG2038,Direct,False,,,False
+BAG2039,Direct,False,,,False
+BAG2040,Direct,False,,Out of Sequence,False
+BAG2041,Direct,False,,,False
+BAG2042,Direct,False,,Denial of Service,False
+BAG2043,Direct,False,,,False
+BAG2044,Direct,False,,,False
+BAG2045,Direct,False,,,False
+BAG2046,Direct,False,,Duplicate,False
+BAG2047,Direct,False,,Invalid Location,False
+BAG2048,Direct,False,,Spoofed Reader,False
+BAG2049,Direct,False,,,False
+BAG2050,Direct,False,,Invalid Location,False
+BAG2051,Direct,False,,,False
+BAG2052,Direct,False,,,False
+BAG2053,Transfer,False,,,False
+BAG2054,Transfer,False,,,False
+BAG2055,Direct,False,,,False
+BAG2056,Direct,False,,Duplicate,False
+BAG2057,Direct,False,,,False
+BAG2058,Transfer,False,,,False
+BAG2059,Direct,False,,,False
+BAG2060,Transfer,False,,,False
+BAG2061,Direct,False,,,False
+BAG2062,Direct,False,,,False
+BAG2063,Direct,False,,,False
+BAG2064,Transfer,False,,,False
+BAG2065,Direct,False,,,False
+BAG2066,Direct,False,,Spoofed Reader,False
+BAG2067,Direct,False,,,False
+BAG2068,Transfer,False,,Spoofed Reader,False
+BAG2069,Direct,False,,,False
+BAG2070,Direct,False,,,False
+BAG2071,Direct,False,,,False
+BAG2072,Direct,False,,Invalid Location,False
+BAG2073,Direct,False,,,False
+BAG2074,Transfer,False,,,False
+BAG2075,Direct,False,,,False
+BAG2076,Direct,False,,Delayed,False
+BAG2077,Direct,False,,,False
+BAG2078,Transfer,False,,,False
+BAG2079,Transfer,False,,,False
+BAG2080,Direct,False,,,False
+BAG2081,Direct,False,,,False
+BAG2082,Direct,False,,,False
+BAG2083,Direct,False,,,False
+BAG2084,Direct,False,,,False
+BAG2085,Direct,False,,,False
+BAG2086,Direct,False,,Duplicate,False
+BAG2087,Direct,False,,,False
+BAG2088,Direct,False,,,False
+BAG2089,Direct,True,Arrival,Missing Scan,True
+BAG2090,Direct,False,,,False
+BAG2091,Direct,False,,Out of Sequence,False
+BAG2092,Direct,False,,,False
+BAG2093,Transfer,False,,,False
+BAG2094,Transfer,False,,Delayed,False
+BAG2095,Transfer,False,,,False
+BAG2096,Transfer,False,,,False
+BAG2097,Direct,False,,,False
+BAG2098,Direct,False,,Spoofed Reader,False
+BAG2099,Direct,False,,Delayed,False
+BAG2100,Transfer,False,,,False
+BAG2101,Transfer,False,,Out of Sequence,False
+BAG2102,Transfer,False,,Invalid Location,False
+BAG2103,Direct,False,,,False
+BAG2104,Direct,False,,,False
+BAG2105,Transfer,False,,,False
+BAG2106,Direct,False,,,False
+BAG2107,Direct,False,,,False
+BAG2108,Transfer,True,Sorting,Missing Scan,True
+BAG2109,Direct,False,,Spoofed Reader,False
+BAG2110,Direct,False,,Duplicate,False
+BAG2111,Transfer,False,,Duplicate,False
+BAG2112,Transfer,False,,,False
+BAG2113,Direct,False,,,False
+BAG2114,Direct,False,,,False
+BAG2115,Direct,False,,,False
+BAG2116,Direct,False,,,False
+BAG2117,Direct,False,,Spoofed Reader,False
+BAG2118,Transfer,False,,,False
+BAG2119,Transfer,False,,,False
+BAG2120,Transfer,False,,,False
+BAG2121,Direct,False,,,False
+BAG2122,Transfer,False,,,False
+BAG2123,Direct,False,,,False
+BAG2124,Transfer,False,,,False
+BAG2125,Transfer,False,,,False
+BAG2126,Direct,False,,,False
+BAG2127,Direct,False,,,False
+BAG2128,Direct,False,,,False
+BAG2129,Direct,False,,,False
+BAG2130,Direct,False,,,False
+BAG2131,Direct,False,,,False
+BAG2132,Transfer,False,,,False
+BAG2133,Direct,False,,,False
+BAG2134,Direct,True,Arrival,Missing Scan,True
+BAG2135,Direct,False,,,False
+BAG2136,Direct,False,,,False
+BAG2137,Direct,False,,,False
+BAG2138,Direct,False,,,False
+BAG2139,Transfer,False,,,False
+BAG2140,Direct,False,,,False
+BAG2141,Direct,False,,,False
+BAG2142,Direct,False,,,False
+BAG2143,Transfer,False,,,False
+BAG2144,Direct,False,,Out of Sequence,False
+BAG2145,Direct,False,,,False
+BAG2146,Direct,False,,Duplicate,False
+BAG2147,Transfer,False,,,False
+BAG2148,Direct,False,,Duplicate,False
+BAG2149,Direct,False,,,False
+BAG2150,Direct,False,,,False
+BAG2151,Direct,False,,,False
+BAG2152,Direct,False,,Invalid Location,False
+BAG2153,Direct,False,,Denial of Service,False
+BAG2154,Direct,False,,,False
+BAG2155,Direct,False,,,False
+BAG2156,Direct,False,,,False
+BAG2157,Direct,False,,,False
+BAG2158,Transfer,False,,Delayed,False
+BAG2159,Direct,False,,,False
+BAG2160,Direct,False,,,False
+BAG2161,Direct,False,,,False
+BAG2162,Direct,False,,,False
+BAG2163,Direct,False,,,False
+BAG2164,Direct,False,,,False
+BAG2165,Transfer,False,,,False
+BAG2166,Direct,False,,,False
+BAG2167,Direct,False,,,False
+BAG2168,Transfer,False,,Spoofed Reader,False
+BAG2169,Transfer,False,,Duplicate,False
+BAG2170,Direct,False,,,False
+BAG2171,Transfer,False,,,False
+BAG2172,Direct,False,,,False
+BAG2173,Direct,False,,,False
+BAG2174,Transfer,False,,,False
+BAG2175,Transfer,False,,Spoofed Reader,False
+BAG2176,Direct,False,,,False
+BAG2177,Direct,False,,,False
+BAG2178,Direct,False,,,False
+BAG2179,Transfer,False,,Spoofed Reader,False
+BAG2180,Direct,False,,,False
+BAG2181,Direct,False,,,False
+BAG2182,Transfer,False,,,False
+BAG2183,Direct,False,,,False
+BAG2184,Direct,False,,Invalid Location,False
+BAG2185,Direct,False,,,False
+BAG2186,Direct,False,,,False
+BAG2187,Direct,False,,,False
+BAG2188,Transfer,False,,,False
+BAG2189,Direct,False,,Out of Sequence,False
+BAG2190,Direct,False,,Out of Sequence,False
+BAG2191,Direct,False,,,False
+BAG2192,Transfer,False,,Delayed,False
+BAG2193,Direct,True,Screening,Missing Scan,True
+BAG2194,Direct,False,,Duplicate,False
+BAG2195,Transfer,False,,,False
+BAG2196,Transfer,False,,Invalid Location,False
+BAG2197,Direct,False,,,False
+BAG2198,Direct,False,,,False
+BAG2199,Direct,False,,,False
+BAG2200,Direct,False,,Invalid Location,False
+BAG2201,Direct,False,,Out of Sequence,False
+BAG2202,Transfer,False,,,False
+BAG2203,Direct,False,,,False
+BAG2204,Direct,False,,,False
+BAG2205,Direct,False,,,False
+BAG2206,Direct,False,,,False
+BAG2207,Direct,False,,,False
+BAG2208,Direct,False,,Out of Sequence,False
+BAG2209,Direct,False,,,False
+BAG2210,Direct,False,,,False
+BAG2211,Transfer,False,,Out of Sequence,False
+BAG2212,Direct,False,,Invalid Location,False
+BAG2213,Direct,False,,,False
+BAG2214,Transfer,False,,Spoofed Reader,False
+BAG2215,Direct,False,,,False
+BAG2216,Transfer,False,,Delayed,False
+BAG2217,Direct,False,,,False
+BAG2218,Transfer,False,,Spoofed Reader,False
+BAG2219,Direct,False,,,False
+BAG2220,Direct,False,,Spoofed Reader,False
+BAG2221,Transfer,False,,,False
+BAG2222,Transfer,False,,Invalid Location,False
+BAG2223,Direct,False,,Out of Sequence,False
+BAG2224,Transfer,False,,,False
+BAG2225,Direct,False,,,False
+BAG2226,Transfer,False,,,False
+BAG2227,Direct,False,,,False
+BAG2228,Direct,False,,,False
+BAG2229,Transfer,False,,,False
+BAG2230,Transfer,False,,,False
+BAG2231,Direct,False,,,False
+BAG2232,Direct,False,,,False
+BAG2233,Transfer,False,,,False
+BAG2234,Transfer,False,,Denial of Service,False
+BAG2235,Direct,False,,,False
+BAG2236,Direct,False,,,False
+BAG2237,Transfer,False,,,False
+BAG2238,Direct,False,,,False
+BAG2239,Transfer,False,,Out of Sequence,False
+BAG2240,Direct,False,,Spoofed Reader,False
+BAG2241,Transfer,False,,,False
+BAG2242,Direct,False,,,False
+BAG2243,Direct,False,,Invalid Location,False
+BAG2244,Direct,False,,,False
+BAG2245,Transfer,False,,,False
+BAG2246,Transfer,False,,Out of Sequence,False
+BAG2247,Direct,False,,,False
+BAG2248,Direct,False,,Denial of Service,False
+BAG2249,Direct,False,,,False
+BAG2250,Direct,False,,,False
+BAG2251,Direct,False,,Spoofed Reader,False
+BAG2252,Transfer,False,,,False
+BAG2253,Direct,False,,Out of Sequence,False
+BAG2254,Direct,False,,,False
+BAG2255,Transfer,False,,,False
+BAG2256,Direct,False,,Delayed,False
+BAG2257,Direct,False,,,False
+BAG2258,Direct,False,,,False
+BAG2259,Direct,False,,,False
+BAG2260,Direct,False,,,False
+BAG2261,Direct,False,,,False
+BAG2262,Direct,False,,,False
+BAG2263,Direct,False,,,False
+BAG2264,Direct,False,,,False
+BAG2265,Transfer,False,,,False
+BAG2266,Direct,False,,,False
+BAG2267,Transfer,False,,,False
+BAG2268,Direct,False,,,False
+BAG2269,Direct,False,,,False
+BAG2270,Direct,False,,Duplicate,False
+BAG2271,Direct,False,,Duplicate,False
+BAG2272,Direct,False,,,False
+BAG2273,Direct,False,,,False
+BAG2274,Direct,False,,,False
+BAG2275,Transfer,False,,Denial of Service,False
+BAG2276,Transfer,False,,Delayed,False
+BAG2277,Transfer,False,,,False
+BAG2278,Direct,True,Screening,Missing Scan,True
+BAG2279,Direct,False,,Delayed,False
+BAG2280,Direct,False,,Out of Sequence,False
+BAG2281,Transfer,False,,,False
+BAG2282,Direct,False,,Denial of Service,False
+BAG2283,Direct,False,,,False
+BAG2284,Direct,False,,,False
+BAG2285,Transfer,False,,,False
+BAG2286,Direct,True,Screening,Missing Scan,True
+BAG2287,Direct,True,Claim,Missing Scan,True
+BAG2288,Transfer,False,,Delayed,False
+BAG2289,Direct,True,Acceptance,Missing Scan,True
+BAG2290,Direct,False,,Duplicate,False
+BAG2291,Direct,False,,Out of Sequence,False
+BAG2292,Direct,False,,Out of Sequence,False
+BAG2293,Transfer,False,,Duplicate,False
+BAG2294,Direct,False,,Delayed,False
+BAG2295,Direct,False,,,False
+BAG2296,Transfer,False,,,False
+BAG2297,Direct,False,,,False
+BAG2298,Transfer,True,Transfer,Missing Scan,True
+BAG2299,Transfer,False,,,False
+BAG2300,Direct,False,,,False
+BAG2301,Direct,False,,,False
+BAG2302,Direct,False,,Denial of Service,False
+BAG2303,Direct,False,,,False
+BAG2304,Transfer,False,,Spoofed Reader,False
+BAG2305,Transfer,False,,Delayed,False
+BAG2306,Transfer,False,,,False
+BAG2307,Direct,False,,,False
+BAG2308,Transfer,False,,Duplicate,False
+BAG2309,Direct,False,,,False
+BAG2310,Transfer,False,,,False
+BAG2311,Direct,False,,,False
+BAG2312,Direct,False,,,False
+BAG2313,Transfer,False,,,False
+BAG2314,Transfer,False,,,False
+BAG2315,Direct,False,,,False
+BAG2316,Direct,False,,,False
+BAG2317,Transfer,False,,Spoofed Reader,False
+BAG2318,Transfer,False,,,False
+BAG2319,Direct,False,,,False
+BAG2320,Direct,False,,,False
+BAG2321,Direct,False,,Delayed,False
+BAG2322,Direct,False,,,False
+BAG2323,Direct,False,,,False
+BAG2324,Transfer,False,,Delayed,False
+BAG2325,Direct,False,,Duplicate,False
+BAG2326,Direct,False,,Delayed,False
+BAG2327,Direct,False,,,False
+BAG2328,Direct,False,,Delayed,False
+BAG2329,Transfer,False,,Spoofed Reader,False
+BAG2330,Transfer,False,,,False
+BAG2331,Transfer,False,,,False
+BAG2332,Direct,False,,,False
+BAG2333,Direct,False,,,False
+BAG2334,Direct,False,,,False
+BAG2335,Direct,False,,,False
+BAG2336,Direct,False,,,False
+BAG2337,Direct,False,,Invalid Location,False
+BAG2338,Direct,False,,,False
+BAG2339,Direct,False,,,False
+BAG2340,Transfer,False,,,False
+BAG2341,Direct,False,,Delayed,False
+BAG2342,Direct,False,,,False
+BAG2343,Direct,False,,,False
+BAG2344,Direct,False,,,False
+BAG2345,Transfer,False,,,False
+BAG2346,Direct,False,,,False
+BAG2347,Direct,False,,Out of Sequence,False
+BAG2348,Transfer,False,,,False
+BAG2349,Direct,False,,,False
+BAG2350,Direct,False,,,False
+BAG2351,Direct,False,,,False
+BAG2352,Transfer,False,,,False
+BAG2353,Direct,False,,,False
+BAG2354,Direct,False,,,False
+BAG2355,Direct,False,,,False
+BAG2356,Direct,False,,,False
+BAG2357,Direct,True,Loading,Missing Scan,True
+BAG2358,Transfer,False,,,False
+BAG2359,Direct,False,,Out of Sequence,False
+BAG2360,Direct,False,,,False
+BAG2361,Direct,True,Loading,Missing Scan,True
+BAG2362,Direct,False,,,False
+BAG2363,Direct,True,Screening,Missing Scan,True
+BAG2364,Direct,False,,,False
+BAG2365,Transfer,False,,,False
+BAG2366,Direct,False,,,False
+BAG2367,Direct,False,,Delayed,False
+BAG2368,Direct,False,,,False
+BAG2369,Direct,False,,,False
+BAG2370,Direct,True,Arrival,Missing Scan,True
+BAG2371,Transfer,False,,Spoofed Reader,False
+BAG2372,Direct,False,,,False
+BAG2373,Transfer,False,,,False
+BAG2374,Direct,False,,,False
+BAG2375,Transfer,False,,,False
+BAG2376,Direct,False,,Out of Sequence,False
+BAG2377,Direct,False,,,False
+BAG2378,Transfer,False,,Duplicate,False
+BAG2379,Direct,False,,,False
+BAG2380,Direct,False,,,False
+BAG2381,Transfer,False,,,False
+BAG2382,Direct,False,,,False
+BAG2383,Direct,False,,,False
+BAG2384,Direct,False,,,False
+BAG2385,Transfer,False,,Delayed,False
+BAG2386,Direct,False,,,False
+BAG2387,Direct,False,,,False
+BAG2388,Direct,False,,,False
+BAG2389,Transfer,False,,Duplicate,False
+BAG2390,Direct,False,,Delayed,False
+BAG2391,Direct,False,,,False
+BAG2392,Direct,False,,,False
+BAG2393,Direct,True,Arrival,Missing Scan,True
+BAG2394,Direct,False,,,False
+BAG2395,Direct,False,,,False
+BAG2396,Transfer,False,,,False
+BAG2397,Direct,False,,Duplicate,False
+BAG2398,Direct,False,,,False
+BAG2399,Direct,False,,,False
+BAG2400,Direct,False,,,False
+BAG2401,Direct,False,,,False
+BAG2402,Direct,True,Claim,Missing Scan,True
+BAG2403,Transfer,False,,,False
+BAG2404,Direct,False,,Invalid Location,False
+BAG2405,Transfer,False,,,False
+BAG2406,Transfer,False,,Duplicate,False
+BAG2407,Direct,False,,Denial of Service,False
+BAG2408,Direct,False,,Denial of Service,False
+BAG2409,Direct,False,,Duplicate,False
+BAG2410,Transfer,False,,Denial of Service,False
+BAG2411,Direct,False,,,False
+BAG2412,Direct,False,,Delayed,False
+BAG2413,Direct,False,,Spoofed Reader,False
+BAG2414,Transfer,False,,,False
+BAG2415,Transfer,False,,Delayed,False
+BAG2416,Direct,False,,,False
+BAG2417,Transfer,False,,,False
+BAG2418,Transfer,False,,,False
+BAG2419,Transfer,False,,,False
+BAG2420,Direct,False,,,False
+BAG2421,Direct,False,,,False
+BAG2422,Direct,False,,Duplicate,False
+BAG2423,Transfer,False,,,False
+BAG2424,Transfer,False,,,False
+BAG2425,Direct,False,,,False
+BAG2426,Direct,False,,Duplicate,False
+BAG2427,Transfer,False,,,False
+BAG2428,Direct,False,,,False
+BAG2429,Direct,False,,,False
+BAG2430,Direct,False,,,False
+BAG2431,Direct,False,,,False
+BAG2432,Direct,False,,Spoofed Reader,False
+BAG2433,Direct,False,,,False
+BAG2434,Direct,False,,,False
+BAG2435,Direct,False,,Out of Sequence,False
+BAG2436,Direct,False,,Invalid Location,False
+BAG2437,Transfer,False,,,False
+BAG2438,Direct,False,,,False
+BAG2439,Direct,True,Loading,Missing Scan,True
+BAG2440,Direct,False,,,False
+BAG2441,Direct,False,,,False
+BAG2442,Direct,False,,,False
+BAG2443,Direct,False,,,False
+BAG2444,Direct,False,,,False
+BAG2445,Direct,False,,,False
+BAG2446,Transfer,False,,,False
+BAG2447,Direct,False,,,False
+BAG2448,Transfer,False,,,False
+BAG2449,Direct,False,,,False
+BAG2450,Direct,False,,,False
+BAG2451,Transfer,True,Sorting,Missing Scan,True
+BAG2452,Transfer,False,,Spoofed Reader,False
+BAG2453,Direct,False,,,False
+BAG2454,Direct,False,,Spoofed Reader,False
+BAG2455,Direct,False,,Delayed,False
+BAG2456,Direct,False,,,False
+BAG2457,Transfer,False,,,False
+BAG2458,Direct,False,,Duplicate,False
+BAG2459,Direct,False,,Out of Sequence,False
+BAG2460,Direct,False,,,False
+BAG2461,Transfer,False,,,False
+BAG2462,Direct,False,,,False
+BAG2463,Transfer,False,,,False
+BAG2464,Transfer,False,,,False
+BAG2465,Transfer,False,,Out of Sequence,False
+BAG2466,Direct,False,,Spoofed Reader,False
+BAG2467,Direct,False,,,False
+BAG2468,Direct,False,,,False
+BAG2469,Transfer,False,,Delayed,False
+BAG2470,Direct,False,,,False
+BAG2471,Transfer,False,,,False
+BAG2472,Direct,False,,,False
+BAG2473,Direct,False,,,False
+BAG2474,Transfer,False,,Duplicate,False
+BAG2475,Direct,False,,,False
+BAG2476,Direct,False,,,False
+BAG2477,Direct,False,,,False
+BAG2478,Direct,False,,,False
+BAG2479,Transfer,False,,,False
+BAG2480,Direct,False,,,False
+BAG2481,Transfer,False,,,False
+BAG2482,Direct,False,,,False
+BAG2483,Direct,False,,Invalid Location,False
+BAG2484,Transfer,True,Sorting,Missing Scan,True
+BAG2485,Transfer,False,,,False
+BAG2486,Direct,False,,Invalid Location,False
+BAG2487,Direct,False,,,False
+BAG2488,Direct,False,,Duplicate,False
+BAG2489,Direct,False,,,False
+BAG2490,Direct,False,,,False
+BAG2491,Direct,False,,Delayed,False
+BAG2492,Direct,False,,,False
+BAG2493,Direct,False,,Invalid Location,False
+BAG2494,Direct,False,,,False
+BAG2495,Direct,False,,,False
+BAG2496,Transfer,False,,,False
+BAG2497,Direct,False,,Spoofed Reader,False
+BAG2498,Transfer,False,,,False
+BAG2499,Transfer,False,,Spoofed Reader,False
+BAG2500,Direct,False,,,False
+BAG2501,Direct,False,,Duplicate,False
+BAG2502,Direct,False,,,False
+BAG2503,Direct,False,,,False
+BAG2504,Direct,False,,,False
+BAG2505,Direct,False,,,False
+BAG2506,Transfer,False,,Denial of Service,False
+BAG2507,Direct,False,,,False
+BAG2508,Direct,False,,,False
+BAG2509,Direct,False,,,False
+BAG2510,Transfer,False,,Out of Sequence,False
+BAG2511,Direct,False,,,False
+BAG2512,Direct,False,,,False
+BAG2513,Transfer,False,,Duplicate,False
+BAG2514,Direct,False,,Spoofed Reader,False
+BAG2515,Direct,False,,,False
+BAG2516,Transfer,False,,Denial of Service,False
+BAG2517,Direct,False,,Delayed,False
+BAG2518,Direct,False,,,False
+BAG2519,Direct,False,,,False
+BAG2520,Transfer,False,,Invalid Location,False
+BAG2521,Direct,False,,Delayed,False
+BAG2522,Transfer,False,,,False
+BAG2523,Direct,False,,,False
+BAG2524,Direct,False,,,False
+BAG2525,Direct,False,,,False
+BAG2526,Transfer,False,,,False
+BAG2527,Transfer,False,,,False
+BAG2528,Transfer,False,,,False
+BAG2529,Direct,False,,,False
+BAG2530,Direct,False,,,False
+BAG2531,Direct,False,,Delayed,False
+BAG2532,Transfer,False,,Invalid Location,False
+BAG2533,Direct,False,,,False
+BAG2534,Direct,False,,,False
+BAG2535,Transfer,False,,Spoofed Reader,False
+BAG2536,Direct,False,,,False
+BAG2537,Transfer,False,,,False
+BAG2538,Direct,False,,,False
+BAG2539,Direct,False,,Spoofed Reader,False
+BAG2540,Direct,False,,Duplicate,False
+BAG2541,Direct,True,Screening,Missing Scan,True
+BAG2542,Direct,False,,,False
+BAG2543,Direct,False,,Invalid Location,False
+BAG2544,Direct,False,,,False
+BAG2545,Direct,False,,Invalid Location,False
+BAG2546,Direct,False,,,False
+BAG2547,Direct,False,,Invalid Location,False
+BAG2548,Transfer,False,,,False
+BAG2549,Direct,False,,,False
+BAG2550,Direct,False,,,False
+BAG2551,Direct,False,,,False
+BAG2552,Direct,False,,,False
+BAG2553,Direct,False,,,False
+BAG2554,Direct,False,,,False
+BAG2555,Direct,False,,Spoofed Reader,False
+BAG2556,Transfer,False,,Spoofed Reader,False
+BAG2557,Direct,False,,,False
+BAG2558,Direct,False,,,False
+BAG2559,Direct,False,,,False
+BAG2560,Transfer,False,,,False
+BAG2561,Direct,False,,,False
+BAG2562,Transfer,False,,Out of Sequence,False
+BAG2563,Direct,False,,,False
+BAG2564,Direct,False,,Out of Sequence,False
+BAG2565,Direct,False,,Spoofed Reader,False
+BAG2566,Direct,False,,,False
+BAG2567,Direct,False,,,False
+BAG2568,Transfer,False,,,False
+BAG2569,Direct,False,,,False
+BAG2570,Direct,False,,,False
+BAG2571,Transfer,False,,,False
+BAG2572,Direct,False,,,False
+BAG2573,Direct,False,,,False
+BAG2574,Direct,False,,Spoofed Reader,False
+BAG2575,Transfer,False,,,False
+BAG2576,Transfer,False,,,False
+BAG2577,Direct,False,,,False
+BAG2578,Transfer,False,,,False
+BAG2579,Direct,False,,,False
+BAG2580,Direct,False,,,False
+BAG2581,Direct,False,,,False
+BAG2582,Direct,False,,,False
+BAG2583,Direct,False,,,False
+BAG2584,Direct,False,,Spoofed Reader,False
+BAG2585,Transfer,False,,,False
+BAG2586,Direct,False,,,False
+BAG2587,Transfer,False,,,False
+BAG2588,Direct,False,,,False
+BAG2589,Direct,False,,Spoofed Reader,False
+BAG2590,Transfer,False,,,False
+BAG2591,Direct,False,,Out of Sequence,False
+BAG2592,Transfer,False,,,False
+BAG2593,Direct,False,,Spoofed Reader,False
+BAG2594,Direct,False,,,False
+BAG2595,Transfer,False,,,False
+BAG2596,Direct,False,,,False
+BAG2597,Direct,False,,,False
+BAG2598,Direct,False,,,False
+BAG2599,Direct,False,,,False
+BAG2600,Direct,False,,Delayed,False
+BAG2601,Direct,False,,,False
+BAG2602,Direct,False,,,False
+BAG2603,Transfer,False,,,False
+BAG2604,Transfer,False,,,False
+BAG2605,Direct,True,Screening,Missing Scan,True
+BAG2606,Transfer,False,,,False
+BAG2607,Direct,False,,,False
+BAG2608,Direct,False,,,False
+BAG2609,Direct,False,,,False
+BAG2610,Transfer,False,,Invalid Location,False
+BAG2611,Direct,False,,Invalid Location,False
+BAG2612,Direct,False,,,False
+BAG2613,Direct,False,,,False
+BAG2614,Direct,False,,,False
+BAG2615,Transfer,False,,,False
+BAG2616,Direct,False,,,False
+BAG2617,Direct,False,,,False
+BAG2618,Direct,False,,Spoofed Reader,False
+BAG2619,Direct,False,,,False
+BAG2620,Direct,False,,Delayed,False
+BAG2621,Direct,True,Arrival,Missing Scan,True
+BAG2622,Direct,False,,,False
+BAG2623,Direct,False,,,False
+BAG2624,Transfer,False,,,False
+BAG2625,Direct,False,,,False
+BAG2626,Direct,False,,,False
+BAG2627,Direct,False,,,False
+BAG2628,Direct,False,,Duplicate,False
+BAG2629,Direct,False,,,False
+BAG2630,Direct,False,,,False
+BAG2631,Transfer,False,,,False
+BAG2632,Direct,False,,,False
+BAG2633,Direct,False,,Spoofed Reader,False
+BAG2634,Transfer,False,,,False
+BAG2635,Direct,False,,Denial of Service,False
+BAG2636,Direct,False,,,False
+BAG2637,Direct,False,,,False
+BAG2638,Direct,False,,,False
+BAG2639,Direct,False,,,False
+BAG2640,Direct,False,,,False
+BAG2641,Direct,False,,,False
+BAG2642,Direct,False,,,False
+BAG2643,Transfer,False,,,False
+BAG2644,Direct,False,,,False
+BAG2645,Direct,False,,,False
+BAG2646,Direct,False,,,False
+BAG2647,Transfer,False,,,False
+BAG2648,Direct,False,,,False
+BAG2649,Transfer,False,,Out of Sequence,False
+BAG2650,Direct,False,,,False
+BAG2651,Transfer,False,,Duplicate,False
+BAG2652,Direct,False,,,False
+BAG2653,Direct,False,,,False
+BAG2654,Transfer,False,,,False
+BAG2655,Transfer,False,,,False
+BAG2656,Direct,False,,,False
+BAG2657,Direct,False,,,False
+BAG2658,Direct,False,,,False
+BAG2659,Direct,False,,,False
+BAG2660,Transfer,False,,,False
+BAG2661,Direct,False,,,False
+BAG2662,Direct,False,,Duplicate,False
+BAG2663,Transfer,False,,,False
+BAG2664,Transfer,False,,,False
+BAG2665,Transfer,False,,,False
+BAG2666,Direct,False,,,False
+BAG2667,Direct,False,,,False
+BAG2668,Direct,False,,,False
+BAG2669,Direct,False,,,False
+BAG2670,Transfer,False,,,False
+BAG2671,Direct,False,,,False
+BAG2672,Direct,False,,,False
+BAG2673,Transfer,False,,,False
+BAG2674,Transfer,False,,,False
+BAG2675,Direct,False,,Spoofed Reader,False
+BAG2676,Direct,False,,,False
+BAG2677,Direct,False,,,False
+BAG2678,Transfer,False,,Out of Sequence,False
+BAG2679,Direct,False,,,False
+BAG2680,Direct,False,,,False
+BAG2681,Transfer,False,,Spoofed Reader,False
+BAG2682,Direct,False,,,False
+BAG2683,Direct,False,,,False
+BAG2684,Transfer,False,,,False
+BAG2685,Direct,False,,,False
+BAG2686,Transfer,False,,Spoofed Reader,False
+BAG2687,Transfer,False,,,False
+BAG2688,Direct,False,,Spoofed Reader,False
+BAG2689,Transfer,False,,,False
+BAG2690,Transfer,False,,,False
+BAG2691,Direct,False,,,False
+BAG2692,Direct,False,,Invalid Location,False
+BAG2693,Direct,False,,Duplicate,False
+BAG2694,Direct,False,,,False
+BAG2695,Direct,False,,,False
+BAG2696,Direct,False,,Out of Sequence,False
+BAG2697,Transfer,False,,,False
+BAG2698,Direct,True,Arrival,Missing Scan,True
+BAG2699,Direct,False,,,False
+BAG2700,Direct,False,,,False
+BAG2701,Direct,False,,Delayed,False
+BAG2702,Direct,False,,Spoofed Reader,False
+BAG2703,Transfer,False,,,False
+BAG2704,Direct,False,,Spoofed Reader,False
+BAG2705,Transfer,False,,,False
+BAG2706,Direct,False,,,False
+BAG2707,Direct,False,,,False
+BAG2708,Transfer,False,,Spoofed Reader,False
+BAG2709,Direct,False,,,False
+BAG2710,Direct,True,Arrival,Missing Scan,True
+BAG2711,Transfer,False,,,False
+BAG2712,Direct,False,,,False
+BAG2713,Direct,False,,,False
+BAG2714,Direct,False,,,False
+BAG2715,Direct,False,,,False
+BAG2716,Direct,False,,,False
+BAG2717,Direct,False,,,False
+BAG2718,Direct,True,Claim,Missing Scan,True
+BAG2719,Transfer,False,,,False
+BAG2720,Direct,True,Acceptance,Missing Scan,True
+BAG2721,Direct,True,Sorting,Missing Scan,True
+BAG2722,Transfer,False,,,False
+BAG2723,Transfer,False,,,False
+BAG2724,Direct,False,,Spoofed Reader,False
+BAG2725,Direct,False,,Duplicate,False
+BAG2726,Direct,False,,,False
+BAG2727,Direct,False,,,False
+BAG2728,Transfer,False,,Delayed,False
+BAG2729,Transfer,False,,,False
+BAG2730,Direct,False,,,False
+BAG2731,Direct,False,,Spoofed Reader,False
+BAG2732,Direct,False,,Out of Sequence,False
+BAG2733,Transfer,False,,,False
+BAG2734,Direct,False,,,False
+BAG2735,Direct,False,,,False
+BAG2736,Direct,False,,,False
+BAG2737,Direct,False,,Spoofed Reader,False
+BAG2738,Direct,False,,Out of Sequence,False
+BAG2739,Direct,False,,,False
+BAG2740,Direct,False,,Out of Sequence,False
+BAG2741,Direct,False,,,False
+BAG2742,Direct,False,,,False
+BAG2743,Direct,False,,Spoofed Reader,False
+BAG2744,Direct,False,,Duplicate,False
+BAG2745,Direct,False,,,False
+BAG2746,Direct,False,,,False
+BAG2747,Transfer,True,Screening,Missing Scan,True
+BAG2748,Direct,False,,,False
+BAG2749,Direct,False,,Spoofed Reader,False
+BAG2750,Transfer,False,,,False
+BAG2751,Transfer,False,,,False
+BAG2752,Direct,False,,,False
+BAG2753,Direct,False,,,False
+BAG2754,Transfer,False,,Spoofed Reader,False
+BAG2755,Transfer,False,,,False
+BAG2756,Direct,False,,,False
+BAG2757,Direct,False,,,False
+BAG2758,Direct,False,,,False
+BAG2759,Transfer,False,,Spoofed Reader,False
+BAG2760,Direct,False,,,False
+BAG2761,Direct,False,,Invalid Location,False
+BAG2762,Direct,False,,,False
+BAG2763,Direct,False,,,False
+BAG2764,Transfer,False,,Invalid Location,False
+BAG2765,Direct,False,,,False
+BAG2766,Transfer,False,,Delayed,False
+BAG2767,Direct,False,,,False
+BAG2768,Transfer,False,,,False
+BAG2769,Direct,False,,Out of Sequence,False
+BAG2770,Direct,False,,Spoofed Reader,False
+BAG2771,Direct,False,,Spoofed Reader,False
+BAG2772,Direct,False,,,False
+BAG2773,Direct,False,,,False
+BAG2774,Direct,False,,,False
+BAG2775,Direct,False,,,False
+BAG2776,Transfer,False,,,False
+BAG2777,Transfer,False,,,False
+BAG2778,Direct,True,Claim,Missing Scan,True
+BAG2779,Transfer,False,,,False
+BAG2780,Direct,False,,,False
+BAG2781,Direct,False,,,False
+BAG2782,Direct,False,,Denial of Service,False
+BAG2783,Direct,False,,,False
+BAG2784,Direct,False,,,False
+BAG2785,Direct,False,,Spoofed Reader,False
+BAG2786,Direct,False,,,False
+BAG2787,Direct,False,,Duplicate,False
+BAG2788,Transfer,False,,,False
+BAG2789,Direct,False,,Spoofed Reader,False
+BAG2790,Direct,False,,Invalid Location,False
+BAG2791,Direct,False,,Spoofed Reader,False
+BAG2792,Direct,False,,,False
+BAG2793,Transfer,False,,,False
+BAG2794,Direct,False,,,False
+BAG2795,Transfer,False,,Delayed,False
+BAG2796,Direct,False,,,False
+BAG2797,Transfer,False,,,False
+BAG2798,Direct,False,,Spoofed Reader,False
+BAG2799,Direct,False,,Out of Sequence,False
+BAG2800,Direct,False,,,False
+BAG2801,Direct,False,,Out of Sequence,False
+BAG2802,Transfer,False,,,False
+BAG2803,Direct,False,,,False
+BAG2804,Direct,False,,,False
+BAG2805,Transfer,False,,,False
+BAG2806,Transfer,False,,,False
+BAG2807,Direct,False,,,False
+BAG2808,Transfer,False,,,False
+BAG2809,Direct,False,,Duplicate,False
+BAG2810,Transfer,False,,,False
+BAG2811,Direct,False,,,False
+BAG2812,Direct,False,,,False
+BAG2813,Direct,False,,,False
+BAG2814,Direct,False,,Duplicate,False
+BAG2815,Direct,False,,Duplicate,False
+BAG2816,Direct,False,,,False
+BAG2817,Direct,True,Screening,Missing Scan,True
+BAG2818,Transfer,False,,,False
+BAG2819,Direct,False,,,False
+BAG2820,Transfer,False,,,False
+BAG2821,Direct,False,,,False
+BAG2822,Direct,False,,,False
+BAG2823,Direct,False,,,False
+BAG2824,Direct,False,,,False
+BAG2825,Direct,False,,,False
+BAG2826,Direct,False,,,False
+BAG2827,Transfer,False,,,False
+BAG2828,Direct,False,,,False
+BAG2829,Direct,False,,,False
+BAG2830,Transfer,False,,,False
+BAG2831,Direct,False,,,False
+BAG2832,Direct,False,,,False
+BAG2833,Direct,False,,Out of Sequence,False
+BAG2834,Direct,False,,Out of Sequence,False
+BAG2835,Transfer,False,,Duplicate,False
+BAG2836,Transfer,False,,Out of Sequence,False
+BAG2837,Transfer,False,,,False
+BAG2838,Direct,False,,,False
+BAG2839,Direct,False,,,False
+BAG2840,Direct,False,,,False
+BAG2841,Direct,False,,Delayed,False
+BAG2842,Direct,False,,,False
+BAG2843,Direct,False,,,False
+BAG2844,Transfer,False,,,False
+BAG2845,Direct,False,,,False
+BAG2846,Transfer,False,,,False
+BAG2847,Transfer,False,,,False
+BAG2848,Transfer,False,,,False
+BAG2849,Direct,False,,Spoofed Reader,False
+BAG2850,Direct,False,,Delayed,False
+BAG2851,Transfer,True,Screening,Missing Scan,True
+BAG2852,Direct,False,,,False
+BAG2853,Direct,False,,,False
+BAG2854,Direct,False,,,False
+BAG2855,Direct,False,,,False
+BAG2856,Direct,False,,,False
+BAG2857,Direct,False,,,False
+BAG2858,Direct,False,,,False
+BAG2859,Direct,False,,,False
+BAG2860,Transfer,False,,,False
+BAG2861,Transfer,False,,,False
+BAG2862,Direct,False,,,False
+BAG2863,Direct,False,,,False
+BAG2864,Direct,False,,,False
+BAG2865,Direct,False,,,False
+BAG2866,Transfer,False,,,False
+BAG2867,Direct,False,,,False
+BAG2868,Direct,False,,Delayed,False
+BAG2869,Direct,False,,,False
+BAG2870,Direct,False,,,False
+BAG2871,Direct,False,,Duplicate,False
+BAG2872,Direct,False,,,False
+BAG2873,Direct,False,,,False
+BAG2874,Direct,False,,Delayed,False
+BAG2875,Direct,False,,Out of Sequence,False
+BAG2876,Direct,False,,Denial of Service,False
+BAG2877,Transfer,False,,,False
+BAG2878,Direct,False,,,False
+BAG2879,Direct,False,,,False
+BAG2880,Transfer,False,,,False
+BAG2881,Direct,False,,,False
+BAG2882,Direct,False,,,False
+BAG2883,Transfer,False,,Spoofed Reader,False
+BAG2884,Direct,False,,,False
+BAG2885,Direct,False,,Spoofed Reader,False
+BAG2886,Direct,False,,Invalid Location,False
+BAG2887,Transfer,True,Transfer,Missing Scan,True
+BAG2888,Transfer,False,,,False
+BAG2889,Direct,False,,,False
+BAG2890,Direct,False,,Out of Sequence,False
+BAG2891,Transfer,False,,Duplicate,False
+BAG2892,Direct,False,,,False
+BAG2893,Direct,False,,,False
+BAG2894,Transfer,False,,,False
+BAG2895,Transfer,False,,Duplicate,False
+BAG2896,Direct,False,,,False
+BAG2897,Direct,False,,,False
+BAG2898,Direct,False,,,False
+BAG2899,Direct,True,Arrival,Missing Scan,True
+BAG2900,Direct,False,,,False
+BAG2901,Transfer,False,,,False
+BAG2902,Direct,False,,Denial of Service,False
+BAG2903,Direct,False,,,False
+BAG2904,Direct,False,,,False
+BAG2905,Direct,False,,,False
+BAG2906,Transfer,False,,,False
+BAG2907,Direct,False,,,False
+BAG2908,Transfer,False,,Delayed,False
+BAG2909,Direct,False,,Invalid Location,False
+BAG2910,Direct,False,,,False
+BAG2911,Transfer,False,,,False
+BAG2912,Direct,False,,,False
+BAG2913,Direct,False,,,False
+BAG2914,Direct,False,,Invalid Location,False
+BAG2915,Direct,False,,,False
+BAG2916,Transfer,False,,,False
+BAG2917,Transfer,False,,,False
+BAG2918,Direct,False,,,False
+BAG2919,Direct,False,,,False
+BAG2920,Direct,False,,,False
+BAG2921,Direct,False,,,False
+BAG2922,Direct,False,,,False
+BAG2923,Transfer,False,,Delayed,False
+BAG2924,Direct,True,Arrival,Missing Scan,True
+BAG2925,Transfer,False,,Spoofed Reader,False
+BAG2926,Transfer,False,,,False
+BAG2927,Direct,False,,,False
+BAG2928,Direct,False,,,False
+BAG2929,Direct,False,,,False
+BAG2930,Transfer,False,,,False
+BAG2931,Direct,False,,,False
+BAG2932,Direct,False,,,False
+BAG2933,Transfer,False,,Delayed,False
+BAG2934,Direct,False,,,False
+BAG2935,Transfer,False,,,False
+BAG2936,Direct,False,,Spoofed Reader,False
+BAG2937,Direct,False,,,False
+BAG2938,Transfer,False,,,False
+BAG2939,Direct,False,,,False
+BAG2940,Transfer,False,,,False
+BAG2941,Transfer,False,,,False
+BAG2942,Direct,False,,,False
+BAG2943,Direct,False,,,False
+BAG2944,Transfer,False,,Spoofed Reader,False
+BAG2945,Direct,False,,,False
+BAG2946,Transfer,False,,,False
+BAG2947,Direct,False,,,False
+BAG2948,Direct,False,,Out of Sequence,False
+BAG2949,Transfer,False,,,False
+BAG2950,Transfer,False,,,False
+BAG2951,Direct,False,,,False
+BAG2952,Direct,False,,,False
+BAG2953,Direct,False,,,False
+BAG2954,Direct,False,,,False
+BAG2955,Transfer,False,,,False
+BAG2956,Direct,False,,Spoofed Reader,False
+BAG2957,Direct,False,,,False
+BAG2958,Transfer,False,,,False
+BAG2959,Direct,True,Loading,Missing Scan,True
+BAG2960,Direct,False,,,False
+BAG2961,Transfer,False,,,False
+BAG2962,Direct,False,,Spoofed Reader,False
+BAG2963,Transfer,False,,,False
+BAG2964,Direct,False,,,False
+BAG2965,Transfer,False,,,False
+BAG2966,Direct,False,,,False
+BAG2967,Direct,False,,,False
+BAG2968,Direct,False,,,False
+BAG2969,Transfer,False,,,False
+BAG2970,Direct,False,,,False
+BAG2971,Transfer,False,,,False
+BAG2972,Direct,False,,,False
+BAG2973,Direct,False,,,False
+BAG2974,Direct,False,,Invalid Location,False
+BAG2975,Transfer,False,,,False
+BAG2976,Direct,False,,Denial of Service,False
+BAG2977,Direct,False,,,False
+BAG2978,Direct,False,,,False
+BAG2979,Transfer,False,,Duplicate,False
+BAG2980,Direct,False,,,False
+BAG2981,Transfer,False,,Invalid Location,False
+BAG2982,Direct,False,,Spoofed Reader,False
+BAG2983,Direct,False,,Duplicate,False
+BAG2984,Direct,False,,Out of Sequence,False
+BAG2985,Transfer,False,,,False
+BAG2986,Direct,False,,,False
+BAG2987,Direct,False,,Invalid Location,False
+BAG2988,Direct,False,,,False
+BAG2989,Direct,False,,,False
+BAG2990,Direct,False,,,False
+BAG2991,Direct,False,,Spoofed Reader,False
+BAG2992,Direct,False,,,False
+BAG2993,Direct,False,,,False
+BAG2994,Direct,False,,,False
+BAG2995,Direct,False,,,False
+BAG2996,Transfer,False,,,False
+BAG2997,Direct,False,,Spoofed Reader,False
+BAG2998,Transfer,True,Transfer,Missing Scan,True
+BAG2999,Direct,False,,,False
+BAG3000,Direct,False,,,False
+BAG3001,Direct,False,,Spoofed Reader,False
+BAG3002,Transfer,False,,,False
+BAG3003,Transfer,False,,,False
+BAG3004,Direct,False,,,False
+BAG3005,Direct,False,,,False
+BAG3006,Direct,False,,,False
+BAG3007,Transfer,False,,,False
+BAG3008,Transfer,False,,Spoofed Reader,False
+BAG3009,Transfer,False,,,False
+BAG3010,Direct,False,,,False
+BAG3011,Transfer,False,,,False
+BAG3012,Direct,False,,Duplicate,False
+BAG3013,Direct,False,,Spoofed Reader,False
+BAG3014,Direct,False,,,False
+BAG3015,Direct,False,,Out of Sequence,False
+BAG3016,Direct,False,,Duplicate,False
+BAG3017,Direct,False,,Duplicate,False
+BAG3018,Transfer,False,,,False
+BAG3019,Transfer,False,,Delayed,False
+BAG3020,Direct,False,,Duplicate,False
+BAG3021,Direct,False,,,False
+BAG3022,Transfer,False,,Delayed,False
+BAG3023,Transfer,False,,,False
+BAG3024,Direct,False,,Out of Sequence,False
+BAG3025,Transfer,False,,Delayed,False
+BAG3026,Direct,False,,,False
+BAG3027,Transfer,False,,Spoofed Reader,False
+BAG3028,Transfer,False,,Spoofed Reader,False
+BAG3029,Direct,False,,,False
+BAG3030,Direct,False,,,False
+BAG3031,Direct,False,,,False
+BAG3032,Direct,False,,,False
+BAG3033,Direct,False,,Spoofed Reader,False
+BAG3034,Direct,False,,,False
+BAG3035,Direct,False,,,False
+BAG3036,Direct,False,,,False
+BAG3037,Transfer,False,,,False
+BAG3038,Direct,False,,Spoofed Reader,False
+BAG3039,Direct,False,,Denial of Service,False
+BAG3040,Transfer,False,,Spoofed Reader,False
+BAG3041,Transfer,False,,,False
+BAG3042,Direct,False,,,False
+BAG3043,Direct,False,,Invalid Location,False
+BAG3044,Transfer,False,,,False
+BAG3045,Transfer,False,,,False
+BAG3046,Direct,False,,,False
+BAG3047,Direct,False,,Invalid Location,False
+BAG3048,Transfer,False,,Invalid Location,False
+BAG3049,Transfer,False,,,False
+BAG3050,Transfer,False,,,False
+BAG3051,Direct,False,,,False
+BAG3052,Direct,False,,Duplicate,False
+BAG3053,Direct,False,,,False
+BAG3054,Transfer,False,,Duplicate,False
+BAG3055,Direct,False,,,False
+BAG3056,Direct,False,,Duplicate,False
+BAG3057,Direct,False,,Duplicate,False
+BAG3058,Direct,False,,,False
+BAG3059,Direct,False,,Out of Sequence,False
+BAG3060,Direct,False,,,False
+BAG3061,Direct,False,,Denial of Service,False
+BAG3062,Direct,False,,,False
+BAG3063,Direct,False,,,False
+BAG3064,Direct,False,,,False
+BAG3065,Transfer,False,,,False
+BAG3066,Transfer,False,,Invalid Location,False
+BAG3067,Transfer,False,,,False
+BAG3068,Direct,False,,,False
+BAG3069,Direct,False,,,False
+BAG3070,Direct,False,,,False
+BAG3071,Direct,False,,Invalid Location,False
+BAG3072,Direct,False,,Spoofed Reader,False
+BAG3073,Direct,False,,,False
+BAG3074,Direct,False,,,False
+BAG3075,Direct,False,,Delayed,False
+BAG3076,Direct,False,,,False
+BAG3077,Direct,False,,,False
+BAG3078,Direct,False,,,False
+BAG3079,Transfer,False,,Invalid Location,False
+BAG3080,Direct,False,,Delayed,False
+BAG3081,Direct,False,,Out of Sequence,False
+BAG3082,Direct,False,,,False
+BAG3083,Direct,True,Screening,Missing Scan,True
+BAG3084,Direct,False,,,False
+BAG3085,Direct,False,,,False
+BAG3086,Transfer,False,,,False
+BAG3087,Direct,False,,,False
+BAG3088,Direct,False,,,False
+BAG3089,Direct,False,,Duplicate,False
+BAG3090,Direct,False,,,False
+BAG3091,Direct,False,,,False
+BAG3092,Direct,False,,,False
+BAG3093,Direct,False,,,False
+BAG3094,Direct,False,,Invalid Location,False
+BAG3095,Direct,False,,Delayed,False
+BAG3096,Transfer,False,,Out of Sequence,False
+BAG3097,Direct,False,,,False
+BAG3098,Direct,False,,Out of Sequence,False
+BAG3099,Transfer,False,,,False
+BAG3100,Direct,False,,Invalid Location,False
+BAG3101,Direct,False,,Duplicate,False
+BAG3102,Direct,False,,Invalid Location,False
+BAG3103,Direct,False,,,False
+BAG3104,Transfer,False,,Denial of Service,False
+BAG3105,Direct,False,,Invalid Location,False
+BAG3106,Direct,False,,,False
+BAG3107,Transfer,False,,,False
+BAG3108,Transfer,False,,Invalid Location,False
+BAG3109,Direct,False,,,False
+BAG3110,Transfer,False,,Denial of Service,False
+BAG3111,Direct,False,,,False
+BAG3112,Direct,False,,,False
+BAG3113,Direct,False,,,False
+BAG3114,Transfer,False,,,False
+BAG3115,Transfer,False,,,False
+BAG3116,Direct,False,,,False
+BAG3117,Transfer,False,,Spoofed Reader,False
+BAG3118,Direct,False,,,False
+BAG3119,Direct,False,,,False
+BAG3120,Transfer,False,,Spoofed Reader,False
+BAG3121,Direct,False,,,False
+BAG3122,Direct,False,,,False
+BAG3123,Direct,False,,,False
+BAG3124,Direct,False,,,False
+BAG3125,Direct,False,,,False
+BAG3126,Direct,False,,Out of Sequence,False
+BAG3127,Direct,False,,,False
+BAG3128,Direct,False,,,False
+BAG3129,Transfer,False,,Delayed,False
+BAG3130,Transfer,False,,,False
+BAG3131,Transfer,False,,,False
+BAG3132,Direct,False,,,False
+BAG3133,Direct,False,,,False
+BAG3134,Direct,False,,,False
+BAG3135,Direct,False,,,False
+BAG3136,Transfer,False,,,False
+BAG3137,Direct,False,,,False
+BAG3138,Transfer,False,,Out of Sequence,False
+BAG3139,Direct,False,,,False
+BAG3140,Direct,False,,Duplicate,False
+BAG3141,Direct,False,,,False
+BAG3142,Direct,False,,,False
+BAG3143,Transfer,False,,,False
+BAG3144,Transfer,False,,Spoofed Reader,False
+BAG3145,Direct,False,,,False
+BAG3146,Transfer,False,,Out of Sequence,False
+BAG3147,Direct,False,,,False
+BAG3148,Direct,True,Claim,Missing Scan,True
+BAG3149,Transfer,False,,Out of Sequence,False
+BAG3150,Direct,False,,,False
+BAG3151,Transfer,False,,,False
+BAG3152,Direct,False,,,False
+BAG3153,Direct,False,,Spoofed Reader,False
+BAG3154,Transfer,False,,,False
+BAG3155,Transfer,False,,Duplicate,False
+BAG3156,Direct,False,,,False
+BAG3157,Direct,False,,,False
+BAG3158,Direct,False,,Out of Sequence,False
+BAG3159,Direct,False,,,False
+BAG3160,Transfer,False,,,False
+BAG3161,Direct,False,,Duplicate,False
+BAG3162,Transfer,False,,,False
+BAG3163,Transfer,False,,,False
+BAG3164,Transfer,False,,Delayed,False
+BAG3165,Direct,False,,,False
+BAG3166,Transfer,False,,,False
+BAG3167,Direct,False,,,False
+BAG3168,Direct,False,,,False
+BAG3169,Transfer,False,,,False
+BAG3170,Direct,False,,,False
+BAG3171,Direct,False,,,False
+BAG3172,Direct,False,,,False
+BAG3173,Direct,False,,,False
+BAG3174,Direct,True,Screening,Missing Scan,True
+BAG3175,Direct,False,,,False
+BAG3176,Direct,False,,,False
+BAG3177,Direct,False,,,False
+BAG3178,Direct,False,,,False
+BAG3179,Direct,False,,,False
+BAG3180,Direct,False,,,False
+BAG3181,Direct,False,,Spoofed Reader,False
+BAG3182,Transfer,False,,Out of Sequence,False
+BAG3183,Direct,False,,,False
+BAG3184,Direct,False,,,False
+BAG3185,Transfer,False,,Spoofed Reader,False
+BAG3186,Transfer,False,,,False
+BAG3187,Direct,False,,,False
+BAG3188,Direct,False,,,False
+BAG3189,Transfer,False,,,False
+BAG3190,Direct,False,,,False
+BAG3191,Direct,False,,,False
+BAG3192,Direct,False,,,False
+BAG3193,Transfer,False,,,False
+BAG3194,Direct,False,,,False
+BAG3195,Transfer,False,,,False
+BAG3196,Direct,False,,,False
+BAG3197,Direct,False,,Delayed,False
+BAG3198,Transfer,False,,,False
+BAG3199,Direct,True,Sorting,Missing Scan,True
+BAG3200,Direct,False,,,False
+BAG3201,Direct,False,,Duplicate,False
+BAG3202,Direct,False,,,False
+BAG3203,Direct,False,,,False
+BAG3204,Direct,False,,,False
+BAG3205,Direct,False,,,False
+BAG3206,Direct,False,,,False
+BAG3207,Direct,False,,Duplicate,False
+BAG3208,Direct,False,,,False
+BAG3209,Direct,False,,Delayed,False
+BAG3210,Direct,False,,Out of Sequence,False
+BAG3211,Direct,False,,,False
+BAG3212,Direct,False,,,False
+BAG3213,Direct,False,,,False
+BAG3214,Direct,False,,,False
+BAG3215,Transfer,False,,,False
+BAG3216,Direct,False,,,False
+BAG3217,Direct,False,,,False
+BAG3218,Direct,False,,,False
+BAG3219,Direct,False,,,False
+BAG3220,Direct,False,,,False
+BAG3221,Transfer,False,,,False
+BAG3222,Transfer,False,,,False
+BAG3223,Direct,False,,,False
+BAG3224,Direct,False,,,False
+BAG3225,Direct,False,,,False
+BAG3226,Transfer,False,,,False
+BAG3227,Transfer,False,,,False
+BAG3228,Transfer,False,,,False
+BAG3229,Direct,False,,,False
+BAG3230,Direct,False,,,False
+BAG3231,Transfer,False,,Spoofed Reader,False
+BAG3232,Transfer,False,,Spoofed Reader,False
+BAG3233,Direct,False,,,False
+BAG3234,Direct,False,,,False
+BAG3235,Direct,False,,,False
+BAG3236,Transfer,False,,,False
+BAG3237,Direct,False,,,False
+BAG3238,Direct,False,,,False
+BAG3239,Transfer,False,,,False
+BAG3240,Direct,False,,Duplicate,False
+BAG3241,Transfer,False,,Spoofed Reader,False
+BAG3242,Direct,False,,,False
+BAG3243,Direct,False,,Duplicate,False
+BAG3244,Direct,False,,,False
+BAG3245,Direct,False,,Invalid Location,False
+BAG3246,Transfer,False,,,False
+BAG3247,Direct,False,,,False
+BAG3248,Transfer,False,,,False
+BAG3249,Transfer,False,,,False
+BAG3250,Direct,False,,,False
+BAG3251,Transfer,False,,,False
+BAG3252,Direct,True,Screening,Missing Scan,True
+BAG3253,Transfer,False,,Denial of Service,False
+BAG3254,Transfer,False,,,False
+BAG3255,Transfer,False,,,False
+BAG3256,Direct,False,,,False
+BAG3257,Transfer,False,,,False
+BAG3258,Direct,False,,Delayed,False
+BAG3259,Direct,False,,,False
+BAG3260,Transfer,False,,Out of Sequence,False
+BAG3261,Direct,False,,,False
+BAG3262,Direct,False,,,False
+BAG3263,Direct,False,,,False
+BAG3264,Transfer,False,,,False
+BAG3265,Direct,True,Loading,Missing Scan,True
+BAG3266,Transfer,False,,Spoofed Reader,False
+BAG3267,Direct,False,,,False
+BAG3268,Direct,False,,,False
+BAG3269,Transfer,False,,,False
+BAG3270,Transfer,False,,,False
+BAG3271,Transfer,False,,,False
+BAG3272,Transfer,False,,,False
+BAG3273,Direct,False,,,False
+BAG3274,Direct,False,,,False
+BAG3275,Transfer,False,,Denial of Service,False
+BAG3276,Direct,False,,Out of Sequence,False
+BAG3277,Transfer,False,,,False
+BAG3278,Transfer,False,,,False
+BAG3279,Direct,False,,Invalid Location,False
+BAG3280,Direct,False,,Spoofed Reader,False
+BAG3281,Direct,False,,,False
+BAG3282,Direct,False,,,False
+BAG3283,Direct,False,,,False
+BAG3284,Direct,False,,,False
+BAG3285,Direct,False,,,False
+BAG3286,Direct,False,,Duplicate,False
+BAG3287,Transfer,False,,,False
+BAG3288,Direct,False,,Invalid Location,False
+BAG3289,Transfer,False,,,False
+BAG3290,Transfer,False,,,False
+BAG3291,Transfer,False,,,False
+BAG3292,Direct,False,,,False
+BAG3293,Direct,False,,Duplicate,False
+BAG3294,Direct,False,,,False
+BAG3295,Direct,False,,Spoofed Reader,False
+BAG3296,Transfer,False,,,False
+BAG3297,Direct,False,,,False
+BAG3298,Direct,False,,Spoofed Reader,False
+BAG3299,Direct,False,,,False
+BAG3300,Direct,False,,,False
+BAG3301,Direct,False,,Delayed,False
+BAG3302,Direct,False,,,False
+BAG3303,Direct,False,,,False
+BAG3304,Direct,False,,,False
+BAG3305,Direct,False,,Invalid Location,False
+BAG3306,Direct,False,,Spoofed Reader,False
+BAG3307,Direct,True,Sorting,Missing Scan,True
+BAG3308,Direct,False,,,False
+BAG3309,Direct,False,,,False
+BAG3310,Direct,False,,Duplicate,False
+BAG3311,Direct,False,,Spoofed Reader,False
+BAG3312,Direct,False,,,False
+BAG3313,Transfer,False,,Delayed,False
+BAG3314,Direct,False,,Delayed,False
+BAG3315,Direct,False,,Spoofed Reader,False
+BAG3316,Direct,False,,Duplicate,False
+BAG3317,Transfer,False,,Out of Sequence,False
+BAG3318,Direct,False,,,False
+BAG3319,Direct,False,,,False
+BAG3320,Transfer,False,,,False
+BAG3321,Direct,True,Loading,Missing Scan,True
+BAG3322,Transfer,False,,,False
+BAG3323,Transfer,False,,,False
+BAG3324,Direct,False,,,False
+BAG3325,Direct,False,,,False
+BAG3326,Direct,False,,,False
+BAG3327,Direct,False,,,False
+BAG3328,Direct,False,,,False
+BAG3329,Direct,False,,Delayed,False
+BAG3330,Direct,False,,,False
+BAG3331,Direct,False,,Spoofed Reader,False
+BAG3332,Transfer,False,,,False
+BAG3333,Direct,False,,,False
+BAG3334,Transfer,False,,Delayed,False
+BAG3335,Direct,False,,Invalid Location,False
+BAG3336,Direct,False,,,False
+BAG3337,Direct,False,,,False
+BAG3338,Direct,False,,,False
+BAG3339,Transfer,False,,Invalid Location,False
+BAG3340,Direct,False,,,False
+BAG3341,Transfer,False,,,False
+BAG3342,Direct,False,,,False
+BAG3343,Direct,False,,,False
+BAG3344,Direct,False,,,False
+BAG3345,Direct,False,,,False
+BAG3346,Direct,False,,Spoofed Reader,False
+BAG3347,Direct,False,,,False
+BAG3348,Transfer,False,,,False
+BAG3349,Direct,False,,,False
+BAG3350,Direct,False,,,False
+BAG3351,Transfer,False,,Out of Sequence,False
+BAG3352,Transfer,False,,,False
+BAG3353,Direct,False,,Out of Sequence,False
+BAG3354,Transfer,False,,,False
+BAG3355,Direct,False,,,False
+BAG3356,Direct,True,Screening,Missing Scan,True
+BAG3357,Direct,False,,Delayed,False
+BAG3358,Transfer,False,,,False
+BAG3359,Direct,False,,,False
+BAG3360,Direct,False,,,False
+BAG3361,Transfer,False,,,False
+BAG3362,Direct,False,,Denial of Service,False
+BAG3363,Direct,False,,,False
+BAG3364,Direct,False,,,False
+BAG3365,Direct,False,,,False
+BAG3366,Transfer,False,,,False
+BAG3367,Direct,False,,,False
+BAG3368,Direct,False,,,False
+BAG3369,Direct,False,,,False
+BAG3370,Direct,False,,,False
+BAG3371,Direct,False,,Denial of Service,False
+BAG3372,Direct,False,,,False
+BAG3373,Direct,False,,,False
+BAG3374,Direct,False,,Duplicate,False
+BAG3375,Direct,False,,,False
+BAG3376,Transfer,False,,,False
+BAG3377,Direct,False,,,False
+BAG3378,Direct,False,,,False
+BAG3379,Direct,False,,Invalid Location,False
+BAG3380,Transfer,False,,Invalid Location,False
+BAG3381,Direct,False,,,False
+BAG3382,Transfer,False,,,False
+BAG3383,Transfer,False,,,False
+BAG3384,Direct,False,,,False
+BAG3385,Direct,False,,,False
+BAG3386,Direct,False,,,False
+BAG3387,Direct,False,,Spoofed Reader,False
+BAG3388,Direct,False,,Out of Sequence,False
+BAG3389,Direct,False,,,False
+BAG3390,Direct,False,,,False
+BAG3391,Direct,False,,Duplicate,False
+BAG3392,Direct,False,,,False
+BAG3393,Transfer,False,,,False
+BAG3394,Transfer,False,,,False
+BAG3395,Direct,False,,,False
+BAG3396,Direct,False,,,False
+BAG3397,Direct,False,,Invalid Location,False
+BAG3398,Direct,False,,Invalid Location,False
+BAG3399,Transfer,False,,,False
+BAG3400,Direct,False,,,False
+BAG3401,Transfer,False,,Invalid Location,False
+BAG3402,Direct,False,,,False
+BAG3403,Direct,False,,,False
+BAG3404,Transfer,True,Sorting,Missing Scan,True
+BAG3405,Direct,False,,Spoofed Reader,False
+BAG3406,Transfer,False,,Invalid Location,False
+BAG3407,Direct,False,,,False
+BAG3408,Transfer,False,,,False
+BAG3409,Direct,False,,,False
+BAG3410,Transfer,False,,,False
+BAG3411,Transfer,False,,,False
+BAG3412,Direct,False,,,False
+BAG3413,Direct,False,,,False
+BAG3414,Direct,False,,,False
+BAG3415,Transfer,False,,,False
+BAG3416,Direct,False,,,False
+BAG3417,Direct,False,,,False
+BAG3418,Direct,False,,,False
+BAG3419,Transfer,False,,,False
+BAG3420,Direct,False,,,False
+BAG3421,Direct,False,,,False
+BAG3422,Direct,False,,,False
+BAG3423,Direct,False,,,False
+BAG3424,Transfer,False,,Out of Sequence,False
+BAG3425,Direct,False,,Spoofed Reader,False
+BAG3426,Transfer,False,,Spoofed Reader,False
+BAG3427,Direct,False,,,False
+BAG3428,Direct,False,,,False
+BAG3429,Direct,False,,,False
+BAG3430,Transfer,False,,,False
+BAG3431,Direct,False,,,False
+BAG3432,Direct,False,,,False
+BAG3433,Direct,False,,,False
+BAG3434,Transfer,False,,,False
+BAG3435,Direct,False,,,False
+BAG3436,Direct,False,,Duplicate,False
+BAG3437,Direct,False,,Spoofed Reader,False
+BAG3438,Direct,False,,,False
+BAG3439,Transfer,False,,,False
+BAG3440,Transfer,False,,Duplicate,False
+BAG3441,Direct,False,,,False
+BAG3442,Direct,False,,Invalid Location,False
+BAG3443,Direct,False,,,False
+BAG3444,Direct,False,,Out of Sequence,False
+BAG3445,Direct,False,,Denial of Service,False
+BAG3446,Direct,False,,Delayed,False
+BAG3447,Direct,False,,,False
+BAG3448,Direct,False,,,False
+BAG3449,Direct,False,,Denial of Service,False
+BAG3450,Direct,False,,,False
+BAG3451,Direct,False,,,False
+BAG3452,Direct,False,,,False
+BAG3453,Direct,False,,Invalid Location,False
+BAG3454,Direct,False,,Spoofed Reader,False
+BAG3455,Direct,False,,,False
+BAG3456,Direct,False,,,False
+BAG3457,Transfer,False,,,False
+BAG3458,Direct,True,Acceptance,Missing Scan,True
+BAG3459,Direct,False,,Invalid Location,False
+BAG3460,Transfer,False,,,False
+BAG3461,Transfer,False,,,False
+BAG3462,Direct,False,,,False
+BAG3463,Direct,False,,,False
+BAG3464,Direct,False,,Spoofed Reader,False
+BAG3465,Transfer,False,,,False
+BAG3466,Direct,False,,Out of Sequence,False
+BAG3467,Direct,False,,,False
+BAG3468,Direct,False,,,False
+BAG3469,Direct,False,,,False
+BAG3470,Direct,False,,Invalid Location,False
+BAG3471,Direct,False,,Delayed,False
+BAG3472,Direct,False,,Delayed,False
+BAG3473,Direct,False,,,False
+BAG3474,Transfer,False,,,False
+BAG3475,Direct,True,Arrival,Missing Scan,True
+BAG3476,Transfer,False,,Duplicate,False
+BAG3477,Direct,False,,Spoofed Reader,False
+BAG3478,Direct,False,,,False
+BAG3479,Transfer,False,,,False
+BAG3480,Direct,False,,,False
+BAG3481,Direct,False,,,False
+BAG3482,Direct,False,,Delayed,False
+BAG3483,Direct,False,,,False
+BAG3484,Direct,False,,Delayed,False
+BAG3485,Direct,False,,,False
+BAG3486,Transfer,False,,Invalid Location,False
+BAG3487,Direct,False,,Duplicate,False
+BAG3488,Direct,True,Acceptance,Missing Scan,True
+BAG3489,Direct,False,,,False
+BAG3490,Direct,False,,Delayed,False
+BAG3491,Direct,False,,,False
+BAG3492,Direct,False,,Delayed,False
+BAG3493,Direct,False,,,False
+BAG3494,Transfer,False,,Duplicate,False
+BAG3495,Direct,False,,,False
+BAG3496,Direct,True,Loading,Missing Scan,True
+BAG3497,Transfer,False,,,False
+BAG3498,Direct,False,,Out of Sequence,False
+BAG3499,Direct,False,,,False
+BAG3500,Direct,False,,Spoofed Reader,False
+BAG3501,Direct,False,,,False
+BAG3502,Transfer,False,,Out of Sequence,False
+BAG3503,Direct,False,,,False
+BAG3504,Direct,False,,,False
+BAG3505,Transfer,False,,,False
+BAG3506,Direct,False,,,False
+BAG3507,Direct,False,,,False
+BAG3508,Direct,False,,,False
+BAG3509,Direct,False,,Spoofed Reader,False
+BAG3510,Direct,False,,,False
+BAG3511,Direct,False,,,False
+BAG3512,Direct,False,,,False
+BAG3513,Direct,False,,,False
+BAG3514,Direct,False,,Spoofed Reader,False
+BAG3515,Direct,False,,,False
+BAG3516,Direct,False,,,False
+BAG3517,Direct,False,,,False
+BAG3518,Direct,False,,Spoofed Reader,False
+BAG3519,Transfer,False,,,False
+BAG3520,Direct,False,,,False
+BAG3521,Direct,False,,Delayed,False
+BAG3522,Direct,False,,,False
+BAG3523,Direct,False,,Delayed,False
+BAG3524,Transfer,False,,Invalid Location,False
+BAG3525,Direct,False,,,False
+BAG3526,Transfer,False,,,False
+BAG3527,Transfer,False,,,False
+BAG3528,Direct,True,Screening,Missing Scan,True
+BAG3529,Direct,False,,,False
+BAG3530,Direct,False,,,False
+BAG3531,Direct,False,,Duplicate,False
+BAG3532,Direct,False,,,False
+BAG3533,Direct,False,,Spoofed Reader,False
+BAG3534,Direct,False,,,False
+BAG3535,Direct,False,,,False
+BAG3536,Transfer,False,,Delayed,False
+BAG3537,Direct,False,,,False
+BAG3538,Transfer,False,,Spoofed Reader,False
+BAG3539,Direct,False,,,False
+BAG3540,Direct,False,,Delayed,False
+BAG3541,Direct,False,,Duplicate,False
+BAG3542,Direct,False,,,False
+BAG3543,Direct,False,,Duplicate,False
+BAG3544,Transfer,False,,,False
+BAG3545,Direct,False,,,False
+BAG3546,Transfer,False,,Denial of Service,False
+BAG3547,Direct,False,,,False
+BAG3548,Direct,False,,Spoofed Reader,False
+BAG3549,Direct,False,,,False
+BAG3550,Direct,False,,,False
+BAG3551,Transfer,False,,,False
+BAG3552,Direct,False,,Invalid Location,False
+BAG3553,Direct,False,,,False
+BAG3554,Direct,False,,,False
+BAG3555,Transfer,False,,Invalid Location,False
+BAG3556,Direct,False,,Spoofed Reader,False
+BAG3557,Direct,False,,,False
+BAG3558,Transfer,False,,Denial of Service,False
+BAG3559,Direct,False,,,False
+BAG3560,Transfer,False,,,False
+BAG3561,Direct,False,,,False
+BAG3562,Direct,False,,,False
+BAG3563,Direct,False,,Spoofed Reader,False
+BAG3564,Transfer,False,,,False
+BAG3565,Direct,False,,Duplicate,False
+BAG3566,Direct,False,,,False
+BAG3567,Direct,False,,Invalid Location,False
+BAG3568,Transfer,False,,,False
+BAG3569,Transfer,False,,,False
+BAG3570,Direct,False,,,False
+BAG3571,Transfer,False,,,False
+BAG3572,Transfer,False,,,False
+BAG3573,Direct,True,Arrival,Missing Scan,True
+BAG3574,Direct,False,,,False
+BAG3575,Transfer,False,,,False
+BAG3576,Transfer,False,,,False
+BAG3577,Direct,False,,Out of Sequence,False
+BAG3578,Direct,False,,Duplicate,False
+BAG3579,Direct,False,,,False
+BAG3580,Direct,False,,,False
+BAG3581,Transfer,False,,,False
+BAG3582,Direct,False,,,False
+BAG3583,Direct,False,,Delayed,False
+BAG3584,Direct,False,,Spoofed Reader,False
+BAG3585,Direct,True,Claim,Missing Scan,True
+BAG3586,Transfer,False,,,False
+BAG3587,Transfer,False,,,False
+BAG3588,Direct,False,,Spoofed Reader,False
+BAG3589,Direct,False,,,False
+BAG3590,Direct,False,,,False
+BAG3591,Direct,False,,,False
+BAG3592,Transfer,False,,,False
+BAG3593,Direct,False,,,False
+BAG3594,Transfer,False,,,False
+BAG3595,Direct,False,,,False
+BAG3596,Direct,False,,Spoofed Reader,False
+BAG3597,Direct,False,,,False
+BAG3598,Direct,False,,,False
+BAG3599,Direct,False,,,False
+BAG3600,Transfer,False,,,False
+BAG3601,Direct,False,,,False
+BAG3602,Transfer,False,,,False
+BAG3603,Direct,False,,,False
+BAG3604,Transfer,False,,,False
+BAG3605,Transfer,False,,,False
+BAG3606,Direct,False,,,False
+BAG3607,Direct,False,,Delayed,False
+BAG3608,Transfer,False,,Duplicate,False
+BAG3609,Direct,False,,,False
+BAG3610,Direct,False,,,False
+BAG3611,Direct,False,,Spoofed Reader,False
+BAG3612,Direct,False,,,False
+BAG3613,Direct,False,,Duplicate,False
+BAG3614,Direct,False,,,False
+BAG3615,Direct,False,,Out of Sequence,False
+BAG3616,Direct,False,,,False
+BAG3617,Transfer,False,,Delayed,False
+BAG3618,Transfer,False,,,False
+BAG3619,Direct,False,,,False
+BAG3620,Direct,False,,Spoofed Reader,False
+BAG3621,Transfer,False,,,False
+BAG3622,Direct,False,,Delayed,False
+BAG3623,Direct,False,,,False
+BAG3624,Direct,False,,,False
+BAG3625,Transfer,False,,,False
+BAG3626,Transfer,False,,,False
+BAG3627,Transfer,False,,,False
+BAG3628,Direct,False,,Delayed,False
+BAG3629,Transfer,False,,Delayed,False
+BAG3630,Direct,False,,,False
+BAG3631,Transfer,False,,Spoofed Reader,False
+BAG3632,Transfer,False,,,False
+BAG3633,Direct,False,,Duplicate,False
+BAG3634,Direct,True,Screening,Missing Scan,True
+BAG3635,Direct,False,,,False
+BAG3636,Transfer,False,,,False
+BAG3637,Direct,False,,,False
+BAG3638,Direct,False,,,False
+BAG3639,Direct,True,Screening,Missing Scan,True
+BAG3640,Transfer,False,,,False
+BAG3641,Direct,False,,,False
+BAG3642,Transfer,False,,Spoofed Reader,False
+BAG3643,Direct,False,,,False
+BAG3644,Direct,False,,,False
+BAG3645,Direct,False,,Spoofed Reader,False
+BAG3646,Direct,False,,Spoofed Reader,False
+BAG3647,Transfer,False,,,False
+BAG3648,Direct,False,,Delayed,False
+BAG3649,Direct,False,,Out of Sequence,False
+BAG3650,Direct,False,,,False
+BAG3651,Direct,False,,Denial of Service,False
+BAG3652,Transfer,False,,,False
+BAG3653,Transfer,False,,,False
+BAG3654,Transfer,False,,,False
+BAG3655,Transfer,True,Arrival,Missing Scan,True
+BAG3656,Direct,False,,,False
+BAG3657,Direct,False,,,False
+BAG3658,Direct,True,Claim,Missing Scan,True
+BAG3659,Direct,False,,,False
+BAG3660,Direct,False,,,False
+BAG3661,Transfer,False,,,False
+BAG3662,Transfer,False,,Spoofed Reader,False
+BAG3663,Direct,False,,,False
+BAG3664,Direct,False,,,False
+BAG3665,Transfer,False,,,False
+BAG3666,Transfer,False,,,False
+BAG3667,Direct,False,,,False
+BAG3668,Transfer,False,,,False
+BAG3669,Transfer,False,,,False
+BAG3670,Direct,False,,,False
+BAG3671,Transfer,False,,,False
+BAG3672,Transfer,False,,,False
+BAG3673,Direct,False,,,False
+BAG3674,Transfer,False,,,False
+BAG3675,Direct,False,,,False
+BAG3676,Direct,False,,,False
+BAG3677,Transfer,False,,,False
+BAG3678,Direct,False,,Delayed,False
+BAG3679,Direct,False,,,False
+BAG3680,Direct,False,,Delayed,False
+BAG3681,Direct,False,,Duplicate,False
+BAG3682,Direct,False,,,False
+BAG3683,Transfer,False,,,False
+BAG3684,Transfer,False,,Delayed,False
+BAG3685,Transfer,False,,Out of Sequence,False
+BAG3686,Direct,False,,,False
+BAG3687,Transfer,False,,Invalid Location,False
+BAG3688,Direct,False,,,False
+BAG3689,Transfer,False,,,False
+BAG3690,Direct,False,,Spoofed Reader,False
+BAG3691,Transfer,False,,Duplicate,False
+BAG3692,Direct,False,,,False
+BAG3693,Transfer,False,,,False
+BAG3694,Direct,True,Loading,Missing Scan,True
+BAG3695,Transfer,False,,,False
+BAG3696,Direct,False,,,False
+BAG3697,Direct,False,,,False
+BAG3698,Direct,False,,Invalid Location,False
+BAG3699,Transfer,False,,,False
+BAG3700,Direct,False,,,False
+BAG3701,Direct,False,,Invalid Location,False
+BAG3702,Direct,False,,Out of Sequence,False
+BAG3703,Direct,False,,Invalid Location,False
+BAG3704,Direct,False,,,False
+BAG3705,Direct,False,,Out of Sequence,False
+BAG3706,Transfer,False,,,False
+BAG3707,Direct,False,,,False
+BAG3708,Transfer,False,,Spoofed Reader,False
+BAG3709,Transfer,True,Screening,Missing Scan,True
+BAG3710,Direct,False,,,False
+BAG3711,Direct,False,,,False
+BAG3712,Transfer,False,,,False
+BAG3713,Direct,False,,Spoofed Reader,False
+BAG3714,Direct,False,,,False
+BAG3715,Direct,False,,,False
+BAG3716,Direct,False,,,False
+BAG3717,Transfer,False,,,False
+BAG3718,Direct,False,,,False
+BAG3719,Direct,False,,Invalid Location,False
+BAG3720,Direct,False,,,False
+BAG3721,Transfer,False,,Duplicate,False
+BAG3722,Direct,False,,,False
+BAG3723,Direct,False,,,False
+BAG3724,Direct,False,,Out of Sequence,False
+BAG3725,Direct,False,,Denial of Service,False
+BAG3726,Transfer,False,,Duplicate,False
+BAG3727,Direct,False,,,False
+BAG3728,Direct,False,,,False
+BAG3729,Direct,False,,,False
+BAG3730,Transfer,False,,,False
+BAG3731,Direct,False,,,False
+BAG3732,Direct,False,,,False
+BAG3733,Transfer,False,,,False
+BAG3734,Direct,False,,,False
+BAG3735,Transfer,False,,,False
+BAG3736,Direct,False,,,False
+BAG3737,Direct,False,,Invalid Location,False
+BAG3738,Direct,False,,Duplicate,False
+BAG3739,Direct,False,,,False
+BAG3740,Direct,True,Sorting,Missing Scan,True
+BAG3741,Direct,False,,,False
+BAG3742,Direct,True,Loading,Missing Scan,True
+BAG3743,Direct,False,,,False
+BAG3744,Direct,False,,Invalid Location,False
+BAG3745,Direct,False,,,False
+BAG3746,Transfer,False,,,False
+BAG3747,Direct,False,,,False
+BAG3748,Direct,False,,,False
+BAG3749,Direct,False,,,False
+BAG3750,Transfer,False,,,False
+BAG3751,Transfer,False,,Out of Sequence,False
+BAG3752,Direct,False,,,False
+BAG3753,Transfer,False,,,False
+BAG3754,Direct,False,,Duplicate,False
+BAG3755,Transfer,False,,,False
+BAG3756,Transfer,False,,,False
+BAG3757,Direct,False,,,False
+BAG3758,Direct,False,,Out of Sequence,False
+BAG3759,Direct,False,,,False
+BAG3760,Direct,False,,,False
+BAG3761,Direct,False,,Invalid Location,False
+BAG3762,Transfer,False,,,False
+BAG3763,Direct,False,,,False
+BAG3764,Direct,False,,,False
+BAG3765,Direct,False,,,False
+BAG3766,Direct,False,,Duplicate,False
+BAG3767,Direct,False,,,False
+BAG3768,Direct,False,,,False
+BAG3769,Direct,False,,Spoofed Reader,False
+BAG3770,Direct,False,,,False
+BAG3771,Transfer,False,,,False
+BAG3772,Direct,False,,,False
+BAG3773,Direct,False,,,False
+BAG3774,Transfer,False,,,False
+BAG3775,Transfer,False,,,False
+BAG3776,Direct,False,,,False
+BAG3777,Direct,False,,,False
+BAG3778,Direct,False,,Invalid Location,False
+BAG3779,Transfer,False,,,False
+BAG3780,Transfer,False,,Invalid Location,False
+BAG3781,Direct,False,,,False
+BAG3782,Direct,False,,Spoofed Reader,False
+BAG3783,Direct,False,,Spoofed Reader,False
+BAG3784,Direct,False,,,False
+BAG3785,Direct,False,,,False
+BAG3786,Direct,False,,,False
+BAG3787,Transfer,False,,,False
+BAG3788,Direct,False,,,False
+BAG3789,Direct,False,,,False
+BAG3790,Transfer,False,,,False
+BAG3791,Direct,False,,Invalid Location,False
+BAG3792,Direct,False,,Delayed,False
+BAG3793,Direct,False,,,False
+BAG3794,Transfer,False,,,False
+BAG3795,Transfer,True,Screening,Missing Scan,True
+BAG3796,Transfer,False,,,False
+BAG3797,Direct,False,,Spoofed Reader,False
+BAG3798,Direct,False,,,False
+BAG3799,Direct,False,,Out of Sequence,False
+BAG3800,Direct,False,,Duplicate,False
+BAG3801,Transfer,False,,,False
+BAG3802,Direct,False,,,False
+BAG3803,Transfer,False,,Invalid Location,False
+BAG3804,Transfer,False,,,False
+BAG3805,Direct,False,,Delayed,False
+BAG3806,Direct,False,,Invalid Location,False
+BAG3807,Direct,False,,,False
+BAG3808,Direct,False,,,False
+BAG3809,Direct,False,,,False
+BAG3810,Transfer,False,,,False
+BAG3811,Direct,False,,,False
+BAG3812,Transfer,False,,,False
+BAG3813,Direct,False,,,False
+BAG3814,Direct,False,,Duplicate,False
+BAG3815,Transfer,False,,,False
+BAG3816,Direct,False,,,False
+BAG3817,Direct,False,,,False
+BAG3818,Direct,False,,,False
+BAG3819,Direct,False,,,False
+BAG3820,Transfer,False,,,False
+BAG3821,Direct,False,,,False
+BAG3822,Transfer,False,,,False
+BAG3823,Transfer,False,,,False
+BAG3824,Direct,False,,,False
+BAG3825,Direct,False,,,False
+BAG3826,Transfer,False,,,False
+BAG3827,Direct,False,,Invalid Location,False
+BAG3828,Direct,False,,Denial of Service,False
+BAG3829,Transfer,False,,,False
+BAG3830,Transfer,False,,,False
+BAG3831,Transfer,False,,Denial of Service,False
+BAG3832,Direct,False,,Out of Sequence,False
+BAG3833,Direct,False,,,False
+BAG3834,Transfer,False,,,False
+BAG3835,Direct,False,,,False
+BAG3836,Direct,False,,,False
+BAG3837,Direct,False,,,False
+BAG3838,Direct,False,,Out of Sequence,False
+BAG3839,Transfer,False,,Out of Sequence,False
+BAG3840,Direct,False,,,False
+BAG3841,Direct,False,,Spoofed Reader,False
+BAG3842,Direct,False,,,False
+BAG3843,Transfer,False,,,False
+BAG3844,Direct,False,,Spoofed Reader,False
+BAG3845,Direct,False,,,False
+BAG3846,Direct,False,,,False
+BAG3847,Transfer,False,,,False
+BAG3848,Direct,False,,,False
+BAG3849,Direct,False,,,False
+BAG3850,Transfer,False,,,False
+BAG3851,Direct,False,,,False
+BAG3852,Direct,False,,,False
+BAG3853,Direct,False,,,False
+BAG3854,Transfer,False,,Invalid Location,False
+BAG3855,Direct,False,,,False
+BAG3856,Direct,False,,,False
+BAG3857,Direct,True,Sorting,Missing Scan,True
+BAG3858,Transfer,False,,Invalid Location,False
+BAG3859,Transfer,False,,Out of Sequence,False
+BAG3860,Direct,False,,,False
+BAG3861,Transfer,False,,,False
+BAG3862,Direct,False,,,False
+BAG3863,Transfer,False,,,False
+BAG3864,Direct,False,,,False
+BAG3865,Transfer,False,,,False
+BAG3866,Direct,False,,Invalid Location,False
+BAG3867,Transfer,False,,,False
+BAG3868,Transfer,False,,,False
+BAG3869,Direct,False,,,False
+BAG3870,Direct,False,,Delayed,False
+BAG3871,Direct,False,,,False
+BAG3872,Direct,False,,Delayed,False
+BAG3873,Transfer,False,,Invalid Location,False
+BAG3874,Direct,False,,,False
+BAG3875,Direct,False,,,False
+BAG3876,Direct,False,,,False
+BAG3877,Direct,False,,Invalid Location,False
+BAG3878,Direct,False,,,False
+BAG3879,Direct,False,,,False
+BAG3880,Direct,False,,,False
+BAG3881,Direct,False,,Denial of Service,False
+BAG3882,Direct,False,,,False
+BAG3883,Transfer,False,,,False
+BAG3884,Direct,False,,,False
+BAG3885,Direct,False,,,False
+BAG3886,Direct,False,,Duplicate,False
+BAG3887,Direct,False,,,False
+BAG3888,Direct,False,,,False
+BAG3889,Direct,False,,Duplicate,False
+BAG3890,Direct,False,,Spoofed Reader,False
+BAG3891,Direct,False,,,False
+BAG3892,Transfer,False,,,False
+BAG3893,Direct,False,,,False
+BAG3894,Direct,False,,,False
+BAG3895,Transfer,False,,,False
+BAG3896,Direct,False,,,False
+BAG3897,Direct,False,,,False
+BAG3898,Direct,False,,,False
+BAG3899,Transfer,False,,Spoofed Reader,False
+BAG3900,Transfer,False,,,False
+BAG3901,Direct,False,,Spoofed Reader,False
+BAG3902,Transfer,True,Acceptance,Missing Scan,True
+BAG3903,Direct,False,,Delayed,False
+BAG3904,Transfer,False,,,False
+BAG3905,Direct,False,,,False
+BAG3906,Direct,False,,,False
+BAG3907,Transfer,False,,Spoofed Reader,False
+BAG3908,Transfer,False,,,False
+BAG3909,Direct,False,,,False
+BAG3910,Direct,False,,,False
+BAG3911,Direct,True,Acceptance,Missing Scan,True
+BAG3912,Transfer,False,,Delayed,False
+BAG3913,Transfer,False,,,False
+BAG3914,Direct,False,,,False
+BAG3915,Transfer,False,,,False
+BAG3916,Transfer,False,,,False
+BAG3917,Transfer,False,,,False
+BAG3918,Direct,False,,,False
+BAG3919,Transfer,False,,,False
+BAG3920,Direct,False,,Out of Sequence,False
+BAG3921,Direct,False,,Spoofed Reader,False
+BAG3922,Transfer,False,,,False
+BAG3923,Transfer,False,,,False
+BAG3924,Direct,False,,Spoofed Reader,False
+BAG3925,Direct,False,,,False
+BAG3926,Direct,False,,,False
+BAG3927,Direct,False,,,False
+BAG3928,Transfer,False,,,False
+BAG3929,Transfer,False,,Spoofed Reader,False
+BAG3930,Direct,False,,Invalid Location,False
+BAG3931,Direct,False,,Delayed,False
+BAG3932,Transfer,False,,Spoofed Reader,False
+BAG3933,Direct,False,,,False
+BAG3934,Direct,False,,,False
+BAG3935,Direct,False,,,False
+BAG3936,Direct,False,,Invalid Location,False
+BAG3937,Transfer,False,,Duplicate,False
+BAG3938,Direct,False,,,False
+BAG3939,Direct,False,,,False
+BAG3940,Direct,False,,,False
+BAG3941,Direct,False,,Spoofed Reader,False
+BAG3942,Transfer,False,,Invalid Location,False
+BAG3943,Direct,False,,,False
+BAG3944,Direct,False,,,False
+BAG3945,Transfer,False,,,False
+BAG3946,Transfer,False,,,False
+BAG3947,Direct,False,,,False
+BAG3948,Direct,False,,,False
+BAG3949,Transfer,False,,,False
+BAG3950,Direct,False,,,False
+BAG3951,Transfer,False,,,False
+BAG3952,Direct,False,,,False
+BAG3953,Direct,False,,,False
+BAG3954,Direct,False,,Spoofed Reader,False
+BAG3955,Direct,False,,,False
+BAG3956,Transfer,False,,,False
+BAG3957,Direct,False,,,False
+BAG3958,Transfer,False,,,False
+BAG3959,Direct,True,Acceptance,Missing Scan,True
+BAG3960,Transfer,False,,,False
+BAG3961,Direct,False,,,False
+BAG3962,Direct,False,,,False
+BAG3963,Direct,False,,,False
+BAG3964,Direct,False,,,False
+BAG3965,Direct,False,,,False
+BAG3966,Direct,False,,,False
+BAG3967,Direct,False,,,False
+BAG3968,Direct,False,,,False
+BAG3969,Transfer,False,,,False
+BAG3970,Direct,False,,,False
+BAG3971,Transfer,False,,,False
+BAG3972,Direct,False,,,False
+BAG3973,Direct,False,,Delayed,False
+BAG3974,Transfer,False,,,False
+BAG3975,Direct,False,,,False
+BAG3976,Transfer,False,,,False
+BAG3977,Direct,False,,Spoofed Reader,False
+BAG3978,Direct,False,,,False
+BAG3979,Direct,True,Loading,Missing Scan,True
+BAG3980,Transfer,False,,,False
+BAG3981,Direct,False,,,False
+BAG3982,Direct,False,,,False
+BAG3983,Direct,False,,,False
+BAG3984,Direct,False,,,False
+BAG3985,Direct,False,,,False
+BAG3986,Direct,False,,,False
+BAG3987,Transfer,False,,,False
+BAG3988,Direct,False,,Spoofed Reader,False
+BAG3989,Transfer,False,,Delayed,False
+BAG3990,Direct,False,,,False
+BAG3991,Direct,False,,,False
+BAG3992,Direct,False,,,False
+BAG3993,Direct,True,Loading,Missing Scan,True
+BAG3994,Direct,False,,,False
+BAG3995,Direct,False,,Spoofed Reader,False
+BAG3996,Direct,False,,,False
+BAG3997,Direct,False,,,False
+BAG3998,Transfer,False,,Out of Sequence,False
+BAG3999,Direct,False,,Spoofed Reader,False
+BAG4000,Direct,False,,,False
+BAG4001,Direct,False,,Spoofed Reader,False
+BAG4002,Transfer,False,,,False
+BAG4003,Direct,False,,,False
+BAG4004,Direct,False,,,False
+BAG4005,Direct,False,,Duplicate,False
+BAG4006,Transfer,False,,,False
+BAG4007,Direct,False,,,False
+BAG4008,Direct,False,,Delayed,False
+BAG4009,Direct,True,Loading,Missing Scan,True
+BAG4010,Direct,False,,,False
+BAG4011,Direct,False,,,False
+BAG4012,Transfer,False,,,False
+BAG4013,Transfer,False,,Duplicate,False
+BAG4014,Direct,False,,,False
+BAG4015,Direct,False,,Spoofed Reader,False
+BAG4016,Direct,False,,Invalid Location,False
+BAG4017,Direct,False,,,False
+BAG4018,Direct,False,,Delayed,False
+BAG4019,Direct,False,,Delayed,False
+BAG4020,Direct,False,,,False
+BAG4021,Direct,False,,,False
+BAG4022,Direct,False,,,False
+BAG4023,Direct,False,,,False
+BAG4024,Transfer,False,,Invalid Location,False
+BAG4025,Transfer,False,,,False
+BAG4026,Direct,False,,,False
+BAG4027,Direct,False,,Delayed,False
+BAG4028,Direct,False,,,False
+BAG4029,Direct,False,,Duplicate,False
+BAG4030,Direct,False,,,False
+BAG4031,Direct,False,,,False
+BAG4032,Direct,False,,,False
+BAG4033,Direct,False,,,False
+BAG4034,Direct,False,,,False
+BAG4035,Direct,False,,,False
+BAG4036,Transfer,False,,,False
+BAG4037,Direct,False,,,False
+BAG4038,Direct,False,,,False
+BAG4039,Transfer,False,,,False
+BAG4040,Direct,False,,,False
+BAG4041,Direct,False,,Spoofed Reader,False
+BAG4042,Direct,False,,,False
+BAG4043,Direct,False,,,False
+BAG4044,Direct,False,,Invalid Location,False
+BAG4045,Direct,False,,,False
+BAG4046,Direct,False,,,False
+BAG4047,Transfer,False,,,False
+BAG4048,Direct,False,,,False
+BAG4049,Direct,False,,,False
+BAG4050,Direct,False,,,False
+BAG4051,Direct,False,,,False
+BAG4052,Direct,False,,,False
+BAG4053,Direct,False,,Invalid Location,False
+BAG4054,Transfer,False,,Invalid Location,False
+BAG4055,Transfer,False,,,False
+BAG4056,Direct,False,,Spoofed Reader,False
+BAG4057,Direct,False,,,False
+BAG4058,Direct,False,,,False
+BAG4059,Transfer,False,,Spoofed Reader,False
+BAG4060,Transfer,False,,,False
+BAG4061,Direct,False,,Delayed,False
+BAG4062,Direct,False,,,False
+BAG4063,Transfer,False,,,False
+BAG4064,Direct,False,,Out of Sequence,False
+BAG4065,Direct,False,,Spoofed Reader,False
+BAG4066,Direct,False,,,False
+BAG4067,Transfer,False,,,False
+BAG4068,Direct,False,,,False
+BAG4069,Direct,False,,,False
+BAG4070,Direct,False,,,False
+BAG4071,Direct,False,,,False
+BAG4072,Direct,False,,Spoofed Reader,False
+BAG4073,Direct,False,,,False
+BAG4074,Direct,False,,Spoofed Reader,False
+BAG4075,Transfer,False,,Invalid Location,False
+BAG4076,Transfer,False,,,False
+BAG4077,Transfer,False,,,False
+BAG4078,Transfer,False,,,False
+BAG4079,Direct,False,,,False
+BAG4080,Direct,False,,,False
+BAG4081,Direct,False,,,False
+BAG4082,Direct,False,,Spoofed Reader,False
+BAG4083,Direct,False,,,False
+BAG4084,Direct,False,,,False
+BAG4085,Direct,False,,,False
+BAG4086,Direct,False,,,False
+BAG4087,Direct,False,,,False
+BAG4088,Direct,False,,Spoofed Reader,False
+BAG4089,Direct,False,,,False
+BAG4090,Direct,False,,Spoofed Reader,False
+BAG4091,Direct,False,,,False
+BAG4092,Direct,False,,Spoofed Reader,False
+BAG4093,Transfer,False,,,False
+BAG4094,Transfer,False,,,False
+BAG4095,Transfer,False,,Duplicate,False
+BAG4096,Direct,True,Loading,Missing Scan,True
+BAG4097,Direct,False,,Invalid Location,False
+BAG4098,Direct,False,,,False
+BAG4099,Direct,False,,,False
+BAG4100,Transfer,False,,Spoofed Reader,False
+BAG4101,Direct,False,,Duplicate,False
+BAG4102,Direct,False,,,False
+BAG4103,Direct,False,,Delayed,False
+BAG4104,Direct,False,,,False
+BAG4105,Direct,False,,,False
+BAG4106,Transfer,False,,,False
+BAG4107,Direct,False,,,False
+BAG4108,Direct,False,,,False
+BAG4109,Direct,False,,,False
+BAG4110,Direct,False,,,False
+BAG4111,Direct,False,,Duplicate,False
+BAG4112,Direct,False,,Delayed,False
+BAG4113,Transfer,False,,,False
+BAG4114,Direct,False,,,False
+BAG4115,Direct,False,,,False
+BAG4116,Direct,False,,,False
+BAG4117,Direct,False,,,False
+BAG4118,Direct,False,,,False
+BAG4119,Transfer,False,,,False
+BAG4120,Direct,False,,,False
+BAG4121,Transfer,False,,Spoofed Reader,False
+BAG4122,Transfer,False,,,False
+BAG4123,Direct,True,Screening,Missing Scan,True
+BAG4124,Direct,False,,,False
+BAG4125,Direct,True,Sorting,Missing Scan,True
+BAG4126,Direct,False,,,False
+BAG4127,Direct,False,,,False
+BAG4128,Direct,False,,,False
+BAG4129,Direct,False,,,False
+BAG4130,Direct,False,,,False
+BAG4131,Direct,False,,,False
+BAG4132,Direct,False,,,False
+BAG4133,Direct,False,,,False
+BAG4134,Direct,False,,Duplicate,False
+BAG4135,Direct,False,,Spoofed Reader,False
+BAG4136,Direct,False,,,False
+BAG4137,Direct,False,,,False
+BAG4138,Direct,False,,,False
+BAG4139,Direct,False,,,False
+BAG4140,Transfer,False,,Out of Sequence,False
+BAG4141,Direct,False,,,False
+BAG4142,Transfer,False,,,False
+BAG4143,Direct,False,,Out of Sequence,False
+BAG4144,Direct,False,,,False
+BAG4145,Direct,False,,,False
+BAG4146,Direct,False,,,False
+BAG4147,Direct,False,,,False
+BAG4148,Direct,False,,Spoofed Reader,False
+BAG4149,Transfer,False,,Delayed,False
+BAG4150,Direct,False,,Delayed,False
+BAG4151,Direct,False,,Duplicate,False
+BAG4152,Direct,False,,Duplicate,False
+BAG4153,Transfer,False,,Invalid Location,False
+BAG4154,Transfer,False,,Spoofed Reader,False
+BAG4155,Transfer,False,,,False
+BAG4156,Direct,False,,,False
+BAG4157,Direct,False,,,False
+BAG4158,Direct,False,,,False
+BAG4159,Direct,False,,,False
+BAG4160,Direct,False,,,False
+BAG4161,Direct,False,,,False
+BAG4162,Direct,False,,Duplicate,False
+BAG4163,Direct,False,,,False
+BAG4164,Direct,False,,,False
+BAG4165,Direct,True,Claim,Missing Scan,True
+BAG4166,Direct,False,,Out of Sequence,False
+BAG4167,Direct,False,,,False
+BAG4168,Direct,False,,Invalid Location,False
+BAG4169,Direct,False,,,False
+BAG4170,Direct,False,,Duplicate,False
+BAG4171,Direct,False,,,False
+BAG4172,Direct,False,,,False
+BAG4173,Transfer,False,,,False
+BAG4174,Transfer,False,,Spoofed Reader,False
+BAG4175,Transfer,False,,,False
+BAG4176,Direct,False,,,False
+BAG4177,Transfer,True,Transfer,Missing Scan,True
+BAG4178,Direct,False,,,False
+BAG4179,Direct,False,,,False
+BAG4180,Direct,False,,Invalid Location,False
+BAG4181,Transfer,False,,,False
+BAG4182,Transfer,False,,Spoofed Reader,False
+BAG4183,Direct,False,,,False
+BAG4184,Transfer,False,,,False
+BAG4185,Direct,True,Loading,Missing Scan,True
+BAG4186,Direct,False,,,False
+BAG4187,Direct,False,,Spoofed Reader,False
+BAG4188,Direct,False,,,False
+BAG4189,Direct,False,,,False
+BAG4190,Transfer,False,,Denial of Service,False
+BAG4191,Transfer,False,,Invalid Location,False
+BAG4192,Direct,False,,,False
+BAG4193,Transfer,False,,,False
+BAG4194,Transfer,False,,Denial of Service,False
+BAG4195,Direct,False,,,False
+BAG4196,Direct,False,,,False
+BAG4197,Direct,False,,,False
+BAG4198,Transfer,False,,,False
+BAG4199,Direct,False,,,False
+BAG4200,Direct,False,,,False
+BAG4201,Transfer,False,,,False
+BAG4202,Direct,False,,,False
+BAG4203,Direct,False,,Duplicate,False
+BAG4204,Transfer,False,,,False
+BAG4205,Direct,False,,,False
+BAG4206,Direct,False,,,False
+BAG4207,Direct,False,,,False
+BAG4208,Transfer,False,,,False
+BAG4209,Direct,False,,,False
+BAG4210,Transfer,False,,Invalid Location,False
+BAG4211,Transfer,False,,,False
+BAG4212,Direct,False,,,False
+BAG4213,Transfer,False,,,False
+BAG4214,Direct,False,,,False
+BAG4215,Transfer,False,,,False
+BAG4216,Transfer,False,,,False
+BAG4217,Direct,False,,,False
+BAG4218,Direct,False,,,False
+BAG4219,Direct,False,,,False
+BAG4220,Direct,False,,,False
+BAG4221,Direct,False,,Out of Sequence,False
+BAG4222,Transfer,False,,Duplicate,False
+BAG4223,Transfer,False,,Invalid Location,False
+BAG4224,Direct,False,,Out of Sequence,False
+BAG4225,Direct,False,,,False
+BAG4226,Transfer,False,,Out of Sequence,False
+BAG4227,Direct,False,,Delayed,False
+BAG4228,Transfer,False,,,False
+BAG4229,Direct,False,,,False
+BAG4230,Direct,False,,,False
+BAG4231,Transfer,False,,Denial of Service,False
+BAG4232,Transfer,False,,,False
+BAG4233,Direct,False,,,False
+BAG4234,Direct,False,,,False
+BAG4235,Transfer,False,,,False
+BAG4236,Direct,False,,,False
+BAG4237,Direct,False,,Spoofed Reader,False
+BAG4238,Direct,False,,,False
+BAG4239,Direct,False,,,False
+BAG4240,Transfer,False,,,False
+BAG4241,Direct,False,,,False
+BAG4242,Direct,False,,Out of Sequence,False
+BAG4243,Direct,False,,,False
+BAG4244,Direct,False,,,False
+BAG4245,Direct,False,,,False
+BAG4246,Transfer,False,,,False
+BAG4247,Transfer,False,,,False
+BAG4248,Transfer,False,,,False
+BAG4249,Direct,False,,Duplicate,False
+BAG4250,Direct,False,,Spoofed Reader,False
+BAG4251,Direct,False,,,False
+BAG4252,Direct,False,,,False
+BAG4253,Transfer,False,,,False
+BAG4254,Transfer,False,,,False
+BAG4255,Transfer,False,,Spoofed Reader,False
+BAG4256,Transfer,False,,Out of Sequence,False
+BAG4257,Transfer,False,,Out of Sequence,False
+BAG4258,Transfer,False,,,False
+BAG4259,Transfer,False,,,False
+BAG4260,Transfer,False,,,False
+BAG4261,Direct,False,,,False
+BAG4262,Direct,False,,,False
+BAG4263,Direct,False,,,False
+BAG4264,Direct,False,,,False
+BAG4265,Transfer,False,,,False
+BAG4266,Direct,False,,,False
+BAG4267,Direct,False,,,False
+BAG4268,Direct,False,,,False
+BAG4269,Direct,False,,Duplicate,False
+BAG4270,Direct,False,,Spoofed Reader,False
+BAG4271,Direct,False,,,False
+BAG4272,Direct,False,,,False
+BAG4273,Direct,False,,,False
+BAG4274,Transfer,False,,,False
+BAG4275,Transfer,False,,,False
+BAG4276,Transfer,False,,,False
+BAG4277,Direct,False,,,False
+BAG4278,Transfer,False,,,False
+BAG4279,Direct,False,,,False
+BAG4280,Transfer,False,,,False
+BAG4281,Direct,False,,,False
+BAG4282,Transfer,False,,Out of Sequence,False
+BAG4283,Direct,False,,,False
+BAG4284,Direct,False,,Spoofed Reader,False
+BAG4285,Direct,False,,,False
+BAG4286,Direct,False,,,False
+BAG4287,Direct,True,Claim,Missing Scan,True
+BAG4288,Direct,False,,,False
+BAG4289,Direct,True,Screening,Missing Scan,True
+BAG4290,Direct,False,,Delayed,False
+BAG4291,Direct,False,,,False
+BAG4292,Transfer,False,,Duplicate,False
+BAG4293,Direct,False,,,False
+BAG4294,Direct,False,,,False
+BAG4295,Direct,False,,Delayed,False
+BAG4296,Direct,False,,Spoofed Reader,False
+BAG4297,Direct,False,,,False
+BAG4298,Direct,False,,,False
+BAG4299,Direct,False,,,False
+BAG4300,Transfer,False,,,False
+BAG4301,Direct,False,,,False
+BAG4302,Direct,False,,,False
+BAG4303,Direct,False,,,False
+BAG4304,Direct,False,,,False
+BAG4305,Direct,False,,Delayed,False
+BAG4306,Direct,False,,,False
+BAG4307,Direct,False,,,False
+BAG4308,Direct,False,,,False
+BAG4309,Direct,False,,,False
+BAG4310,Direct,False,,,False
+BAG4311,Transfer,False,,,False
+BAG4312,Direct,False,,,False
+BAG4313,Direct,False,,,False
+BAG4314,Direct,False,,Delayed,False
+BAG4315,Direct,False,,,False
+BAG4316,Transfer,False,,,False
+BAG4317,Direct,False,,,False
+BAG4318,Direct,False,,,False
+BAG4319,Direct,False,,Duplicate,False
+BAG4320,Direct,False,,,False
+BAG4321,Direct,False,,Invalid Location,False
+BAG4322,Transfer,False,,Spoofed Reader,False
+BAG4323,Direct,False,,,False
+BAG4324,Direct,False,,,False
+BAG4325,Transfer,False,,,False
+BAG4326,Direct,False,,Invalid Location,False
+BAG4327,Direct,False,,,False
+BAG4328,Transfer,False,,,False
+BAG4329,Transfer,False,,,False
+BAG4330,Direct,False,,,False
+BAG4331,Direct,False,,,False
+BAG4332,Direct,False,,,False
+BAG4333,Direct,False,,,False
+BAG4334,Direct,False,,,False
+BAG4335,Transfer,False,,,False
+BAG4336,Direct,False,,,False
+BAG4337,Transfer,False,,,False
+BAG4338,Direct,True,Arrival,Missing Scan,True
+BAG4339,Direct,False,,,False
+BAG4340,Direct,False,,Duplicate,False
+BAG4341,Direct,False,,,False
+BAG4342,Direct,False,,,False
+BAG4343,Direct,False,,,False
+BAG4344,Direct,False,,,False
+BAG4345,Direct,False,,,False
+BAG4346,Direct,False,,,False
+BAG4347,Transfer,False,,Duplicate,False
+BAG4348,Direct,False,,,False
+BAG4349,Direct,False,,,False
+BAG4350,Direct,False,,,False
+BAG4351,Direct,False,,,False
+BAG4352,Direct,False,,,False
+BAG4353,Transfer,False,,,False
+BAG4354,Transfer,False,,,False
+BAG4355,Transfer,False,,Delayed,False
+BAG4356,Direct,False,,,False
+BAG4357,Direct,False,,,False
+BAG4358,Direct,False,,,False
+BAG4359,Direct,False,,,False
+BAG4360,Transfer,False,,Spoofed Reader,False
+BAG4361,Direct,False,,,False
+BAG4362,Transfer,False,,,False
+BAG4363,Direct,False,,,False
+BAG4364,Direct,False,,,False
+BAG4365,Direct,False,,,False
+BAG4366,Direct,False,,,False
+BAG4367,Direct,False,,Out of Sequence,False
+BAG4368,Direct,False,,Duplicate,False
+BAG4369,Transfer,False,,,False
+BAG4370,Transfer,False,,Invalid Location,False
+BAG4371,Direct,False,,,False
+BAG4372,Direct,False,,,False
+BAG4373,Direct,False,,,False
+BAG4374,Direct,False,,,False
+BAG4375,Direct,False,,Out of Sequence,False
+BAG4376,Direct,False,,,False
+BAG4377,Transfer,False,,Delayed,False
+BAG4378,Direct,False,,,False
+BAG4379,Direct,False,,,False
+BAG4380,Direct,False,,,False
+BAG4381,Direct,False,,,False
+BAG4382,Transfer,False,,Invalid Location,False
+BAG4383,Direct,False,,,False
+BAG4384,Direct,False,,,False
+BAG4385,Direct,False,,,False
+BAG4386,Transfer,False,,,False
+BAG4387,Direct,False,,,False
+BAG4388,Direct,False,,,False
+BAG4389,Direct,False,,,False
+BAG4390,Direct,False,,,False
+BAG4391,Direct,False,,,False
+BAG4392,Direct,False,,,False
+BAG4393,Transfer,False,,Spoofed Reader,False
+BAG4394,Direct,False,,Out of Sequence,False
+BAG4395,Direct,False,,,False
+BAG4396,Transfer,False,,Out of Sequence,False
+BAG4397,Direct,False,,,False
+BAG4398,Transfer,False,,,False
+BAG4399,Direct,False,,,False
+BAG4400,Direct,False,,,False
+BAG4401,Direct,False,,,False
+BAG4402,Direct,False,,,False
+BAG4403,Transfer,False,,Out of Sequence,False
+BAG4404,Transfer,False,,,False
+BAG4405,Direct,False,,,False
+BAG4406,Transfer,False,,,False
+BAG4407,Direct,False,,,False
+BAG4408,Direct,False,,,False
+BAG4409,Direct,False,,,False
+BAG4410,Direct,False,,Delayed,False
+BAG4411,Transfer,False,,Out of Sequence,False
+BAG4412,Transfer,False,,Duplicate,False
+BAG4413,Direct,False,,,False
+BAG4414,Direct,False,,,False
+BAG4415,Transfer,False,,Delayed,False
+BAG4416,Transfer,False,,,False
+BAG4417,Direct,False,,,False
+BAG4418,Direct,False,,,False
+BAG4419,Direct,False,,,False
+BAG4420,Direct,False,,,False
+BAG4421,Direct,False,,,False
+BAG4422,Direct,False,,,False
+BAG4423,Direct,False,,Spoofed Reader,False
+BAG4424,Direct,False,,Out of Sequence,False
+BAG4425,Transfer,False,,Duplicate,False
+BAG4426,Direct,False,,Delayed,False
+BAG4427,Direct,False,,,False
+BAG4428,Direct,False,,,False
+BAG4429,Transfer,False,,,False
+BAG4430,Direct,False,,Denial of Service,False
+BAG4431,Direct,False,,,False
+BAG4432,Direct,False,,,False
+BAG4433,Direct,False,,,False
+BAG4434,Direct,False,,,False
+BAG4435,Transfer,False,,Duplicate,False
+BAG4436,Transfer,False,,,False
+BAG4437,Direct,False,,,False
+BAG4438,Direct,False,,,False
+BAG4439,Direct,False,,Delayed,False
+BAG4440,Transfer,False,,Duplicate,False
+BAG4441,Transfer,False,,,False
+BAG4442,Direct,False,,Spoofed Reader,False
+BAG4443,Direct,False,,Invalid Location,False
+BAG4444,Transfer,False,,Out of Sequence,False
+BAG4445,Transfer,False,,,False
+BAG4446,Transfer,False,,,False
+BAG4447,Direct,False,,,False
+BAG4448,Direct,False,,,False
+BAG4449,Direct,False,,,False
+BAG4450,Direct,False,,Duplicate,False
+BAG4451,Direct,False,,,False
+BAG4452,Direct,False,,,False
+BAG4453,Direct,False,,Duplicate,False
+BAG4454,Transfer,False,,Denial of Service,False
+BAG4455,Transfer,False,,Duplicate,False
+BAG4456,Direct,False,,,False
+BAG4457,Direct,False,,,False
+BAG4458,Direct,False,,,False
+BAG4459,Transfer,False,,,False
+BAG4460,Direct,False,,,False
+BAG4461,Direct,False,,Delayed,False
+BAG4462,Transfer,False,,Delayed,False
+BAG4463,Transfer,False,,,False
+BAG4464,Transfer,False,,,False
+BAG4465,Direct,False,,Delayed,False
+BAG4466,Direct,False,,Spoofed Reader,False
+BAG4467,Direct,False,,,False
+BAG4468,Direct,False,,,False
+BAG4469,Direct,False,,,False
+BAG4470,Direct,False,,Out of Sequence,False
+BAG4471,Direct,False,,,False
+BAG4472,Direct,False,,,False
+BAG4473,Direct,False,,,False
+BAG4474,Direct,False,,,False
+BAG4475,Direct,False,,,False
+BAG4476,Direct,False,,,False
+BAG4477,Direct,False,,,False
+BAG4478,Transfer,True,Transfer,Missing Scan,True
+BAG4479,Transfer,False,,,False
+BAG4480,Transfer,False,,,False
+BAG4481,Transfer,False,,Out of Sequence,False
+BAG4482,Direct,False,,,False
+BAG4483,Direct,False,,,False
+BAG4484,Transfer,False,,,False
+BAG4485,Direct,False,,,False
+BAG4486,Direct,False,,,False
+BAG4487,Direct,False,,,False
+BAG4488,Transfer,False,,,False
+BAG4489,Direct,False,,Delayed,False
+BAG4490,Direct,False,,,False
+BAG4491,Direct,False,,,False
+BAG4492,Direct,False,,Spoofed Reader,False
+BAG4493,Direct,False,,,False
+BAG4494,Direct,False,,,False
+BAG4495,Direct,False,,,False
+BAG4496,Direct,False,,,False
+BAG4497,Direct,False,,,False
+BAG4498,Direct,True,Loading,Missing Scan,True
+BAG4499,Direct,True,Sorting,Missing Scan,True
+BAG4500,Direct,False,,Delayed,False
+BAG4501,Direct,False,,,False
+BAG4502,Direct,False,,,False
+BAG4503,Transfer,False,,Denial of Service,False
+BAG4504,Direct,False,,,False
+BAG4505,Transfer,True,Claim,Missing Scan,True
+BAG4506,Direct,False,,,False
+BAG4507,Transfer,False,,,False
+BAG4508,Direct,False,,Spoofed Reader,False
+BAG4509,Direct,False,,Delayed,False
+BAG4510,Direct,False,,,False
+BAG4511,Transfer,False,,,False
+BAG4512,Direct,False,,,False
+BAG4513,Transfer,False,,,False
+BAG4514,Direct,False,,,False
+BAG4515,Direct,False,,,False
+BAG4516,Direct,False,,,False
+BAG4517,Direct,False,,,False
+BAG4518,Direct,False,,,False
+BAG4519,Transfer,False,,,False
+BAG4520,Transfer,False,,,False
+BAG4521,Transfer,False,,,False
+BAG4522,Direct,False,,,False
+BAG4523,Direct,False,,,False
+BAG4524,Direct,False,,Out of Sequence,False
+BAG4525,Transfer,False,,,False
+BAG4526,Transfer,False,,Out of Sequence,False
+BAG4527,Direct,False,,Spoofed Reader,False
+BAG4528,Direct,False,,,False
+BAG4529,Transfer,False,,Delayed,False
+BAG4530,Transfer,False,,,False
+BAG4531,Direct,False,,Spoofed Reader,False
+BAG4532,Direct,False,,,False
+BAG4533,Direct,False,,,False
+BAG4534,Direct,False,,Out of Sequence,False
+BAG4535,Transfer,False,,,False
+BAG4536,Direct,False,,Out of Sequence,False
+BAG4537,Direct,False,,,False
+BAG4538,Direct,False,,Duplicate,False
+BAG4539,Direct,False,,,False
+BAG4540,Direct,False,,,False
+BAG4541,Direct,False,,,False
+BAG4542,Direct,False,,,False
+BAG4543,Direct,False,,,False
+BAG4544,Direct,False,,Delayed,False
+BAG4545,Direct,False,,,False
+BAG4546,Transfer,False,,,False
+BAG4547,Direct,False,,,False
+BAG4548,Direct,False,,,False
+BAG4549,Direct,False,,,False
+BAG4550,Direct,False,,,False
+BAG4551,Direct,False,,,False
+BAG4552,Direct,False,,,False
+BAG4553,Direct,False,,,False
+BAG4554,Transfer,False,,,False
+BAG4555,Direct,False,,,False
+BAG4556,Direct,False,,,False
+BAG4557,Direct,False,,,False
+BAG4558,Transfer,False,,,False
+BAG4559,Direct,False,,,False
+BAG4560,Transfer,False,,,False
+BAG4561,Direct,False,,Spoofed Reader,False
+BAG4562,Transfer,False,,,False
+BAG4563,Direct,False,,Delayed,False
+BAG4564,Direct,False,,,False
+BAG4565,Direct,False,,Invalid Location,False
+BAG4566,Direct,False,,Spoofed Reader,False
+BAG4567,Transfer,False,,,False
+BAG4568,Direct,False,,,False
+BAG4569,Direct,False,,,False
+BAG4570,Direct,False,,Invalid Location,False
+BAG4571,Direct,False,,Invalid Location,False
+BAG4572,Direct,False,,,False
+BAG4573,Direct,False,,Invalid Location,False
+BAG4574,Direct,False,,Duplicate,False
+BAG4575,Direct,False,,Invalid Location,False
+BAG4576,Transfer,False,,,False
+BAG4577,Direct,False,,,False
+BAG4578,Direct,False,,Spoofed Reader,False
+BAG4579,Direct,False,,,False
+BAG4580,Direct,False,,,False
+BAG4581,Direct,False,,,False
+BAG4582,Transfer,False,,,False
+BAG4583,Transfer,False,,,False
+BAG4584,Direct,False,,Denial of Service,False
+BAG4585,Direct,False,,,False
+BAG4586,Direct,False,,Duplicate,False
+BAG4587,Direct,False,,,False
+BAG4588,Transfer,False,,,False
+BAG4589,Transfer,False,,,False
+BAG4590,Direct,False,,,False
+BAG4591,Direct,False,,,False
+BAG4592,Direct,False,,,False
+BAG4593,Direct,False,,,False
+BAG4594,Transfer,False,,,False
+BAG4595,Direct,False,,Spoofed Reader,False
+BAG4596,Transfer,False,,Out of Sequence,False
+BAG4597,Direct,False,,Delayed,False
+BAG4598,Transfer,False,,Denial of Service,False
+BAG4599,Direct,False,,Invalid Location,False
+BAG4600,Direct,False,,,False
+BAG4601,Direct,False,,Out of Sequence,False
+BAG4602,Direct,False,,,False
+BAG4603,Direct,False,,,False
+BAG4604,Direct,False,,,False
+BAG4605,Direct,False,,Duplicate,False
+BAG4606,Transfer,False,,,False
+BAG4607,Direct,False,,,False
+BAG4608,Transfer,False,,Out of Sequence,False
+BAG4609,Direct,False,,,False
+BAG4610,Direct,False,,Spoofed Reader,False
+BAG4611,Direct,False,,Invalid Location,False
+BAG4612,Direct,True,Arrival,Missing Scan,True
+BAG4613,Direct,False,,,False
+BAG4614,Transfer,False,,,False
+BAG4615,Direct,False,,,False
+BAG4616,Transfer,False,,,False
+BAG4617,Direct,False,,Delayed,False
+BAG4618,Direct,False,,Invalid Location,False
+BAG4619,Direct,False,,,False
+BAG4620,Transfer,False,,Delayed,False
+BAG4621,Direct,False,,,False
+BAG4622,Direct,False,,,False
+BAG4623,Direct,False,,,False
+BAG4624,Direct,False,,,False
+BAG4625,Transfer,False,,,False
+BAG4626,Transfer,False,,,False
+BAG4627,Direct,False,,,False
+BAG4628,Direct,False,,,False
+BAG4629,Transfer,False,,,False
+BAG4630,Direct,False,,,False
+BAG4631,Direct,False,,,False
+BAG4632,Direct,False,,,False
+BAG4633,Direct,False,,Spoofed Reader,False
+BAG4634,Direct,False,,,False
+BAG4635,Direct,True,Sorting,Missing Scan,True
+BAG4636,Transfer,False,,,False
+BAG4637,Direct,False,,,False
+BAG4638,Direct,False,,,False
+BAG4639,Direct,False,,,False
+BAG4640,Direct,False,,Spoofed Reader,False
+BAG4641,Direct,False,,,False
+BAG4642,Direct,False,,,False
+BAG4643,Direct,False,,,False
+BAG4644,Transfer,False,,,False
+BAG4645,Transfer,False,,,False
+BAG4646,Direct,False,,,False
+BAG4647,Direct,False,,Denial of Service,False
+BAG4648,Transfer,False,,,False
+BAG4649,Direct,True,Arrival,Missing Scan,True
+BAG4650,Direct,False,,,False
+BAG4651,Transfer,False,,,False
+BAG4652,Transfer,False,,,False
+BAG4653,Transfer,False,,Invalid Location,False
+BAG4654,Direct,False,,,False
+BAG4655,Direct,False,,,False
+BAG4656,Direct,False,,,False
+BAG4657,Transfer,False,,,False
+BAG4658,Direct,False,,,False
+BAG4659,Direct,False,,,False
+BAG4660,Direct,False,,,False
+BAG4661,Transfer,False,,,False
+BAG4662,Direct,False,,Invalid Location,False
+BAG4663,Direct,False,,,False
+BAG4664,Transfer,False,,,False
+BAG4665,Transfer,True,Claim,Missing Scan,True
+BAG4666,Direct,False,,,False
+BAG4667,Transfer,False,,,False
+BAG4668,Transfer,False,,,False
+BAG4669,Direct,False,,,False
+BAG4670,Direct,False,,Delayed,False
+BAG4671,Direct,False,,,False
+BAG4672,Direct,False,,Delayed,False
+BAG4673,Transfer,False,,Spoofed Reader,False
+BAG4674,Transfer,False,,,False
+BAG4675,Transfer,False,,Invalid Location,False
+BAG4676,Direct,False,,,False
+BAG4677,Transfer,False,,,False
+BAG4678,Direct,False,,,False
+BAG4679,Direct,False,,Spoofed Reader,False
+BAG4680,Transfer,False,,,False
+BAG4681,Direct,False,,Duplicate,False
+BAG4682,Transfer,False,,,False
+BAG4683,Direct,False,,Delayed,False
+BAG4684,Transfer,False,,Out of Sequence,False
+BAG4685,Transfer,False,,Spoofed Reader,False
+BAG4686,Direct,False,,,False
+BAG4687,Transfer,False,,Delayed,False
+BAG4688,Transfer,False,,Out of Sequence,False
+BAG4689,Transfer,False,,Spoofed Reader,False
+BAG4690,Direct,False,,Spoofed Reader,False
+BAG4691,Direct,False,,,False
+BAG4692,Transfer,False,,,False
+BAG4693,Transfer,False,,Duplicate,False
+BAG4694,Transfer,True,Acceptance,Missing Scan,True
+BAG4695,Direct,False,,,False
+BAG4696,Direct,False,,Spoofed Reader,False
+BAG4697,Transfer,False,,Denial of Service,False
+BAG4698,Transfer,True,Screening,Missing Scan,True
+BAG4699,Direct,False,,Spoofed Reader,False
+BAG4700,Direct,False,,,False
+BAG4701,Direct,False,,Spoofed Reader,False
+BAG4702,Transfer,False,,,False
+BAG4703,Direct,False,,,False
+BAG4704,Direct,False,,,False
+BAG4705,Direct,False,,,False
+BAG4706,Direct,False,,,False
+BAG4707,Direct,False,,Spoofed Reader,False
+BAG4708,Transfer,False,,,False
+BAG4709,Direct,False,,Invalid Location,False
+BAG4710,Direct,False,,,False
+BAG4711,Direct,False,,,False
+BAG4712,Transfer,False,,,False
+BAG4713,Direct,False,,,False
+BAG4714,Direct,True,Arrival,Missing Scan,True
+BAG4715,Direct,False,,,False
+BAG4716,Transfer,False,,,False
+BAG4717,Direct,True,Sorting,Missing Scan,True
+BAG4718,Direct,False,,,False
+BAG4719,Transfer,False,,,False
+BAG4720,Transfer,False,,,False
+BAG4721,Direct,False,,,False
+BAG4722,Transfer,False,,Invalid Location,False
+BAG4723,Transfer,False,,,False
+BAG4724,Direct,False,,,False
+BAG4725,Transfer,False,,Duplicate,False
+BAG4726,Direct,False,,,False
+BAG4727,Direct,False,,,False
+BAG4728,Direct,False,,,False
+BAG4729,Direct,False,,,False
+BAG4730,Transfer,False,,Spoofed Reader,False
+BAG4731,Direct,False,,,False
+BAG4732,Direct,False,,,False
+BAG4733,Direct,False,,,False
+BAG4734,Direct,False,,,False
+BAG4735,Transfer,False,,,False
+BAG4736,Direct,False,,,False
+BAG4737,Direct,False,,,False
+BAG4738,Direct,False,,,False
+BAG4739,Direct,False,,,False
+BAG4740,Transfer,False,,,False
+BAG4741,Transfer,False,,Denial of Service,False
+BAG4742,Transfer,False,,,False
+BAG4743,Direct,False,,Delayed,False
+BAG4744,Transfer,False,,,False
+BAG4745,Direct,False,,,False
+BAG4746,Direct,False,,,False
+BAG4747,Direct,False,,,False
+BAG4748,Direct,False,,Invalid Location,False
+BAG4749,Direct,False,,Out of Sequence,False
+BAG4750,Transfer,False,,,False
+BAG4751,Direct,False,,,False
+BAG4752,Direct,False,,Out of Sequence,False
+BAG4753,Direct,False,,Invalid Location,False
+BAG4754,Direct,False,,,False
+BAG4755,Direct,False,,,False
+BAG4756,Direct,False,,Duplicate,False
+BAG4757,Direct,False,,,False
+BAG4758,Direct,False,,,False
+BAG4759,Transfer,False,,,False
+BAG4760,Direct,False,,Spoofed Reader,False
+BAG4761,Transfer,False,,,False
+BAG4762,Direct,False,,Invalid Location,False
+BAG4763,Transfer,False,,,False
+BAG4764,Transfer,False,,,False
+BAG4765,Direct,False,,,False
+BAG4766,Direct,False,,,False
+BAG4767,Direct,False,,,False
+BAG4768,Transfer,False,,Spoofed Reader,False
+BAG4769,Direct,False,,Out of Sequence,False
+BAG4770,Transfer,False,,,False
+BAG4771,Direct,False,,,False
+BAG4772,Transfer,False,,,False
+BAG4773,Transfer,False,,,False
+BAG4774,Transfer,False,,,False
+BAG4775,Direct,False,,,False
+BAG4776,Direct,False,,Duplicate,False
+BAG4777,Direct,False,,Spoofed Reader,False
+BAG4778,Direct,False,,,False
+BAG4779,Direct,False,,Spoofed Reader,False
+BAG4780,Direct,False,,,False
+BAG4781,Direct,False,,,False
+BAG4782,Direct,False,,,False
+BAG4783,Direct,False,,Spoofed Reader,False
+BAG4784,Direct,False,,,False
+BAG4785,Direct,False,,,False
+BAG4786,Transfer,False,,,False
+BAG4787,Direct,False,,Out of Sequence,False
+BAG4788,Direct,False,,,False
+BAG4789,Direct,False,,Duplicate,False
+BAG4790,Direct,False,,,False
+BAG4791,Direct,False,,,False
+BAG4792,Transfer,False,,Delayed,False
+BAG4793,Direct,False,,,False
+BAG4794,Transfer,False,,Spoofed Reader,False
+BAG4795,Direct,False,,,False
+BAG4796,Direct,False,,,False
+BAG4797,Direct,False,,Spoofed Reader,False
+BAG4798,Transfer,False,,,False
+BAG4799,Direct,False,,,False
+BAG4800,Direct,False,,Spoofed Reader,False
+BAG4801,Transfer,False,,,False
+BAG4802,Direct,False,,,False
+BAG4803,Transfer,False,,,False
+BAG4804,Direct,False,,,False
+BAG4805,Direct,False,,Duplicate,False
+BAG4806,Direct,False,,Spoofed Reader,False
+BAG4807,Direct,False,,,False
+BAG4808,Direct,False,,,False
+BAG4809,Direct,False,,,False
+BAG4810,Direct,False,,Delayed,False
+BAG4811,Transfer,False,,Duplicate,False
+BAG4812,Transfer,False,,,False
+BAG4813,Transfer,False,,Denial of Service,False
+BAG4814,Direct,False,,,False
+BAG4815,Direct,True,Screening,Missing Scan,True
+BAG4816,Direct,False,,,False
+BAG4817,Transfer,False,,,False
+BAG4818,Direct,False,,,False
+BAG4819,Direct,False,,Out of Sequence,False
+BAG4820,Direct,False,,,False
+BAG4821,Direct,False,,,False
+BAG4822,Transfer,False,,,False
+BAG4823,Transfer,False,,Out of Sequence,False
+BAG4824,Direct,True,Acceptance,Missing Scan,True
+BAG4825,Direct,False,,,False
+BAG4826,Direct,False,,,False
+BAG4827,Transfer,False,,Duplicate,False
+BAG4828,Transfer,False,,,False
+BAG4829,Direct,False,,,False
+BAG4830,Direct,False,,Delayed,False
+BAG4831,Direct,False,,,False
+BAG4832,Transfer,False,,Out of Sequence,False
+BAG4833,Direct,False,,,False
+BAG4834,Direct,False,,Delayed,False
+BAG4835,Direct,False,,,False
+BAG4836,Direct,False,,,False
+BAG4837,Direct,False,,,False
+BAG4838,Direct,False,,Invalid Location,False
+BAG4839,Transfer,True,Loading,Missing Scan,True
+BAG4840,Direct,False,,Delayed,False
+BAG4841,Direct,False,,Duplicate,False
+BAG4842,Transfer,False,,,False
+BAG4843,Transfer,False,,,False
+BAG4844,Direct,False,,,False
+BAG4845,Direct,False,,,False
+BAG4846,Transfer,False,,Invalid Location,False
+BAG4847,Transfer,False,,,False
+BAG4848,Direct,False,,,False
+BAG4849,Direct,False,,Out of Sequence,False
+BAG4850,Transfer,False,,,False
+BAG4851,Direct,False,,,False
+BAG4852,Direct,False,,Out of Sequence,False
+BAG4853,Direct,False,,,False
+BAG4854,Direct,False,,Delayed,False
+BAG4855,Direct,False,,,False
+BAG4856,Direct,False,,Duplicate,False
+BAG4857,Direct,False,,Out of Sequence,False
+BAG4858,Direct,False,,,False
+BAG4859,Transfer,False,,,False
+BAG4860,Direct,False,,,False
+BAG4861,Direct,False,,Delayed,False
+BAG4862,Transfer,False,,,False
+BAG4863,Transfer,False,,Spoofed Reader,False
+BAG4864,Transfer,False,,Out of Sequence,False
+BAG4865,Direct,False,,,False
+BAG4866,Direct,False,,,False
+BAG4867,Transfer,False,,,False
+BAG4868,Direct,False,,,False
+BAG4869,Transfer,False,,,False
+BAG4870,Direct,False,,,False
+BAG4871,Transfer,False,,,False
+BAG4872,Direct,False,,,False
+BAG4873,Direct,False,,,False
+BAG4874,Direct,False,,,False
+BAG4875,Direct,False,,,False
+BAG4876,Direct,False,,Delayed,False
+BAG4877,Direct,False,,Invalid Location,False
+BAG4878,Transfer,False,,,False
+BAG4879,Transfer,False,,,False
+BAG4880,Direct,False,,,False
+BAG4881,Transfer,False,,Invalid Location,False
+BAG4882,Direct,False,,Out of Sequence,False
+BAG4883,Direct,False,,,False
+BAG4884,Transfer,False,,Spoofed Reader,False
+BAG4885,Transfer,False,,,False
+BAG4886,Transfer,False,,Invalid Location,False
+BAG4887,Direct,False,,,False
+BAG4888,Direct,False,,,False
+BAG4889,Transfer,False,,,False
+BAG4890,Direct,False,,Out of Sequence,False
+BAG4891,Direct,False,,,False
+BAG4892,Direct,False,,,False
+BAG4893,Transfer,False,,Spoofed Reader,False
+BAG4894,Transfer,False,,,False
+BAG4895,Direct,False,,,False
+BAG4896,Transfer,True,Claim,Missing Scan,True
+BAG4897,Direct,False,,,False
+BAG4898,Direct,False,,,False
+BAG4899,Transfer,False,,,False
+BAG4900,Direct,False,,,False
+BAG4901,Transfer,False,,Spoofed Reader,False
+BAG4902,Transfer,False,,Spoofed Reader,False
+BAG4903,Transfer,False,,,False
+BAG4904,Direct,False,,,False
+BAG4905,Direct,False,,,False
+BAG4906,Direct,False,,,False
+BAG4907,Direct,False,,,False
+BAG4908,Direct,False,,,False
+BAG4909,Direct,False,,,False
+BAG4910,Transfer,False,,,False
+BAG4911,Direct,False,,Duplicate,False
+BAG4912,Direct,False,,Spoofed Reader,False
+BAG4913,Direct,False,,Delayed,False
+BAG4914,Direct,False,,,False
+BAG4915,Direct,False,,,False
+BAG4916,Transfer,False,,Invalid Location,False
+BAG4917,Transfer,False,,,False
+BAG4918,Transfer,False,,,False
+BAG4919,Transfer,False,,,False
+BAG4920,Direct,False,,,False
+BAG4921,Transfer,False,,Out of Sequence,False
+BAG4922,Transfer,False,,,False
+BAG4923,Direct,False,,,False
+BAG4924,Transfer,False,,,False
+BAG4925,Direct,False,,,False
+BAG4926,Transfer,False,,,False
+BAG4927,Direct,True,Claim,Missing Scan,True
+BAG4928,Direct,False,,Invalid Location,False
+BAG4929,Transfer,False,,,False
+BAG4930,Direct,False,,Denial of Service,False
+BAG4931,Direct,False,,,False
+BAG4932,Direct,False,,Invalid Location,False
+BAG4933,Transfer,True,Loading,Missing Scan,True
+BAG4934,Direct,False,,Spoofed Reader,False
+BAG4935,Direct,False,,,False
+BAG4936,Direct,False,,,False
+BAG4937,Direct,False,,,False
+BAG4938,Direct,False,,,False
+BAG4939,Direct,False,,Out of Sequence,False
+BAG4940,Transfer,False,,,False
+BAG4941,Transfer,False,,,False
+BAG4942,Direct,False,,,False
+BAG4943,Transfer,False,,,False
+BAG4944,Direct,False,,,False
+BAG4945,Direct,False,,,False
+BAG4946,Direct,False,,,False
+BAG4947,Direct,False,,,False
+BAG4948,Direct,False,,,False
+BAG4949,Direct,False,,,False
+BAG4950,Direct,False,,Out of Sequence,False
+BAG4951,Direct,False,,Invalid Location,False
+BAG4952,Direct,False,,,False
+BAG4953,Direct,False,,Spoofed Reader,False
+BAG4954,Direct,False,,Denial of Service,False
+BAG4955,Transfer,False,,,False
+BAG4956,Direct,False,,Out of Sequence,False
+BAG4957,Direct,False,,,False
+BAG4958,Direct,False,,,False
+BAG4959,Direct,False,,,False
+BAG4960,Direct,False,,,False
+BAG4961,Direct,False,,Invalid Location,False
+BAG4962,Transfer,False,,,False
+BAG4963,Transfer,False,,,False
+BAG4964,Direct,False,,,False
+BAG4965,Direct,False,,,False
+BAG4966,Direct,False,,,False
+BAG4967,Transfer,False,,,False
+BAG4968,Direct,False,,,False
+BAG4969,Transfer,False,,Duplicate,False
+BAG4970,Direct,False,,,False
+BAG4971,Direct,False,,,False
+BAG4972,Direct,False,,Duplicate,False
+BAG4973,Direct,False,,Out of Sequence,False
+BAG4974,Direct,False,,,False
+BAG4975,Direct,False,,Invalid Location,False
+BAG4976,Transfer,False,,Out of Sequence,False
+BAG4977,Direct,False,,Spoofed Reader,False
+BAG4978,Direct,False,,,False
+BAG4979,Direct,False,,,False
+BAG4980,Direct,False,,Spoofed Reader,False
+BAG4981,Direct,False,,,False
+BAG4982,Transfer,False,,,False
+BAG4983,Direct,False,,,False
+BAG4984,Direct,False,,,False
+BAG4985,Direct,False,,,False
+BAG4986,Direct,False,,,False
+BAG4987,Direct,False,,,False
+BAG4988,Direct,True,Sorting,Missing Scan,True
+BAG4989,Transfer,False,,,False
+BAG4990,Direct,False,,Spoofed Reader,False
+BAG4991,Transfer,False,,,False
+BAG4992,Direct,False,,Delayed,False
+BAG4993,Direct,False,,Spoofed Reader,False
+BAG4994,Direct,False,,Duplicate,False
+BAG4995,Direct,False,,,False
+BAG4996,Transfer,False,,Spoofed Reader,False
+BAG4997,Transfer,False,,,False
+BAG4998,Direct,False,,Out of Sequence,False
+BAG4999,Transfer,False,,,False
+BAG5000,Transfer,False,,,False
