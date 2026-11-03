@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Public cybersecurity datasets
+/02_CICIoT2023/data/
+/03_N_BaIoT/data/
+/04_IoT_23/data/
+/05_CICIDS2017/data/
+
+# Additional Python environment
+/.venv-1/

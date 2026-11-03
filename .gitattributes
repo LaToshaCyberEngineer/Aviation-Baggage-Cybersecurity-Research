@@ -1,0 +1,5 @@
+02_CICIoT2023/data/*.csv filter=lfs diff=lfs merge=lfs -text
+03_N_BaIoT/data/extracted/**/*.csv filter=lfs diff=lfs merge=lfs -text
+04_IoT_23/data/*.csv filter=lfs diff=lfs merge=lfs -text
+04_IoT_23/data/*.labeled filter=lfs diff=lfs merge=lfs -text
+05_CICIDS2017/data/*.csv filter=lfs diff=lfs merge=lfs -text
