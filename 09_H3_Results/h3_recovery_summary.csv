@@ -1,0 +1,10 @@
+Measure,Result
+Total DoS Events,75.0
+Buffered Events,66.0
+Buffer Rate,88.0
+Restored Events,64.0
+Event Restoration Rate,96.97
+Overall Event Recovery Rate,85.33
+Permanent Event Losses,11.0
+Mean Recovery Time,2.7
+Mean Record Staleness,23.34

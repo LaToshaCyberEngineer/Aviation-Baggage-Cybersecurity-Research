@@ -1,0 +1,11 @@
+Validation Check,Result
+Same DoS event population,True
+Same DoS event count,True
+Original prepared data unchanged,True
+Mitigation event accounting,True
+Buffer event accounting,True
+Recovery delay within 1 to 5 minutes,True
+Permanent event loss improved,True
+Incomplete custody paths improved,True
+Affected events were restored,True
+Recovered events have finite recovery time,True

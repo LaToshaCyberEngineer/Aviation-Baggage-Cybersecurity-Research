@@ -1,0 +1,5 @@
+Measure,Baseline,Mitigation,Reduction Percent
+Permanent Event Loss,75.0,11.0,85.33
+Permanent Event Loss Rate,100.0,14.67,85.33
+Incomplete Custody Paths,75.0,11.0,85.33
+Incomplete Custody Path Rate,100.0,14.67,85.33
