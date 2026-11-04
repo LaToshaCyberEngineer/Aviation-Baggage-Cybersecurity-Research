@@ -1,0 +1,4 @@
+Model,Correct Normal,False Alarms,Missed Attacks,Correct Attacks
+Logistic Regression,4952,0,4890,201379
+Support Vector Machine,4952,0,4957,201312
+Random Forest,4946,6,3445,202824
