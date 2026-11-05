@@ -1,0 +1,10 @@
+Measurement,Result
+Affected RFID scans,75.0
+DoS disruptions,10.0
+Store and forward restored,64.0
+Analytics restored,57.0
+Store and forward recovery (%),85.33
+Analytics recovery (%),76.0
+CICIDS2017 detection rate (%),66.21
+CICIDS2017 false positive rate (%),36.63
+Expected analytics recovery (%),56.5

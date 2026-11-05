@@ -1,0 +1,9 @@
+Measurement,Result
+CICIDS2017 detection rate (%),66.21
+Simulated detection rate (%),90.0
+Store and forward restored,64.0
+Analytics restored,57.0
+Expected analytics restored,42.37
+Expected permanent losses,32.63
+Expected analytics recovery rate (%),56.5
+False positive rate (%),36.63
