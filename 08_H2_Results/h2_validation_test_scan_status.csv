@@ -1,0 +1,13 @@
+population,scan_status,nonspoofing_scans,false_positives,false_positive_rate
+Final Test,Delayed,63,0,0.0
+Final Test,Denial of Service,30,3,0.1
+Final Test,Duplicate,57,10,0.17543859649122806
+Final Test,Invalid Location,72,6,0.08333333333333333
+Final Test,Normal,10114,1446,0.1429701403994463
+Final Test,Out of Sequence,70,12,0.17142857142857143
+Validation,Delayed,45,0,0.0
+Validation,Denial of Service,6,0,0.0
+Validation,Duplicate,46,0,0.0
+Validation,Invalid Location,38,0,0.0
+Validation,Normal,5039,0,0.0
+Validation,Out of Sequence,28,0,0.0

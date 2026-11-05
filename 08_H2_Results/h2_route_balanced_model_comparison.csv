@@ -1,0 +1,5 @@
+model,route_type,test_records,spoofing_records,accuracy,precision,recall,f1,balanced_accuracy,false_positive_rate,true_positives,false_positives,false_negatives,true_negatives
+Majority baseline,Overall,9469,116,0.9877494983630796,0.0,0.0,0.0,0.5,0.0,0,0,116,9353
+Logistic Regression,Overall,9469,116,0.9858485584539022,0.4296875,0.47413793103448276,0.45081967213114754,0.7331664743379407,0.0078049823586015185,55,73,61,9280
+Support Vector Machine,Overall,9469,116,1.0,1.0,1.0,1.0,1.0,0.0,116,0,0,9353
+Random Forest,Overall,9469,116,1.0,1.0,1.0,1.0,1.0,0.0,116,0,0,9353

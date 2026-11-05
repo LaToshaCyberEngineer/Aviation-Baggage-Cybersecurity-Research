@@ -1,0 +1,10 @@
+response_start_minute,protected_scans_per_minute,delivered_scans,lost_scans,average_delay_minutes
+0,0,60,15,14.25
+0,1,72,3,2.49
+0,2,72,3,2.39
+5,0,60,15,14.25
+5,1,72,3,3.74
+5,2,72,3,3.38
+10,0,60,15,14.25
+10,1,72,3,6.29
+10,2,72,3,5.39

@@ -1,0 +1,7 @@
+experiment,scenario,delivered_scans,lost_scans,delivery_rate_percent,average_delay_minutes
+DoS disruption,No buffering,0,75,0.0,
+DoS disruption,Buffering only,60,15,80.0,14.25
+DoS disruption,Rule response,60,15,80.0,14.25
+DoS disruption,ML response,72,3,96.0,3.74
+Normal scan false alert,False alert,69,6,92.0,1.9130434782608696
+Normal scan false alert,Normal processing,75,0,100.0,0.0

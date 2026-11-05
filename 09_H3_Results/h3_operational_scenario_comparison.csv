@@ -1,0 +1,5 @@
+scenario,delivered_scans,lost_scans,delivery_rate_percent,average_delay_minutes
+No buffering,0,75,0.0,
+Buffering only,60,15,80.0,14.25
+Rule response,60,15,80.0,14.25
+ML response,72,3,96.0,3.74

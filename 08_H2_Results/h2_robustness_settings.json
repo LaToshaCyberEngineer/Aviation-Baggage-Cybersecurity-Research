@@ -1,0 +1,12 @@
+{
+  "source_file": "06_Prepared_Data/02_Prepared_RFID_Data.csv",
+  "source_sha256": "33fa70a8cb17fd3109f9cd4618cd9f95a696dddd50c66fe4a8e6e9cbfd3a6848",
+  "test_records": 10517,
+  "test_spoofing_records": 111,
+  "test_baggage_journeys": 1500,
+  "group_split_seed": 42,
+  "validation_split_seed": 43,
+  "random_forest_threshold": 0.65,
+  "bootstrap_resamples": 300,
+  "notes": "Simulated RFID data; threshold selected without final test data"
+}

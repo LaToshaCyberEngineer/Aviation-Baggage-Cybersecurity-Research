@@ -1,0 +1,7 @@
+scan_status,false_alerts
+Normal,1446
+Delayed,12
+Out of Sequence,12
+Duplicate,10
+Invalid Location,6
+Denial of Service,3

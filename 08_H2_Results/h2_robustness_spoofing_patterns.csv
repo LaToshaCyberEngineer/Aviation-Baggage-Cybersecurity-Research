@@ -1,0 +1,4 @@
+spoofing_pattern,known_spoofing_scans,rf_detected,adjusted_rf_detected,rf_recall,adjusted_rf_recall
+Cloned Reader Location,43,43,43,1.0,1.0
+Replayed Reader Timing,35,35,35,1.0,1.0
+Unauthorized Reader,33,33,33,1.0,1.0

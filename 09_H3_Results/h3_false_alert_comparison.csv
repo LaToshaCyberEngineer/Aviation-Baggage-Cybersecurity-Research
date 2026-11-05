@@ -1,0 +1,3 @@
+scenario,delivered_scans,lost_scans,average_delay_minutes,delivery_rate_percent
+False alert,69,6,1.9130434782608696,92.0
+Normal processing,75,0,0.0,100.0

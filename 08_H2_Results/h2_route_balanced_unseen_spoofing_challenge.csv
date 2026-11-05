@@ -1,0 +1,10 @@
+excluded_pattern,model,unseen_test_scans,unseen_detected,unseen_recall,seen_test_scans,seen_recall,false_positives,false_positive_rate
+Unauthorized Reader,Logistic Regression,38,0,0.0,78,0.5897,29,0.0031
+Unauthorized Reader,Support Vector Machine,38,0,0.0,78,0.9872,0,0.0
+Unauthorized Reader,Random Forest,38,0,0.0,78,1.0,0,0.0
+Cloned Reader Location,Logistic Regression,39,0,0.0,77,0.5584,16,0.0017
+Cloned Reader Location,Support Vector Machine,39,0,0.0,77,1.0,0,0.0
+Cloned Reader Location,Random Forest,39,0,0.0,77,1.0,0,0.0
+Replayed Reader Timing,Logistic Regression,39,0,0.0,77,0.3896,1907,0.2039
+Replayed Reader Timing,Support Vector Machine,39,0,0.0,77,1.0,0,0.0
+Replayed Reader Timing,Random Forest,39,0,0.0,77,1.0,0,0.0

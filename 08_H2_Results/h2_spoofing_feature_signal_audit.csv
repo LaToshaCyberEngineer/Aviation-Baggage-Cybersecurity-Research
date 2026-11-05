@@ -1,0 +1,5 @@
+spoofing_pattern,test_scans,reader_identity_mismatches,reader_location_mismatches,timing_offsets_5_minutes,median_timing_difference_minutes
+Cloned Reader Location,39,0,39,0,0.0
+Non Spoofing,9353,0,72,82,0.0
+Replayed Reader Timing,39,0,0,39,8.0
+Unauthorized Reader,38,38,0,0,0.0

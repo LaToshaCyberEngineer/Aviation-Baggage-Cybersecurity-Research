@@ -1,0 +1,3 @@
+population,route_type,nonspoofing_scans,false_positives,false_positive_rate
+Final Test,Transfer,10406,1477,0.14193734384009227
+Validation,Direct,5202,0,0.0
