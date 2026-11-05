@@ -1,0 +1,4 @@
+Model,True Positives,True Negatives,False Positives,False Negatives
+Logistic Regression,2148,201575,7496,2
+Support Vector Machine,2150,201533,7538,0
+Random Forest,2149,202407,6664,1
