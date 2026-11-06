@@ -1,0 +1,24 @@
+Scenario,Records,True Positives,True Negatives,False Positives,False Negatives,Accuracy,Precision,Recall,F1 Score,Test,Removed Control,Fewer True Positives,Change in False Positives,Control Tested,Timing Limit (min),Duplicate Limit (min),Offset (min),Sampled Normal Scans,Alerts in Sample,Sample False Alert Rate
+Traditional rules,31575,825,30225,0,525,0.9833729216152018,1.0,0.6111111111111112,0.7586206896551724,Original H1 baseline,,,,,,,,,,
+Zero Trust,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,Original H1 baseline,,,,,,,,,,
+Without Required information,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,Control removal,Required information,0.0,0.0,,,,,,,
+Without Authorized reader,31575,900,30225,0,450,0.9857482185273159,1.0,0.6666666666666666,0.8,Control removal,Authorized reader,375.0,0.0,,,,,,,
+Without Location match,31575,1050,30225,0,300,0.9904988123515439,1.0,0.7777777777777778,0.875,Control removal,Location match,225.0,0.0,,,,,,,
+Without Custody sequence,31575,1050,30225,0,300,0.9904988123515439,1.0,0.7777777777777778,0.875,Control removal,Custody sequence,225.0,0.0,,,,,,,
+Without Timing check,31575,1050,30225,0,300,0.9904988123515439,1.0,0.7777777777777778,0.875,Control removal,Timing check,225.0,0.0,,,,,,,
+Without Duplicate check,31575,1050,30225,0,300,0.9904988123515439,1.0,0.7777777777777778,0.875,Control removal,Duplicate check,225.0,0.0,,,,,,,
+Timing limit: 5 minutes,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,Threshold sensitivity,,,,Timing,5.0,1.0,,,,
+Timing limit: 10 minutes,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,Threshold sensitivity,,,,Timing,10.0,1.0,,,,
+Timing limit: 15 minutes,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,Threshold sensitivity,,,,Timing,15.0,1.0,,,,
+Timing limit: 20 minutes,31575,1050,30225,0,300,0.9904988123515439,1.0,0.7777777777777778,0.875,Threshold sensitivity,,,,Timing,20.0,1.0,,,,
+Timing limit: 25 minutes,31575,1050,30225,0,300,0.9904988123515439,1.0,0.7777777777777778,0.875,Threshold sensitivity,,,,Timing,25.0,1.0,,,,
+Timing limit: 30 minutes,31575,1050,30225,0,300,0.9904988123515439,1.0,0.7777777777777778,0.875,Threshold sensitivity,,,,Timing,30.0,1.0,,,,
+Duplicate limit: 0 minutes,31575,1050,30225,0,300,0.9904988123515439,1.0,0.7777777777777778,0.875,Threshold sensitivity,,,,Duplicate,15.0,0.0,,,,
+Duplicate limit: 0.5 minutes,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,Threshold sensitivity,,,,Duplicate,15.0,0.5,,,,
+Duplicate limit: 1 minutes,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,Threshold sensitivity,,,,Duplicate,15.0,1.0,,,,
+Duplicate limit: 2 minutes,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,Threshold sensitivity,,,,Duplicate,15.0,2.0,,,,
+Duplicate limit: 5 minutes,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,Threshold sensitivity,,,,Duplicate,15.0,5.0,,,,
+Assumed-normal expected-time offset: 5 min,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,Assumed-normal timing variation,,,,,,,5.0,300.0,0.0,0.0
+Assumed-normal expected-time offset: 10 min,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,Assumed-normal timing variation,,,,,,,10.0,300.0,0.0,0.0
+Assumed-normal expected-time offset: 20 min,31575,1275,29925,300,75,0.9881235154394299,0.8095238095238095,0.9444444444444444,0.8717948717948718,Assumed-normal timing variation,,,,,,,20.0,300.0,300.0,1.0
+Assumed-normal expected-time offset: 25 min,31575,1275,29925,300,75,0.9881235154394299,0.8095238095238095,0.9444444444444444,0.8717948717948718,Assumed-normal timing variation,,,,,,,25.0,300.0,300.0,1.0

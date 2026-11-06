@@ -1,0 +1,44 @@
+{
+  "notebook": "05_Praxis_H1_Control_Contribution_and_Sensitivity_Analysis.ipynb",
+  "hypothesis": "H1",
+  "created_utc": "2026-11-06T18:43:54.516327+00:00",
+  "source_file": "06_Prepared_Data/02_Prepared_RFID_Data.csv",
+  "source_sha256": "33fa70a8cb17fd3109f9cd4618cd9f95a696dddd50c66fe4a8e6e9cbfd3a6848",
+  "source_records": 31575,
+  "source_baggage_journeys": 5000,
+  "security_controls": [
+    "Required information",
+    "Authorized reader",
+    "Location match",
+    "Custody sequence",
+    "Timing check",
+    "Duplicate check"
+  ],
+  "reference_timing_minutes": 15,
+  "reference_duplicate_minutes": 1,
+  "tested_timing_thresholds": [
+    5,
+    10,
+    15,
+    20,
+    25,
+    30
+  ],
+  "tested_duplicate_thresholds": [
+    0,
+    0.5,
+    1,
+    2,
+    5
+  ],
+  "variation_sample_seed": 42,
+  "variation_normal_scans_sampled": 300,
+  "variation_expected_time_offsets_minutes": [
+    5,
+    10,
+    20,
+    25
+  ],
+  "method_note": "The same original simulated RFID dataset was reused. Normal labels in variation tests are assumed to remain valid. Results are not independent field validation.",
+  "original_source_unchanged": true
+}

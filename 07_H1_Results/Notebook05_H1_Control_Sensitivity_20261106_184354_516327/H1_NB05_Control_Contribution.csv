@@ -1,0 +1,7 @@
+Scenario,Records,True Positives,True Negatives,False Positives,False Negatives,Accuracy,Precision,Recall,F1 Score,Removed Control,Fewer True Positives,Change in False Positives
+Without Required information,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,Required information,0,0
+Without Authorized reader,31575,900,30225,0,450,0.9857482185273159,1.0,0.6666666666666666,0.8,Authorized reader,375,0
+Without Location match,31575,1050,30225,0,300,0.9904988123515439,1.0,0.7777777777777778,0.875,Location match,225,0
+Without Custody sequence,31575,1050,30225,0,300,0.9904988123515439,1.0,0.7777777777777778,0.875,Custody sequence,225,0
+Without Timing check,31575,1050,30225,0,300,0.9904988123515439,1.0,0.7777777777777778,0.875,Timing check,225,0
+Without Duplicate check,31575,1050,30225,0,300,0.9904988123515439,1.0,0.7777777777777778,0.875,Duplicate check,225,0

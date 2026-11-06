@@ -1,0 +1,5 @@
+Scenario,Records,True Positives,True Negatives,False Positives,False Negatives,Accuracy,Precision,Recall,F1 Score,Offset (min),Sampled Normal Scans,Alerts in Sample,Sample False Alert Rate
+Assumed-normal expected-time offset: 5 min,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,5,300,0,0.0
+Assumed-normal expected-time offset: 10 min,31575,1275,30225,0,75,0.997624703087886,1.0,0.9444444444444444,0.9714285714285714,10,300,0,0.0
+Assumed-normal expected-time offset: 20 min,31575,1275,29925,300,75,0.9881235154394299,0.8095238095238095,0.9444444444444444,0.8717948717948718,20,300,300,1.0
+Assumed-normal expected-time offset: 25 min,31575,1275,29925,300,75,0.9881235154394299,0.8095238095238095,0.9444444444444444,0.8717948717948718,25,300,300,1.0
