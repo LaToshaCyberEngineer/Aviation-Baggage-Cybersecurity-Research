@@ -1,0 +1,9 @@
+model,family,attack_recall,attack_records
+Logistic Regression,gafgyt,0.9986619090098127,2242
+Logistic Regression,mirai,0.9985272459499264,1358
+Majority Baseline,gafgyt,0.0,2242
+Majority Baseline,mirai,0.0,1358
+Random Forest,gafgyt,0.9995539696699376,2242
+Random Forest,mirai,1.0,1358
+Support Vector Machine,gafgyt,0.9950936663693131,2242
+Support Vector Machine,mirai,0.9992636229749632,1358
