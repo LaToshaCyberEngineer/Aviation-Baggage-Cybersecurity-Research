@@ -1,0 +1,37 @@
+accuracy,balanced_accuracy,precision,recall,f1_score,true_positives,true_negatives,false_positives,false_negatives,false_positive_rate,model,device
+1.0,1.0,1.0,1.0,1.0,400,400,0,0,0.0,Logistic Regression,Danmini_Doorbell
+0.9975,0.9975,0.9950248756218906,1.0,0.9975062344139651,400,398,2,0,0.005,Logistic Regression,Ecobee_Thermostat
+0.9975,0.9975,0.9950248756218906,1.0,0.9975062344139651,400,398,2,0,0.005,Logistic Regression,Ennio_Doorbell
+0.995,0.9950000000000001,0.9925373134328358,0.9975,0.9950124688279302,399,397,3,1,0.0075,Logistic Regression,Philips_B120N10_Baby_Monitor
+0.99625,0.9962500000000001,0.9950124688279302,0.9975,0.9962546816479401,399,398,2,1,0.005,Logistic Regression,Provision_PT_737E_Security_Camera
+0.99625,0.9962500000000001,0.9974937343358395,0.995,0.9962453066332916,398,399,1,2,0.0025,Logistic Regression,Provision_PT_838_Security_Camera
+1.0,1.0,1.0,1.0,1.0,400,400,0,0,0.0,Logistic Regression,Samsung_SNH_1011_N_Webcam
+0.98375,0.98375,0.9685230024213075,1.0,0.984009840098401,400,387,13,0,0.0325,Logistic Regression,SimpleHome_XCS7_1002_WHT_Security_Camera
+0.9975,0.9975,0.9975,0.9975,0.9975,399,399,1,1,0.0025,Logistic Regression,SimpleHome_XCS7_1003_WHT_Security_Camera
+0.5,0.5,0.0,0.0,0.0,0,400,0,400,0.0,Majority Baseline,Danmini_Doorbell
+0.5,0.5,0.0,0.0,0.0,0,400,0,400,0.0,Majority Baseline,Ecobee_Thermostat
+0.5,0.5,0.0,0.0,0.0,0,400,0,400,0.0,Majority Baseline,Ennio_Doorbell
+0.5,0.5,0.0,0.0,0.0,0,400,0,400,0.0,Majority Baseline,Philips_B120N10_Baby_Monitor
+0.5,0.5,0.0,0.0,0.0,0,400,0,400,0.0,Majority Baseline,Provision_PT_737E_Security_Camera
+0.5,0.5,0.0,0.0,0.0,0,400,0,400,0.0,Majority Baseline,Provision_PT_838_Security_Camera
+0.5,0.5,0.0,0.0,0.0,0,400,0,400,0.0,Majority Baseline,Samsung_SNH_1011_N_Webcam
+0.5,0.5,0.0,0.0,0.0,0,400,0,400,0.0,Majority Baseline,SimpleHome_XCS7_1002_WHT_Security_Camera
+0.5,0.5,0.0,0.0,0.0,0,400,0,400,0.0,Majority Baseline,SimpleHome_XCS7_1003_WHT_Security_Camera
+1.0,1.0,1.0,1.0,1.0,400,400,0,0,0.0,Random Forest,Danmini_Doorbell
+1.0,1.0,1.0,1.0,1.0,400,400,0,0,0.0,Random Forest,Ecobee_Thermostat
+1.0,1.0,1.0,1.0,1.0,400,400,0,0,0.0,Random Forest,Ennio_Doorbell
+1.0,1.0,1.0,1.0,1.0,400,400,0,0,0.0,Random Forest,Philips_B120N10_Baby_Monitor
+1.0,1.0,1.0,1.0,1.0,400,400,0,0,0.0,Random Forest,Provision_PT_737E_Security_Camera
+0.99875,0.99875,1.0,0.9975,0.9987484355444305,399,400,0,1,0.0,Random Forest,Provision_PT_838_Security_Camera
+1.0,1.0,1.0,1.0,1.0,400,400,0,0,0.0,Random Forest,Samsung_SNH_1011_N_Webcam
+0.98625,0.9862500000000001,0.9732360097323601,1.0,0.9864364981504316,400,389,11,0,0.0275,Random Forest,SimpleHome_XCS7_1002_WHT_Security_Camera
+1.0,1.0,1.0,1.0,1.0,400,400,0,0,0.0,Random Forest,SimpleHome_XCS7_1003_WHT_Security_Camera
+0.99875,0.99875,1.0,0.9975,0.9987484355444305,399,400,0,1,0.0,Support Vector Machine,Danmini_Doorbell
+0.99625,0.9962500000000001,0.9925558312655087,1.0,0.9962640099626401,400,397,3,0,0.0075,Support Vector Machine,Ecobee_Thermostat
+0.99375,0.99375,0.9925187032418953,0.995,0.9937578027465668,398,397,3,2,0.0075,Support Vector Machine,Ennio_Doorbell
+0.995,0.9950000000000001,0.9974874371859297,0.9925,0.9949874686716792,397,399,1,3,0.0025,Support Vector Machine,Philips_B120N10_Baby_Monitor
+0.9975,0.9975,0.9950248756218906,1.0,0.9975062344139651,400,398,2,0,0.005,Support Vector Machine,Provision_PT_737E_Security_Camera
+0.995,0.9950000000000001,0.9974874371859297,0.9925,0.9949874686716792,397,399,1,3,0.0025,Support Vector Machine,Provision_PT_838_Security_Camera
+0.9975,0.9975,1.0,0.995,0.9974937343358395,398,400,0,2,0.0,Support Vector Machine,Samsung_SNH_1011_N_Webcam
+0.96,0.96,0.9279069767441861,0.9975,0.9614457831325302,399,369,31,1,0.0775,Support Vector Machine,SimpleHome_XCS7_1002_WHT_Security_Camera
+0.995,0.995,0.9900990099009901,1.0,0.9950248756218906,400,396,4,0,0.01,Support Vector Machine,SimpleHome_XCS7_1003_WHT_Security_Camera

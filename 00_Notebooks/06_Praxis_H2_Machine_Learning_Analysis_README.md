@@ -45,3 +45,29 @@ A false positive is a normal-for-this-task scan incorrectly flagged as spoofing.
 
 16. What needs to be explained when discussing this notebook?
 Why the labels are uneven, why the split matters, and why accuracy, precision, and recall point to different conclusions. The numbers show what happened under this simulated test, not what would happen at an airline.
+17. What was added to Notebook 06?
+Step 10 adds three more scores and two figures. It uses the same trained models and testing records. It does not change the original model comparison.
+
+18. What is PR-AUC?
+It looks at how precision and recall change when the model uses different cutoffs for making a spoofing prediction. It can help show what happens when spoofing records are rare.
+
+19. What is Average Precision?
+It is another way to summarize precision and recall across different cutoffs. The calculation is a little different from PR-AUC, so both numbers are shown separately.
+
+20. What is ROC-AUC?
+It checks how well a model gives higher spoofing scores to the spoofing scans than to other scans. A higher score generally means the model is better at separating the two groups. It does not tell us how many false alerts we would get at one chosen cutoff.
+
+21. Does Step 10 train the models again?
+No. The three models are trained in Step 7. Step 10 uses their existing scores and the testing data to calculate more evaluation measures.
+
+22. Why were SMOTE and ADASYN not used?
+Those methods were not part of the completed Notebook 06 experiment. The original models used balanced class weighting instead. Additional sampling methods can be tested in future research, but they should not be described as methods used in this notebook.
+
+23. How do I run this notebook?
+Open the notebook in the Praxis project folder and make sure the prepared RFID file is available. Run the code from Step 1 through Step 10 in order. Starting at Step 10 in a new Python session will not work because the earlier steps create the testing data and train the models.
+
+24. Where are the new results saved?
+The results are saved under 08_H2_Results/Notebook_06_Simplified_Review. This is a separate folder that keeps the original Notebook 06 results from being replaced.
+
+25. What should I check before updating the praxis?
+Check that the original model results still match the saved experiment. Then review the new PR-AUC, Average Precision, and ROC-AUC values. These numbers should come from the code output, not from an estimate.

@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score,False Positive Rate,False Negative Rate,True Negatives,False Positives,False Negatives,True Positives
+Logistic Regression,0.8521441475706,0.04071246819338423,0.5765765765765766,0.07605466428995841,0.14491639438785317,0.42342342342342343,8898,1508,47,64

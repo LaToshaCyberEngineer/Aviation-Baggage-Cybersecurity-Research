@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score,False Positive Rate,False Negative Rate,True Negatives,False Positives,False Negatives,True Positives
+Random Forest,0.8584197014357706,0.069375,1.0,0.12974868497954412,0.14309052469729003,0.0,8917,1489,0,111
