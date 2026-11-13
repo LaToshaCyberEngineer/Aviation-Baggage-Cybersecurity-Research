@@ -13,7 +13,7 @@ Doctoral research at The George Washington University examining how Zero Trust A
 | [02_Praxis_RFID_Data_Preparation.ipynb](00_Notebooks/02_Praxis_RFID_Data_Preparation.ipynb) | Data Preparation | File present |
 | [03_Praxis_H1_Zero_Trust_Analysis.ipynb](00_Notebooks/03_Praxis_H1_Zero_Trust_Analysis.ipynb) | H1: Zero Trust | File present |
 | [04_Praxis_H1_RFID_and_IoT23_Validation.ipynb](00_Notebooks/04_Praxis_H1_RFID_and_IoT23_Validation.ipynb) | H1: Zero Trust | File present |
-| 05: H1 Control Contribution and Sensitivity Analysis | H1: Zero Trust | Planned |
+| [05_Praxis_H1_Control_Contribution_and_Sensitivity_Analysis.ipynb](00_Notebooks/05_Praxis_H1_Control_Contribution_and_Sensitivity_Analysis.ipynb) | H1: Zero Trust | Complete |
 | [06_Praxis_H2_Machine_Learning_Analysis.ipynb](00_Notebooks/06_Praxis_H2_Machine_Learning_Analysis.ipynb) | H2: Machine Learning | File present |
 | [07_Praxis_H2_CICIoT2023_Spoofing_Analysis.ipynb](00_Notebooks/07_Praxis_H2_CICIoT2023_Spoofing_Analysis.ipynb) | H2: Machine Learning | File present |
 | [08_Praxis_H2_Model_Performance_and_Robustness_Validation.ipynb](00_Notebooks/08_Praxis_H2_Model_Performance_and_Robustness_Validation.ipynb) | H2: Machine Learning | File present |
@@ -21,7 +21,7 @@ Doctoral research at The George Washington University examining how Zero Trust A
 | [10_Praxis_H3_CICIDS2017_Operational_Validation.ipynb](00_Notebooks/10_Praxis_H3_CICIDS2017_Operational_Validation.ipynb) | H3: DoS and Recovery | File present |
 | [11_Praxis_H3_Adaptive_Response_Validation.ipynb](00_Notebooks/11_Praxis_H3_Adaptive_Response_Validation.ipynb) | H3: DoS and Recovery | File present |
 | [12_Praxis_H3_Operational_Simulation_Demonstration.ipynb](00_Notebooks/12_Praxis_H3_Operational_Simulation_Demonstration.ipynb) | H3: DoS and Recovery | File present |
-| [13_Praxis_IoT_N_BaIoT_Data_Exploration.ipynb](00_Notebooks/13_Praxis_IoT_N_BaIoT_Data_Exploration.ipynb) | Supplemental IoT | Unfinished |
+| [13_Praxis_IoT_N_BaIoT_Data_Exploration.ipynb](00_Notebooks/13_Praxis_IoT_N_BaIoT_Data_Exploration.ipynb) | Supplemental IoT | Complete |
 
 ### Research Results
 
