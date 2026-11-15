@@ -31,7 +31,7 @@ Doctoral research at The George Washington University examining how Zero Trust A
 
 ### Research Documentation
 
-- [Detailed Notebook Guide](00_Notebooks/README.md)
+- [Detailed Notebook Guide](00_Notebooks/DEFENSE_README_INDEX.md)
 
 The aviation RFID baggage scan records are simulated.
 Public IoT security datasets support separate validation experiments.
